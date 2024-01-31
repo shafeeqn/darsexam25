@@ -31,7 +31,6 @@ export default function Dashboard() {
   }>();
 
   useEffect(() => {
-    localStorage.setItem("user", "244841");
     console.log(localStorage.getItem("user"));
     console.log(
       students.find(
