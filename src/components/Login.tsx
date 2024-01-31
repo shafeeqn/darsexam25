@@ -54,27 +54,61 @@ const Login = () => {
   };
 
   return (
-    <div>
-      <form onSubmit={handleSubmit}>
-        <h1>Login</h1>
-        <p>{error}</p>
-        <p>Username</p>
-        <input
-          onChange={(e) => setUsername(e.target.value)}
-          type="text"
-          name=""
-          id=""
-        />
-        <p>Password</p>
-        <input
-          onChange={(e) => setPassword(e.target.value)}
-          type="text"
-          name=""
-          id=""
-        />
-        <input type="submit" />
-      </form>
+    // <div>
+    //   <form onSubmit={handleSubmit}>
+    //     <h1>Login</h1>
+    //     <p>{error}</p>
+    //     <p>Username</p>
+    //     <input
+    //       onChange={(e) => setUsername(e.target.value)}
+    //       type="text"
+    //       name=""
+    //       id=""
+    //     />
+    //     <p>Password</p>
+    //     <input
+    //       onChange={(e) => setPassword(e.target.value)}
+    //       type="text"
+    //       name=""
+    //       id=""
+    //     />
+    //     <input type="submit" />
+    //   </form>
+    // </div>
+
+    <div className="flex w-screen h-screen bg-smoke items-center justify-center bg">
+    <form onSubmit={handleSubmit} className="bg-white flex flex-col h-fit w-96 p-10 rounded-xl gap-3 items-center">
+      <div className='w-20'>
+        <img onClick={()=>{
+          Router.push('/')
+        }} className='object-contain cursor-pointer' src="/logo/logo-only.png" alt="Logo" />
+      </div>
+      <h1 className="text-center font-semibold text-2xl">Login to <span className="font-extrabold text-primary">Exam Portal</span></h1>
+      <p>
+        {error && <span className="text-red-500">{error}</span>}
+      </p>
+      <input
+        type="text"
+        placeholder="Username"
+        onChange={(e: any) => setUsername(e.target.value)}
+        className="px-3 py-2 rounded-lg border focus:border-primary"
+        required
+      />
+      <input
+        type="password"
+        placeholder="Password"
+        onChange={(e: any) => setPassword(e.target.value)}
+        className="px-3 py-2 rounded-lg border focus:border-primary"
+        required
+      />
+      <button type="submit" className="hover:bg-light border-primary border rounded-lg text-white px-3 py-1 bg-primary">
+        Login
+      </button>
+    </form>
+
+    <div className="mt-4">
     </div>
+  </div>
   );
 };
 
