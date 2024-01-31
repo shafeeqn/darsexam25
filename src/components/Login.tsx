@@ -78,12 +78,12 @@ const Login = () => {
 
     <div className="flex w-screen h-screen bg-smoke items-center justify-center bg">
     <form onSubmit={handleSubmit} className="bg-white flex flex-col h-fit w-96 p-10 rounded-xl gap-3 items-center">
-      <div className='w-20'>
+      <div className='w-64'>
         <img onClick={()=>{
           Router.push('/')
-        }} className='object-contain cursor-pointer' src="/logo/logo-only.png" alt="Logo" />
+        }} className='object-contain cursor-pointer' src="/Logo.png" alt="Logo" />
       </div>
-      <h1 className="text-center font-semibold text-2xl">Login to <span className="font-extrabold text-primary">Exam Portal</span></h1>
+      <h1 className="text-center font-semibold text-xl">Login to <span className="font-extrabold text-primary">Exam Portal</span></h1>
       <p>
         {error && <span className="text-red-500">{error}</span>}
       </p>
