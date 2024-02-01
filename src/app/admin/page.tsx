@@ -55,7 +55,7 @@ const page = () => {
 
   return (
     <div
-      className="flex flex-col my-5 items-center uppercase print:scale-[80%] print:text-xs"
+      className="flex flex-col my-5 items-center uppercase"
       ref={componentPDF as any}
     >
       <div className="flex flex-col justify-center items-center border-2 border-dotted border-black p-1 rounded-lg">
