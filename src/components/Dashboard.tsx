@@ -20,7 +20,7 @@ export default function Dashboard() {
     },
   ];
 
-  const user = localStorage.getItem("user");
+  
   const router = useRouter();
   const [student, setStudent] = useState<{
     StudentId: number;
@@ -35,6 +35,8 @@ export default function Dashboard() {
   }>();
 
   useEffect(() => {
+    const user = localStorage.getItem("user");
+    
     if (!user || user === "") {
       router.push("/login");
     }
