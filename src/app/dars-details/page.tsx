@@ -58,7 +58,10 @@ const page = () => {
       className="flex flex-col my-5 items-center uppercase"
       ref={componentPDF as any}
     >
-      <div className="flex flex-col justify-center items-center border-2 border-dotted border-black p-1 rounded-lg">
+      <div className="flex flex-col justify-center items-center  uppercase print:hidden">
+        <img src="/Logo.png" alt="" className="w-1/2" />
+      </div>
+      <div className="flex flex-col justify-center items-center border-2 border-dotted border-black p-1 rounded-lg mt-5">
         <p className="text-center text-3xl text-black font-semibold rounded-lg p-1">
           {dars.find((drs) => drs.DarsCode === username)?.Dars}
         </p>

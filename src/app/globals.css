@@ -12,3 +12,15 @@
 .font-arabic {
   font-family: "sheherzade", sans-serif;
 }
+
+.remove-arrow {
+  -webkit-appearance: inherit;
+  -moz-appearance: inherit;
+  text-indent: 1px;
+  text-overflow: "";
+}
+
+::-webkit-scrollbar {
+  width: 1px;
+  height: 1px;
+}
