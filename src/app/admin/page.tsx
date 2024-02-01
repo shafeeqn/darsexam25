@@ -55,10 +55,10 @@ const page = () => {
 
   return (
     <div
-      className="flex flex-col my-5 items-center uppercase print:scale-[98.5%] print:text-xs"
+      className="flex flex-col my-5 items-center uppercase print:scale-[80%] print:text-xs"
       ref={componentPDF as any}
     >
-      <div className="flex flex-col justify-center items-center border-2 border-dotted border-black p-1 rounded-lg print:hidden">
+      <div className="flex flex-col justify-center items-center border-2 border-dotted border-black p-1 rounded-lg">
         <p className="text-center text-3xl text-black font-semibold rounded-lg p-1">
           {dars.find((drs) => drs.DarsCode === username)?.Dars}
         </p>
@@ -69,7 +69,16 @@ const page = () => {
           {dars.find((drs) => drs.DarsCode === username)?.DarsCode}
         </p>
       </div>
-      <div className="flex flex-col justify-center items-center mt-3 uppercase print:hidden">
+      <div className="flex flex-col justify-center items-center mt-3 uppercase print:opacity-100 opacity-0">
+        <p className="text-center text-black font-semibold rounded-t-lg border-dotted p-1 text-2xl">
+          {category === "all"
+            ? "ALL CATEGORIES"
+            : (categories.find((ctgry) => {
+                return ctgry.shortName === category;
+              })?.fullName as any)}
+        </p>
+      </div>
+      <div className="flex flex-col justify-center items-center  uppercase print:hidden -mt-7">
         <p className="text-center text-black font-semibold rounded-t-lg border-dotted p-1 text-2xl">
           Student Details
         </p>
