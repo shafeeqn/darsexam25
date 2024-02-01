@@ -45,12 +45,12 @@ export default function Home() {
           <a href="/login" className="hover:bg-light border-primary border rounded-lg text-white px-3 py-1 bg-primary">
             Login
           </a>
-          <a href="/about" className="hover:bg-light border-primary border rounded-lg text-white px-3 py-1 bg-primary">
+          {/* <a href="/about" className="hover:bg-light border-primary border rounded-lg text-white px-3 py-1 bg-primary">
             About
           </a>
           <a href="/student" className="hover:bg-light border-primary border rounded-lg text-white px-3 py-1 bg-primary">
             Student
-          </a>
+          </a> */}
         </div>
 </div>
         
