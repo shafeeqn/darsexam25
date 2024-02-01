@@ -53,7 +53,7 @@ const page = () => {
           {subjects
             .filter((subject) => subject.Id[0] === category)
             .map((subject) => (
-              <option key={subject.Id} value={subject.Id}>
+              <option key={subject.Id} value={subject.Id} dir="rtl">
                 {subject.Name}
               </option>
             ))}
