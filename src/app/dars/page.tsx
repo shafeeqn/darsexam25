@@ -6,6 +6,7 @@ import Subjects from "../../data/subjects.json";
 const page = () => {
   const [username, setUsername] = useState<string>("");
   const [isStudent, setIsStudent] = useState<boolean>(true);
+  const [selectedSubject, setSelectedSubject] = useState<string>("");
 
   useEffect(() => {
     setUsername(JSON.parse(localStorage.getItem("user") as string));
@@ -26,10 +27,53 @@ const page = () => {
 
   const subjects = Subjects.filter((subject) => subjectId.includes(subject.Id));
   console.log(subjects);
+
+
+  const handleDownload = async () => {
+    console.log("Hai");
+    try {
+      const postData = {
+        subject: selectedSubject,
+        students: students.filter((student) => student.Subject1 == selectedSubject || student.Subject2 == selectedSubject),
+      };
+      // Make a POST request to the Excel API route
+      const response = await fetch("/api/excel/students", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json", // Specify the content type if sending JSON data
+        },
+        body: JSON.stringify(postData),
+      });
+
+      console.log(response);
+      
+
+      if (response.ok) {
+        // Convert the response to a Blob and create a URL for downloading
+        const blob = await response.blob();
+        const url = window.URL.createObjectURL(blob);
+
+        // Create a download link and trigger the download
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = "Status.xlsx";
+        a.click();
+
+        // Clean up by revoking the URL
+
+        window.URL.revokeObjectURL(url);
+      } else {
+        console.error("Failed to generate Excel file.");
+      }
+    } catch (error) {
+      console.error("Error:", error);
+    }
+  };
+
   
 
   return (
-    <div>
+    <div> 
 
       {/* <div className="w-full flex justify-between">
 
@@ -142,7 +186,11 @@ const page = () => {
             //   <button>Download</button>
             // </div>
 
-<div className="relative flex m-2  flex-col mt-6 text-gray-700 bg-white shadow-md bg-clip-border rounded-xl w-1/5">
+<div onClick={
+  () => {
+    setSelectedSubject(subject.Name);
+  }
+} className="relative flex m-2  flex-col mt-6 text-gray-700 bg-white shadow-md bg-clip-border rounded-xl w-1/5">
 <div className="p-6">
   <h5 className="block mb-2 font-sans text-xl antialiased font-semibold leading-snug tracking-normal text-blue-gray-900">
   {subject.Id}
@@ -153,6 +201,7 @@ const page = () => {
 </div>
 <div className="p-6 pt-0">
   <button
+    onClick={async ()=> await handleDownload()}
     className="align-middle select-none font-sans font-bold text-center uppercase transition-all disabled:opacity-50 disabled:shadow-none disabled:pointer-events-none text-xs py-3 px-6 rounded-lg bg-gray-900 text-white shadow-md shadow-gray-900/10 hover:shadow-lg hover:shadow-gray-900/20 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none"
     type="button">
     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
