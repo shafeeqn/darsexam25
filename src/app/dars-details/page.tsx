@@ -128,12 +128,15 @@ const page = () => {
           </svg>
         </button>
       </div>
-      {students.filter((student) => student.Category === category).length >
-      0 ? (
+      {students.filter(
+        category === "all"
+          ? (student) => student
+          : (student) => student.Category === category
+      ).length > 0 ? (
         <>
           <div className="flex w-full justify-center mt-3">
             <p className="w-40 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              Student Number
+              Reg No
             </p>
             <p className="w-60 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               Name
@@ -149,7 +152,11 @@ const page = () => {
             </p>
           </div>
           {students
-            .filter((student) => student.Category === category)
+            .filter(
+              category === "all"
+                ? (student) => student
+                : (student) => student.Category === category
+            )
             .map((student, index) => (
               <div key={index} className="flex w-full justify-center">
                 <p className="w-40 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
@@ -187,63 +194,6 @@ const page = () => {
                 </p>
               </div>
             ))}
-        </>
-      ) : category === "all" ? (
-        <>
-          <div className="flex w-full justify-center mt-3">
-            <p className="w-32 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              Student ID
-            </p>
-            <p className="w-60 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              Name
-            </p>
-            <p className="w-40 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              Category
-            </p>
-            <p className="w-72 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              Subject 1
-            </p>
-            <p className="w-72 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              Subject 2
-            </p>
-          </div>
-          {students.map((student, index) => (
-            <div key={index} className="flex w-full justify-center">
-              <p className="w-32 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-                {student.StudentId}
-              </p>
-              <p className="w-60 text-left line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-                {student.Name}
-              </p>
-              <p className="w-40 text-left line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-                {
-                  categories.find((category) => {
-                    return category.shortName === student?.Category;
-                  })?.fullName as any
-                }
-              </p>
-              <p
-                className="w-72 text-right line-clamp-1 font-semibold pr-2 border-[1px] border-black text-md font-arabic"
-                dir="rtl"
-              >
-                {subjects.map((subject) => {
-                  if (subject.Id === student.Subject1) {
-                    return subject.Name;
-                  }
-                })}{" "}
-              </p>
-              <p
-                className="w-72 text-right line-clamp-1 font-semibold pr-2 border-[1px] border-black text-md font-arabic"
-                dir="rtl"
-              >
-                {subjects.map((subject) => {
-                  if (subject.Id === student.Subject2) {
-                    return subject.Name;
-                  }
-                })}{" "}
-              </p>
-            </div>
-          ))}
         </>
       ) : (
         <p className="text-center text-black mt-3 font-semibold">

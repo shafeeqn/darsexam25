@@ -50,7 +50,7 @@ const page = () => {
           ? null
           : darsesToSubject.push(student.Dars)
       );
-      return darsesToSubject;
+    return darsesToSubject;
   }
 
   return (
@@ -128,11 +128,8 @@ const page = () => {
         <p className="w-20 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
           SL NO
         </p>
-        <p className="w-40 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-          Student Number
-        </p>
         <p className="w-32 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-          Register No
+          Reg No
         </p>
         <p className="w-60 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
           Name
@@ -155,11 +152,8 @@ const page = () => {
             <p className="w-20 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               {index + 1}
             </p>
-            <p className="w-40 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              {student.StudentId}
-            </p>
             <p className="w-32 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              {student.RegNo}
+              {student.StudentId}
             </p>
             <p className="w-60 text-left line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               {student.Name}
