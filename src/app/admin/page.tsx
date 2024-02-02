@@ -82,7 +82,18 @@ const page = () => {
             }
           </p>
         </div>
-        <div className="flex w-full justify-center gap-2 text-xs font-semibold print:hidden">
+        <div className="flex flex-col justify-center items-center uppercase">
+          <p className="flex justify-center items-center text-base font-semibold  uppercase border-black bg-white text-black border-2 px-1 py-0.5 border-dotted rounded-md gap-1">
+            students:{
+              students.filter(
+                (student) =>
+                  student.Subject1 === selectedSubject ||
+                  student.Subject2 === selectedSubject
+              ).length
+            }{" "}
+          </p>
+        </div>
+        <div className="flex w-full justify-center gap-2 text-xs font-semibold print:hidden mt-2">
           <button
             onClick={() => generatePDF()}
             className={`flex justify-center items-center  uppercase border-white bg-black text-white border-2 p-1.5 border-dotted rounded-md gap-1`}
@@ -92,6 +103,9 @@ const page = () => {
         </div>
       </div>
       <div className="flex w-full justify-center mt-5">
+        <p className="w-20 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+          SL NO
+        </p>
         <p className="w-32 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
           Student ID
         </p>
@@ -116,6 +130,9 @@ const page = () => {
         )
         .map((student, index) => (
           <div key={index} className="flex w-full justify-center">
+            <p className="w-20 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+              {index + 1}
+            </p>
             <p className="w-32 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               {student.StudentId}
             </p>
