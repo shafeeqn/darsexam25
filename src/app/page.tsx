@@ -13,7 +13,7 @@ export default function Home() {
         />
         <br />
         <br />
-        <h1 className="md:text-5xl text-3xl font-bold">JAMIA DARS Examination Portal</h1>
+        <h1 className="md:text-5xl text-3xl font-bold">JM DARS Examination Portal</h1>
         </div> */}
 
 <div className="flex flex-col items-center justify-center">
@@ -34,7 +34,7 @@ export default function Home() {
         />
         {/* <br />
         <br /> */}
-        {/* <h1 className="md:text-5xl text-3xl font-bold">JAMIA DARS Examination Portal</h1> */}
+        {/* <h1 className="md:text-5xl text-3xl font-bold">JM DARS Examination Portal</h1> */}
 
         {/* three buttens */}
         <br />

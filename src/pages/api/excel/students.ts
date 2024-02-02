@@ -19,7 +19,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     sheet.mergeCells("A2:B2");
     const mainTitle = sheet.getCell("A1");
     const programTitle = sheet.getCell("A2");
-    mainTitle.value = "JAMIA DARS EXAMINATION";
+    mainTitle.value = "JM DARS EXAMINATION";
     mainTitle.alignment = {
       vertical: "middle",
       horizontal: "center",
