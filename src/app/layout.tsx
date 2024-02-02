@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "JM Examination Portal",
-  description: "JM Examination Portal",
+  title: "Jamiyyathul Mudarriseen Exam Portal",
+  description: "Jamiyyathul Mudarriseen Exam Portal",
 };
 
 export default function RootLayout({
