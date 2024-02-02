@@ -17,7 +17,7 @@ const Login = () => {
     // if matches then check the password is 123
 
     const student = Students.find(
-      (student) => student.StudentId === parseInt(username)
+      (student) => (student.StudentId as any) === parseInt(username)
     );
     const dars = Dars.find((dars) => dars.DarsCode === username);
     const admin = username === "JMADMIN" ? true : false;

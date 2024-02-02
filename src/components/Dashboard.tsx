@@ -35,17 +35,17 @@ export default function Dashboard() {
   }>();
 
   useEffect(() => {
-    const user = localStorage.getItem("user");
+    const user = JSON.parse(localStorage.getItem("user") as string);
     
     if (!user || user === "") {
       router.push("/login");
     }
-    console.log(
-      students.find((student) => student.StudentId === parseInt(user as string))
-    );
+    // console.log(
+    //   students.find((student) => student?.StudentId === parseInt(user as string))
+    // );
     setStudent(
       students.find(
-        (student) => student.StudentId === parseInt(user as string)
+        (student) => (student.StudentId as any) === parseInt(user as string)
       ) as any
     );
   }, []);
