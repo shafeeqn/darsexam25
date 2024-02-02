@@ -4,6 +4,7 @@ import { useReactToPrint } from "react-to-print";
 import Students from "../../data/students.json";
 import Subjects from "../../data/subjects.json";
 import dars from "../../data/dars.json";
+import { useRouter } from "next/navigation";
 
 const page = () => {
   const [username, setUsername] = useState<string>("");
@@ -11,6 +12,7 @@ const page = () => {
   const [selectedSubject, setSelectedSubject] = useState<string>("");
   const [query, setQuery] = useState<string>("");
   const [category, setCategory] = useState<string>("I");
+  const router = useRouter();
   const categories = [
     {
       shortName: "I",
@@ -28,6 +30,7 @@ const page = () => {
 
   useEffect(() => {
     setUsername(JSON.parse(localStorage.getItem("user") as string));
+    !localStorage.getItem("user") && router.push("/login");
   }, []);
 
   const students = Students.filter((student) => student.DarsCode == username);
@@ -129,8 +132,8 @@ const page = () => {
       0 ? (
         <>
           <div className="flex w-full justify-center mt-3">
-            <p className="w-32 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              Student ID
+            <p className="w-40 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+              Student Number
             </p>
             <p className="w-60 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               Name
@@ -149,7 +152,7 @@ const page = () => {
             .filter((student) => student.Category === category)
             .map((student, index) => (
               <div key={index} className="flex w-full justify-center">
-                <p className="w-32 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+                <p className="w-40 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
                   {student.StudentId}
                 </p>
                 <p className="w-60 text-left line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
