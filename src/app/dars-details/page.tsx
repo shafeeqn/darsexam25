@@ -147,8 +147,14 @@ const page = () => {
             <p className="w-60 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               Subject 1
             </p>
+            <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+              Mark
+            </p>
             <p className="w-60 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               Subject 2
+            </p>
+            <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+              Mark
             </p>
           </div>
           {students
@@ -182,6 +188,7 @@ const page = () => {
                     }
                   })}{" "}
                 </p>
+                <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm"></p>
                 <p
                   className="w-60 text-right line-clamp-1 font-semibold pr-2 border-[1px] border-black text-md font-arabic"
                   dir="rtl"
@@ -192,6 +199,7 @@ const page = () => {
                     }
                   })}{" "}
                 </p>
+                <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm"></p>
               </div>
             ))}
         </>
