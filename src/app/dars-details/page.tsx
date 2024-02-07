@@ -134,7 +134,7 @@ const page = () => {
           : (student) => student.Category === category
       ).length > 0 ? (
         <>
-          <div className="flex w-full justify-center mt-3">
+          <div className="flex w-full justify-center mt-3 h-6">
             <p className="w-[70px] text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               Reg No
             </p>
@@ -164,7 +164,7 @@ const page = () => {
                 : (student) => student.Category === category
             )
             .map((student, index) => (
-              <div key={index} className="flex w-full justify-center">
+              <div key={index} className="flex w-full justify-center h-6">
                 <p className="w-[70px] text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
                   {student.StudentId}
                 </p>
@@ -175,7 +175,7 @@ const page = () => {
                   {student.Category}
                 </p>
                 <p
-                  className="w-60 text-right line-clamp-1 font-semibold pr-2 border-[1px] border-black text-md font-arabic"
+                  className="w-60 text-right line-clamp-1 font-semibold pr-2 border-[1px] border-black text-sm font-arabic"
                   dir="rtl"
                 >
                   {subjects.map((subject) => {
@@ -186,7 +186,7 @@ const page = () => {
                 </p>
                 <p className="w-12 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm"></p>
                 <p
-                  className="w-60 text-right line-clamp-1 font-semibold pr-2 border-[1px] border-black text-md font-arabic"
+                  className="w-60 text-right line-clamp-1 font-semibold pr-1 border-[1px] border-black text-sm font-arabic"
                   dir="rtl"
                 >
                   {subjects.map((subject) => {
