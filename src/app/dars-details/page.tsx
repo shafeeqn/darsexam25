@@ -135,22 +135,22 @@ const page = () => {
       ).length > 0 ? (
         <>
           <div className="flex w-full justify-center mt-3 h-6">
-            <p className="w-[70px] text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+            <p className="w-[70px] text-center line-clamp-1 font-semibold border-[1px] border-black text-sm">
               Reg No
             </p>
-            <p className="w-60 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+            <p className="w-60 text-center line-clamp-1 font-semibold border-[1px] border-black text-sm">
               Name
             </p>
             <p className="w-10 text-center line-clamp-1 font-semibold pt-1 border-[1px] border-black text-xs">
               Cat
             </p>
-            <p className="w-60 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+            <p className="w-60 text-center line-clamp-1 font-semibold border-[1px] border-black text-sm">
               Subject 1
             </p>
             <p className="w-12 text-center line-clamp-1 font-semibold pt-1 border-[1px] border-black text-xs">
               Hajar
             </p>
-            <p className="w-60 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+            <p className="w-60 text-center line-clamp-1 font-semibold border-[1px] border-black text-sm">
               Subject 2
             </p>
             <p className="w-12 text-center line-clamp-1 font-semibold pt-1 border-[1px] border-black text-xs">
@@ -168,7 +168,7 @@ const page = () => {
                 <p className="w-[70px] text-center line-clamp-1 font-semibold border-[1px] border-black text-sm">
                   {student.StudentId}
                 </p>
-                <p className="w-60 text-left line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+                <p className="w-60 text-left line-clamp-1 font-semibold pl-1 border-[1px] border-black text-sm">
                   {student.Name}
                 </p>
                 <p className="w-10 text-center line-clamp-1 font-semibold border-[1px] border-black text-sm">
@@ -184,7 +184,7 @@ const page = () => {
                     }
                   })}{" "}
                 </p>
-                <p className="w-12 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm"></p>
+                <p className="w-12 text-center line-clamp-1 font-semibold border-[1px] border-black text-sm"></p>
                 <p
                   className="w-60 text-right line-clamp-1 font-semibold pr-1 border-[1px] border-black text-sm font-arabic"
                   dir="rtl"
@@ -195,7 +195,7 @@ const page = () => {
                     }
                   })}{" "}
                 </p>
-                <p className="w-12 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm"></p>
+                <p className="w-12 text-center line-clamp-1 font-semibold border-[1px] border-black text-sm"></p>
               </div>
             ))}
         </>
