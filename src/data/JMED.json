@@ -8509,7 +8509,7 @@
             "Name": "MUHAMMED SINAN CT",
             "Dars": "SOUTHUSHAREEA POOVATHIKKAL",
             "Place": "EDAKKARA",
-            "DarsCode": "ML30",
+            "DarsCode": "MLP30",
             "Category": "I",
             "Subject1": "I3",
             "Subject2": "I11"
@@ -8520,7 +8520,7 @@
             "Name": "IHSAN KK",
             "Dars": "SOUTHUSHAREEA POOVATHIKKAL",
             "Place": "EDAKKARA",
-            "DarsCode": "ML30",
+            "DarsCode": "MLP30",
             "Category": "I",
             "Subject1": "I3",
             "Subject2": "I11"
@@ -8531,7 +8531,7 @@
             "Name": "MUHAMMED SHAHIL KP",
             "Dars": "SOUTHUSHAREEA POOVATHIKKAL",
             "Place": "EDAKKARA",
-            "DarsCode": "ML30",
+            "DarsCode": "MLP30",
             "Category": "I",
             "Subject1": "I3",
             "Subject2": "I11"
@@ -8542,7 +8542,7 @@
             "Name": "MUHAMM FAYAS K",
             "Dars": "SOUTHUSHAREEA POOVATHIKKAL",
             "Place": "EDAKKARA",
-            "DarsCode": "ML30",
+            "DarsCode": "MLP30",
             "Category": "I",
             "Subject1": "I3",
             "Subject2": "I11"
@@ -8553,7 +8553,7 @@
             "Name": "MUHAMMED SHIBLI NK",
             "Dars": "SOUTHUSHAREEA POOVATHIKKAL",
             "Place": "EDAKKARA",
-            "DarsCode": "ML30",
+            "DarsCode": "MLP30",
             "Category": "I",
             "Subject1": "I3",
             "Subject2": "I11"
@@ -8564,7 +8564,7 @@
             "Name": "MUHAMMED HANAN T",
             "Dars": "SOUTHUSHAREEA POOVATHIKKAL",
             "Place": "EDAKKARA",
-            "DarsCode": "ML30",
+            "DarsCode": "MLP30",
             "Category": "I",
             "Subject1": "I3",
             "Subject2": "I11"
@@ -8575,7 +8575,7 @@
             "Name": "MUHAMMED ADIL KP",
             "Dars": "SOUTHUSHAREEA POOVATHIKKAL",
             "Place": "EDAKKARA",
-            "DarsCode": "ML30",
+            "DarsCode": "MLP30",
             "Category": "I",
             "Subject1": "I3",
             "Subject2": "I11"
@@ -8586,7 +8586,7 @@
             "Name": "MUHAMMED RAEES N",
             "Dars": "SOUTHUSHAREEA POOVATHIKKAL",
             "Place": "EDAKKARA",
-            "DarsCode": "ML30",
+            "DarsCode": "MLP30",
             "Category": "I",
             "Subject1": "I3",
             "Subject2": "I11"
@@ -8597,7 +8597,7 @@
             "Name": "MUHAMMED YASEEN V",
             "Dars": "SOUTHUSHAREEA POOVATHIKKAL",
             "Place": "EDAKKARA",
-            "DarsCode": "ML30",
+            "DarsCode": "MLP30",
             "Category": "I",
             "Subject1": "I3",
             "Subject2": "I11"
@@ -8608,7 +8608,7 @@
             "Name": "MUHAMMED ABSHIR VP",
             "Dars": "SOUTHUSHAREEA POOVATHIKKAL",
             "Place": "EDAKKARA",
-            "DarsCode": "ML30",
+            "DarsCode": "MLP30",
             "Category": "I",
             "Subject1": "I3",
             "Subject2": "I11"
@@ -8619,7 +8619,7 @@
             "Name": "SHAHID MUNEER",
             "Dars": "SOUTHUSHAREEA POOVATHIKKAL",
             "Place": "EDAKKARA",
-            "DarsCode": "ML30",
+            "DarsCode": "MLP30",
             "Category": "A",
             "Subject1": "A1",
             "Subject2": "A26"
@@ -8630,7 +8630,7 @@
             "Name": "MUHAMMED IRSHAD",
             "Dars": "SOUTHUSHAREEA POOVATHIKKAL",
             "Place": "EDAKKARA",
-            "DarsCode": "ML30",
+            "DarsCode": "MLP30",
             "Category": "A",
             "Subject1": "A1",
             "Subject2": "A26"
@@ -8641,7 +8641,7 @@
             "Name": "MUHAMMED SHIHAN",
             "Dars": "SOUTHUSHAREEA POOVATHIKKAL",
             "Place": "EDAKKARA",
-            "DarsCode": "ML30",
+            "DarsCode": "MLP30",
             "Category": "A",
             "Subject1": "A1",
             "Subject2": "A26"
@@ -8652,7 +8652,7 @@
             "Name": "SAYYID ANSADALI",
             "Dars": "SOUTHUSHAREEA POOVATHIKKAL",
             "Place": "EDAKKARA",
-            "DarsCode": "ML30",
+            "DarsCode": "MLP30",
             "Category": "A",
             "Subject1": "A1",
             "Subject2": "A26"
@@ -8663,7 +8663,7 @@
             "Name": "UMARUL FAROOQ",
             "Dars": "SOUTHUSHAREEA POOVATHIKKAL",
             "Place": "EDAKKARA",
-            "DarsCode": "ML30",
+            "DarsCode": "MLP30",
             "Category": "A",
             "Subject1": "A1",
             "Subject2": "A26"
@@ -54574,7 +54574,7 @@
         {
             "Dars": "SOUTHUSHAREEA POOVATHIKKAL",
             "Place": "EDAKKARA",
-            "DarsCode": "ML30"
+            "DarsCode": "MLP30"
         },
         {
             "Dars": "RABBANIYYA DARS VATTALUR",
