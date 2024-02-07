@@ -148,13 +148,13 @@ const page = () => {
               Subject 1
             </p>
             <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              Mark
+              Hajar 1
             </p>
             <p className="w-60 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               Subject 2
             </p>
             <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              Mark
+              Hajar 2
             </p>
           </div>
           {students
