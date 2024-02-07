@@ -141,20 +141,20 @@ const page = () => {
             <p className="w-60 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               Name
             </p>
-            <p className="w-10 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-xs">
+            <p className="w-10 text-center line-clamp-1 font-semibold pt-1 border-[1px] border-black text-xs">
               Cat
             </p>
             <p className="w-60 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               Subject 1
             </p>
-            <p className="w-12 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-xs">
-              Haj 1
+            <p className="w-12 text-center line-clamp-1 font-semibold pt-1 border-[1px] border-black text-xs">
+              Hajar
             </p>
             <p className="w-60 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               Subject 2
             </p>
-            <p className="w-12 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-xs">
-              Haj 2
+            <p className="w-12 text-center line-clamp-1 font-semibold pt-1 border-[1px] border-black text-xs">
+              Hajar
             </p>
           </div>
           {students
@@ -165,17 +165,17 @@ const page = () => {
             )
             .map((student, index) => (
               <div key={index} className="flex w-full justify-center h-6">
-                <p className="w-[70px] text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+                <p className="w-[70px] text-center line-clamp-1 font-semibold border-[1px] border-black text-sm">
                   {student.StudentId}
                 </p>
                 <p className="w-60 text-left line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
                   {student.Name}
                 </p>
-                <p className="w-10 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+                <p className="w-10 text-center line-clamp-1 font-semibold border-[1px] border-black text-sm">
                   {student.Category}
                 </p>
                 <p
-                  className="w-60 text-right line-clamp-1 font-semibold pr-2 border-[1px] border-black text-sm font-arabic"
+                  className="w-60 text-right line-clamp-1 font-semibold pr-1 border-[1px] border-black text-sm font-arabic"
                   dir="rtl"
                 >
                   {subjects.map((subject) => {
