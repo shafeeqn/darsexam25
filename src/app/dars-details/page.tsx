@@ -135,26 +135,26 @@ const page = () => {
       ).length > 0 ? (
         <>
           <div className="flex w-full justify-center mt-3">
-            <p className="w-40 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+            <p className="w-[70px] text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               Reg No
             </p>
             <p className="w-60 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               Name
             </p>
-            <p className="w-40 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              Category
+            <p className="w-10 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-xs">
+              Cat
             </p>
             <p className="w-60 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               Subject 1
             </p>
-            <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              Hajar 1
+            <p className="w-12 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-xs">
+              Haj 1
             </p>
             <p className="w-60 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               Subject 2
             </p>
-            <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              Hajar 2
+            <p className="w-12 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-xs">
+              Haj 2
             </p>
           </div>
           {students
@@ -165,18 +165,14 @@ const page = () => {
             )
             .map((student, index) => (
               <div key={index} className="flex w-full justify-center">
-                <p className="w-40 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+                <p className="w-[70px] text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
                   {student.StudentId}
                 </p>
                 <p className="w-60 text-left line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
                   {student.Name}
                 </p>
-                <p className="w-40 text-left line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-                  {
-                    categories.find((category) => {
-                      return category.shortName === student?.Category;
-                    })?.fullName as any
-                  }
+                <p className="w-10 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+                  {student.Category}
                 </p>
                 <p
                   className="w-60 text-right line-clamp-1 font-semibold pr-2 border-[1px] border-black text-md font-arabic"
@@ -188,7 +184,7 @@ const page = () => {
                     }
                   })}{" "}
                 </p>
-                <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm"></p>
+                <p className="w-12 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm"></p>
                 <p
                   className="w-60 text-right line-clamp-1 font-semibold pr-2 border-[1px] border-black text-md font-arabic"
                   dir="rtl"
@@ -199,7 +195,7 @@ const page = () => {
                     }
                   })}{" "}
                 </p>
-                <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm"></p>
+                <p className="w-12 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm"></p>
               </div>
             ))}
         </>
