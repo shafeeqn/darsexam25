@@ -351,7 +351,7 @@
   },
   {
     "StudentId": "240036",
-    "Name": "MUHAMMED AFNAN",
+    "Name": "MUHAMMED IFNAN",
     "Dars": "IRSHADU TWALABA SUFFA DARS",
     "Place": "MULLAMPARA",
     "DarsCode": "MLP03",
@@ -361,7 +361,7 @@
   },
   {
     "StudentId": "240037",
-    "Name": "ALI PASHA",
+    "Name": "ALIYASH",
     "Dars": "IRSHADU TWALABA SUFFA DARS",
     "Place": "MULLAMPARA",
     "DarsCode": "MLP03",
@@ -521,7 +521,7 @@
   },
   {
     "StudentId": "240053",
-    "Name": "MUHAMMED TAUSEEF",
+    "Name": "MUHAMMED THAUSEEF",
     "Dars": "IRSHADU TWALABA SUFFA DARS",
     "Place": "MULLAMPARA",
     "DarsCode": "MLP03",
@@ -531,7 +531,7 @@
   },
   {
     "StudentId": "240054",
-    "Name": "MUHAMMED DILSHAD VP",
+    "Name": "MUHAMMAD DILSHAD VP",
     "Dars": "RAHMANIYYA DARS",
     "Place": "VADAKKUMURI",
     "DarsCode": "MLP04",
@@ -551,7 +551,7 @@
   },
   {
     "StudentId": "240056",
-    "Name": "MUHAMMED SINAN CK",
+    "Name": "MUHAMMAD SINAN CK",
     "Dars": "RAHMANIYYA DARS",
     "Place": "VADAKKUMURI",
     "DarsCode": "MLP04",
@@ -591,7 +591,7 @@
   },
   {
     "StudentId": "240060",
-    "Name": "MUHAMMED KUTTY K",
+    "Name": "MUHAMMAD KUTTY K",
     "Dars": "RAHMANIYYA DARS",
     "Place": "VADAKKUMURI",
     "DarsCode": "MLP04",
@@ -601,7 +601,7 @@
   },
   {
     "StudentId": "240061",
-    "Name": "AMEEN MUHAMMED",
+    "Name": "AMEER MUHAMMAD M",
     "Dars": "RAHMANIYYA DARS",
     "Place": "VADAKKUMURI",
     "DarsCode": "MLP04",
@@ -7616,7 +7616,7 @@
     "Place": "THAVARAPARAMBA",
     "DarsCode": "MLP29",
     "Category": "M",
-    "Subject1": "M10",
+    "Subject1": "M1",
     "Subject2": "M21"
   },
   {
@@ -7626,7 +7626,7 @@
     "Place": "THAVARAPARAMBA",
     "DarsCode": "MLP29",
     "Category": "M",
-    "Subject1": "M10",
+    "Subject1": "M1",
     "Subject2": "M21"
   },
   {
@@ -7636,7 +7636,7 @@
     "Place": "THAVARAPARAMBA",
     "DarsCode": "MLP29",
     "Category": "M",
-    "Subject1": "M10",
+    "Subject1": "M1",
     "Subject2": "M21"
   },
   {
@@ -7646,7 +7646,7 @@
     "Place": "THAVARAPARAMBA",
     "DarsCode": "MLP29",
     "Category": "M",
-    "Subject1": "M10",
+    "Subject1": "M1",
     "Subject2": "M21"
   },
   {
@@ -7656,7 +7656,7 @@
     "Place": "THAVARAPARAMBA",
     "DarsCode": "MLP29",
     "Category": "M",
-    "Subject1": "M10",
+    "Subject1": "M1",
     "Subject2": "M21"
   },
   {
@@ -7666,7 +7666,7 @@
     "Place": "THAVARAPARAMBA",
     "DarsCode": "MLP29",
     "Category": "M",
-    "Subject1": "M10",
+    "Subject1": "M1",
     "Subject2": "M21"
   },
   {
@@ -7676,7 +7676,7 @@
     "Place": "THAVARAPARAMBA",
     "DarsCode": "MLP29",
     "Category": "A",
-    "Subject1": "A20",
+    "Subject1": "A2",
     "Subject2": "A28"
   },
   {
@@ -7686,7 +7686,7 @@
     "Place": "THAVARAPARAMBA",
     "DarsCode": "MLP29",
     "Category": "A",
-    "Subject1": "A20",
+    "Subject1": "A2",
     "Subject2": "A28"
   },
   {
@@ -7696,7 +7696,7 @@
     "Place": "THAVARAPARAMBA",
     "DarsCode": "MLP29",
     "Category": "A",
-    "Subject1": "A20",
+    "Subject1": "A2",
     "Subject2": "A28"
   },
   {
@@ -7706,7 +7706,7 @@
     "Place": "THAVARAPARAMBA",
     "DarsCode": "MLP29",
     "Category": "A",
-    "Subject1": "A20",
+    "Subject1": "A2",
     "Subject2": "A28"
   },
   {
@@ -7716,7 +7716,7 @@
     "Place": "THAVARAPARAMBA",
     "DarsCode": "MLP29",
     "Category": "A",
-    "Subject1": "A20",
+    "Subject1": "A2",
     "Subject2": "A28"
   },
   {
@@ -7726,7 +7726,7 @@
     "Place": "THAVARAPARAMBA",
     "DarsCode": "MLP29",
     "Category": "A",
-    "Subject1": "A20",
+    "Subject1": "A2",
     "Subject2": "A28"
   },
   {
@@ -10067,7 +10067,7 @@
     "DarsCode": "MLP35",
     "Category": "A",
     "Subject1": "A1",
-    "Subject2": "A26"
+    "Subject2": "A28"
   },
   {
     "StudentId": "241008",
@@ -10087,7 +10087,7 @@
     "DarsCode": "MLP35",
     "Category": "A",
     "Subject1": "A1",
-    "Subject2": "A29"
+    "Subject2": "A28"
   },
   {
     "StudentId": "241010",
@@ -10097,7 +10097,7 @@
     "DarsCode": "MLP35",
     "Category": "A",
     "Subject1": "A1",
-    "Subject2": "A29"
+    "Subject2": "A28"
   },
   {
     "StudentId": "241011",
@@ -10107,7 +10107,7 @@
     "DarsCode": "MLP35",
     "Category": "A",
     "Subject1": "A1",
-    "Subject2": "A29"
+    "Subject2": "A28"
   },
   {
     "StudentId": "241012",
@@ -10117,7 +10117,7 @@
     "DarsCode": "MLP35",
     "Category": "A",
     "Subject1": "A1",
-    "Subject2": "A29"
+    "Subject2": "A28"
   },
   {
     "StudentId": "241013",
@@ -10127,7 +10127,7 @@
     "DarsCode": "MLP35",
     "Category": "A",
     "Subject1": "A1",
-    "Subject2": "A29"
+    "Subject2": "A28"
   },
   {
     "StudentId": "241014",
@@ -10137,7 +10137,7 @@
     "DarsCode": "MLP35",
     "Category": "A",
     "Subject1": "A1",
-    "Subject2": "A29"
+    "Subject2": "A28"
   },
   {
     "StudentId": "241015",
@@ -10147,7 +10147,7 @@
     "DarsCode": "MLP35",
     "Category": "A",
     "Subject1": "A1",
-    "Subject2": "A29"
+    "Subject2": "A28"
   },
   {
     "StudentId": "241016",
@@ -10157,7 +10157,7 @@
     "DarsCode": "MLP35",
     "Category": "A",
     "Subject1": "A1",
-    "Subject2": "A29"
+    "Subject2": "A28"
   },
   {
     "StudentId": "241017",
@@ -10177,7 +10177,7 @@
     "DarsCode": "MLP35",
     "Category": "A",
     "Subject1": "A1",
-    "Subject2": "A29"
+    "Subject2": "A28"
   },
   {
     "StudentId": "241019",
@@ -10187,7 +10187,7 @@
     "DarsCode": "MLP35",
     "Category": "A",
     "Subject1": "A1",
-    "Subject2": "A29"
+    "Subject2": "A28"
   },
   {
     "StudentId": "241020",
@@ -10197,7 +10197,7 @@
     "DarsCode": "MLP35",
     "Category": "A",
     "Subject1": "A1",
-    "Subject2": "A29"
+    "Subject2": "A28"
   },
   {
     "StudentId": "241021",
@@ -10207,7 +10207,7 @@
     "DarsCode": "MLP35",
     "Category": "A",
     "Subject1": "A1",
-    "Subject2": "A29"
+    "Subject2": "A28"
   },
   {
     "StudentId": "241022",
@@ -10217,7 +10217,7 @@
     "DarsCode": "MLP35",
     "Category": "A",
     "Subject1": "A1",
-    "Subject2": "A29"
+    "Subject2": "A28"
   },
   {
     "StudentId": "241023",
@@ -10227,7 +10227,7 @@
     "DarsCode": "MLP35",
     "Category": "A",
     "Subject1": "A1",
-    "Subject2": "A29"
+    "Subject2": "A28"
   },
   {
     "StudentId": "241024",
@@ -10237,7 +10237,7 @@
     "DarsCode": "MLP35",
     "Category": "A",
     "Subject1": "A1",
-    "Subject2": "A29"
+    "Subject2": "A28"
   },
   {
     "StudentId": "241025",
@@ -10247,7 +10247,7 @@
     "DarsCode": "MLP35",
     "Category": "A",
     "Subject1": "A1",
-    "Subject2": "A29"
+    "Subject2": "A28"
   },
   {
     "StudentId": "241026",
@@ -10257,7 +10257,7 @@
     "DarsCode": "MLP35",
     "Category": "A",
     "Subject1": "A1",
-    "Subject2": "A29"
+    "Subject2": "A28"
   },
   {
     "StudentId": "241027",
@@ -10267,7 +10267,7 @@
     "DarsCode": "MLP35",
     "Category": "A",
     "Subject1": "A1",
-    "Subject2": "A29"
+    "Subject2": "A28"
   },
   {
     "StudentId": "241028",
@@ -21742,7 +21742,7 @@
   {
     "StudentId": "242175",
     "Name": "MUHAMMED SWALIH KM",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "I",
@@ -21752,7 +21752,7 @@
   {
     "StudentId": "242176",
     "Name": "MUNAWWARALI MM",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "I",
@@ -21762,7 +21762,7 @@
   {
     "StudentId": "242177",
     "Name": "ABDULLA SHAFI MR",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "I",
@@ -21772,7 +21772,7 @@
   {
     "StudentId": "242178",
     "Name": "SALMAN MAQBOOL K",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "I",
@@ -21782,7 +21782,7 @@
   {
     "StudentId": "242179",
     "Name": "MUHAMMED SHAHAL PJ",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "I",
@@ -21792,7 +21792,7 @@
   {
     "StudentId": "242180",
     "Name": "MUHAMMED SHAMNAD KP",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "I",
@@ -21802,7 +21802,7 @@
   {
     "StudentId": "242181",
     "Name": "NIHAL K",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "I",
@@ -21812,7 +21812,7 @@
   {
     "StudentId": "242182",
     "Name": "MUHAMMED ASHIQ KP",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "I",
@@ -21822,7 +21822,7 @@
   {
     "StudentId": "242183",
     "Name": "MUHAMMED NAJID KK",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "I",
@@ -21832,7 +21832,7 @@
   {
     "StudentId": "242184",
     "Name": "MUJEEB MM",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "I",
@@ -21842,7 +21842,7 @@
   {
     "StudentId": "242185",
     "Name": "MUHAMMED ASIF MA",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "I",
@@ -21852,7 +21852,7 @@
   {
     "StudentId": "242186",
     "Name": "NAJAD",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "I",
@@ -21862,7 +21862,7 @@
   {
     "StudentId": "242187",
     "Name": "NIHAL VP",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "I",
@@ -21872,7 +21872,7 @@
   {
     "StudentId": "242188",
     "Name": "ABDUL MUNAWWAR",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "I",
@@ -21882,7 +21882,7 @@
   {
     "StudentId": "242189",
     "Name": "MIDLAJ",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "I",
@@ -21892,7 +21892,7 @@
   {
     "StudentId": "242190",
     "Name": "SINAN",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "I",
@@ -21902,7 +21902,7 @@
   {
     "StudentId": "242191",
     "Name": "RIYAS S",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "M",
@@ -21912,7 +21912,7 @@
   {
     "StudentId": "242192",
     "Name": "MUHAMMED SHIFAN UK",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "M",
@@ -21922,7 +21922,7 @@
   {
     "StudentId": "242193",
     "Name": "MUHAMMED RAFIH M",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "M",
@@ -21932,7 +21932,7 @@
   {
     "StudentId": "242194",
     "Name": "MUHAMMED ADIL EK",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "M",
@@ -21942,7 +21942,7 @@
   {
     "StudentId": "242195",
     "Name": "MUHAMMED SWAFWAN P",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "M",
@@ -21952,7 +21952,7 @@
   {
     "StudentId": "242196",
     "Name": "SINAN K",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "M",
@@ -21962,7 +21962,7 @@
   {
     "StudentId": "242197",
     "Name": "NIHAL PT",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "M",
@@ -21972,7 +21972,7 @@
   {
     "StudentId": "242198",
     "Name": "MUHAMMED SALAS K",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "M",
@@ -21982,7 +21982,7 @@
   {
     "StudentId": "242199",
     "Name": "MUHAMMED SADIL E",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "M",
@@ -21992,7 +21992,7 @@
   {
     "StudentId": "242200",
     "Name": "MUHAMMED FAWAS C",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "M",
@@ -22002,7 +22002,7 @@
   {
     "StudentId": "242201",
     "Name": "MUHAMMED MIDLAJ PP",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "M",
@@ -22012,7 +22012,7 @@
   {
     "StudentId": "242202",
     "Name": "MUHAMMED MUSTHAFA VP",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "M",
@@ -22022,7 +22022,7 @@
   {
     "StudentId": "242203",
     "Name": "SALMANUL FAIS P",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "A",
@@ -22032,7 +22032,7 @@
   {
     "StudentId": "242204",
     "Name": "MUHAMMED SWALIH V",
-    "Dars": "NOORUL ULAMA KIDANGAZHI",
+    "Dars": "NOORUL ISLAM KIDANGAZHI",
     "Place": "KIDANGAZHI",
     "DarsCode": "MLP87",
     "Category": "A",
@@ -26047,7 +26047,7 @@
     "DarsCode": "MLP101",
     "Category": "M",
     "Subject1": "M3",
-    "Subject2": "M21"
+    "Subject2": "M25"
   },
   {
     "StudentId": "242606",
@@ -27086,8 +27086,8 @@
     "Place": "THENNALA THARAYIL",
     "DarsCode": "MLP105",
     "Category": "I",
-    "Subject1": "I3",
-    "Subject2": "I11"
+    "Subject1": "I4",
+    "Subject2": "I13"
   },
   {
     "StudentId": "242710",
@@ -39501,7 +39501,7 @@
   },
   {
     "StudentId": "243951",
-    "Name": "MUHAMMED HASHIR I",
+    "Name": "MOHAMMED HASHIL I",
     "Dars": "DARUL HIDAYA KALARANTHIRI",
     "Place": "KALARANTHIRI",
     "DarsCode": "CLT03",
@@ -39691,7 +39691,7 @@
   },
   {
     "StudentId": "243970",
-    "Name": "MUHAMMED JAMALUDDEEN NK",
+    "Name": "MOHAMMED JAMALUDDEEN NK",
     "Dars": "DARUL HIDAYA KALARANTHIRI",
     "Place": "KALARANTHIRI",
     "DarsCode": "CLT03",
@@ -42777,7 +42777,7 @@
     "DarsCode": "CLT21",
     "Category": "I",
     "Subject1": "I7",
-    "Subject2": "I11"
+    "Subject2": "I16"
   },
   {
     "StudentId": "244279",
