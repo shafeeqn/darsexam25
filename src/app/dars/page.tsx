@@ -193,7 +193,7 @@ const page = () => {
               .filter(
                 (student) =>
                   student.Name.toLowerCase().includes(query.toLowerCase()) ||
-                  student.StudentId.toString().includes(query)
+                  student?.StudentId?.toString().includes(query)
               )
               .map((student) => {
                 return (
