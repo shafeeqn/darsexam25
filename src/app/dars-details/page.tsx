@@ -80,8 +80,8 @@ const page = () => {
           {category === "all"
             ? "ALL CATEGORIES"
             : (categories.find((ctgry) => {
-                return ctgry.shortName === category;
-              })?.fullName as any)}
+              return ctgry.shortName === category;
+            })?.fullName as any)}
         </p>
       </div>
       <div className="flex flex-col justify-center items-center  uppercase print:hidden -mt-7">
@@ -92,18 +92,16 @@ const page = () => {
       <div className="flex w-full justify-center gap-2 text-xs font-semibold print:hidden">
         <button
           onClick={() => setCategory("all")}
-          className={`uppercase border-black border-2 p-1 border-dotted rounded-md ${
-            category === "all" && `bg-black text-white`
-          }`}
+          className={`uppercase border-black border-2 p-1 border-dotted rounded-md ${category === "all" && `bg-black text-white`
+            }`}
         >
           ALL
         </button>
         {categories.map((ctgry) => (
           <button
             onClick={() => setCategory(ctgry.shortName)}
-            className={`uppercase border-black border-2 p-1 border-dotted rounded-md ${
-              category === ctgry.shortName && `bg-black text-white`
-            }`}
+            className={`uppercase border-black border-2 p-1 border-dotted rounded-md ${category === ctgry.shortName && `bg-black text-white`
+              }`}
           >
             {ctgry.fullName}
           </button>
