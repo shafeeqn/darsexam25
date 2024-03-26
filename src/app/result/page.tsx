@@ -156,7 +156,7 @@ export default function page() {
             </div>
             <div className="flex flex-col justify-center items-center  uppercase print:hidden">
                 <p className="text-center text-black font-semibold rounded-t-lg border-dotted p-1 text-2xl">
-                    Student Details
+                    Result Page
                 </p>
             </div>
             <div className="flex w-full justify-center gap-2 text-xs font-semibold print:hidden">
