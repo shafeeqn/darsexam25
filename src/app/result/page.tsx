@@ -3,15 +3,21 @@
 import subjects from "../../data/subjects.json";
 import students from "../../data/students.json";
 import dars from "../../data/dars.json";
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useReactToPrint } from "react-to-print";
+import { useRouter } from "next/navigation";
 export default function page() {
-    const [selectedDars, setSelectedDars] = useState("MLP01");
-    const [selectedDistrict, setSelectedDistrict] = useState("MLP");
     const [category, setCategory] = useState("I");
+    const [username, setUsername] = useState<string>("");
     const darsStudents = students.filter(
-        (student) => student.DarsCode === selectedDars
+        (student) => student.DarsCode === username
     );
+    const router = useRouter();
+
+    useEffect(() => {
+        setUsername(JSON.parse(localStorage.getItem("user") as string));
+        !localStorage.getItem("user") && router.push("/login");
+    }, []);
 
     function calculateFinalGrade(mark1: number, mark2: number) {
         const calculateGrade = (mark: any) => {
@@ -73,33 +79,6 @@ export default function page() {
         },
     ];
 
-    const districts = [
-        {
-            shortName: "MLP",
-            fullName: "Malappuram",
-        },
-        {
-            shortName: "PKD",
-            fullName: "Palakkad",
-        },
-        {
-            shortName: "TSR",
-            fullName: "Trissur",
-        },
-        {
-            shortName: "KSD",
-            fullName: "Kasargod",
-        },
-        {
-            shortName: "CLT",
-            fullName: "Kozhikode",
-        },
-        {
-            shortName: "KNR",
-            fullName: "Kannur",
-        },
-    ];
-
     return (
         <div
             className="flex flex-col justify-center items-center my-5"
@@ -108,50 +87,16 @@ export default function page() {
             <div className="flex flex-col justify-center items-center  uppercase print:hidden">
                 <img src="/Logo.png" alt="" className="w-[30%]" />
             </div>
-            <div className="flex flex-col justify-center items-center border-2 border-dotted border-black p-1 rounded-lg mt-5 print:hidden">
-                <div className="flex w-full gap-2 ">
-                    <select
-                        className=" text-center text-md text-black font-semibold rounded-lg p-1 remove-arrow w-1/4 border-2 border-dotted border-black uppercase"
-                        onChange={(e) => {
-                            setSelectedDistrict(e.target.value);
-                            console.log(e.target.value);
 
-                            setSelectedDars(e.target.value === "TSR" || e.target.value === "KSD" ? e.target.value + "02" : e.target.value + "01");
-                        }}
-                    >
-                        {districts.map((district, index) => (
-                            <option
-                                key={index}
-                                value={district.shortName}
-                                className="uppercase"
-                            >
-                                {district.fullName}
-                            </option>
-                        ))}
-                    </select>
-                    <select
-                        className=" text-center text-md text-black font-semibold rounded-lg p-1 remove-arrow w-3/4 border-2 border-dotted border-black uppercase"
-                        onChange={(e) => setSelectedDars(e.target.value)}
-                    >
-                        {dars
-                            .filter((drs) => drs.DarsCode.slice(0, 3) === selectedDistrict)
-                            .map((drs, index) => (
-                                <option key={index} value={drs.DarsCode} className="uppercase">
-                                    {drs.Dars}
-                                </option>
-                            ))}
-                    </select>
-                </div>
-            </div>
             <div className="flex flex-col justify-center items-center border-2 border-dotted border-black p-1 rounded-lg mt-5">
                 <p className="text-center text-lg text-black font-semibold rounded-lg p-1">
-                    {dars.find((drs) => drs.DarsCode === selectedDars)?.Dars}
+                    {dars.find((drs) => drs.DarsCode === username)?.Dars}
                 </p>
                 <p className="text-center text-md text-black font-semibold rounded-t-lg p-1 -mt-2">
-                    {dars.find((drs) => drs.DarsCode === selectedDars)?.Place}
+                    {dars.find((drs) => drs.DarsCode === username)?.Place}
                 </p>
                 <p className="text-center text-sm text-white bg-black font-semibold rounded-lg p-1 border-dotted border-2 border-white -mt-1">
-                    {dars.find((drs) => drs.DarsCode === selectedDars)?.DarsCode}
+                    {dars.find((drs) => drs.DarsCode === username)?.DarsCode}
                 </p>
             </div>
             <div className="flex flex-col justify-center items-center  uppercase print:hidden">
