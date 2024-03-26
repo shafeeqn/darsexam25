@@ -32,7 +32,7 @@ const Login = () => {
     } else if (dars) {
       password === "123"
         ? (localStorage.setItem("user", JSON.stringify(dars.DarsCode)),
-          Router.push("/dars-details"))
+          Router.push("/result"))
         : (setError("Invalid Password"),
           setTimeout(() => {
             setError("");
