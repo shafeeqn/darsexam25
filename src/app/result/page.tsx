@@ -30,7 +30,7 @@ export default function page() {
                 return "First Class";
             } else if (mark >= 50 && mark <= 59) {
                 return "Second Class";
-            } else if (mark >= 35 && mark <= 49) {
+            } else if (mark >= 25 && mark <= 49) {
                 return "Third Class";
             } else {
                 return "Not Promoted";
