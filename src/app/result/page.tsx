@@ -15,7 +15,6 @@ export default function page() {
     const router = useRouter();
 
     useEffect(() => {
-       
         setUsername(JSON.parse(localStorage.getItem("user") as string));
         !localStorage.getItem("user") && router.push("/login");
     }, []);
