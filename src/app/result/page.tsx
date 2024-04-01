@@ -15,9 +15,9 @@ export default function page() {
     const router = useRouter();
 
     useEffect(() => {
-        router.push("/dars-details")
-        // setUsername(JSON.parse(localStorage.getItem("user") as string));
-        // !localStorage.getItem("user") && router.push("/login");
+        // router.push("/dars-details")
+        setUsername(JSON.parse(localStorage.getItem("user") as string));
+        !localStorage.getItem("user") && router.push("/login");
     }, []);
 
     function calculateFinalGrade(mark1: number, mark2: number) {
@@ -39,14 +39,6 @@ export default function page() {
         const grade1 = calculateGrade(mark1);
         const grade2 = calculateGrade(mark2);
 
-        // if (grade1 === grade2) {
-        //     return grade1;
-        // } else if (grade1 === "Not Promoted" || grade2 === "Not Promoted") {
-        //     return "Not Promoted";
-        // } else {
-        //     const order = ["Top Plus", "Distinction", "First Class", "Second Class", "Third Class"];
-        //     return order.indexOf(grade1) < order.indexOf(grade2) ? grade2 : grade1;
-        // }
         if (mark1 === mark2) {
             return grade1;
         } else if (mark1 < mark2) {
@@ -215,7 +207,7 @@ export default function page() {
                                 </p>
                                 <p className="w-12 text-center line-clamp-1 font-semibold border-[1px] border-black text-sm">{student["Mark 2"] as string}</p>
                                 <p className="w-36 text-left pl-2 line-clamp-1 font-semibold pt-1 border-[1px] border-black text-xs">
-{/*                                     {calculateFinalGrade(parseInt(student["Mark 1"]), parseInt(student["Mark 2"]))} */}
+                                    {calculateFinalGrade(parseInt(student["Mark 1"]), parseInt(student["Mark 2"]))}
                                 </p>
                             </div>
                         ))}
