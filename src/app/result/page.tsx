@@ -15,9 +15,8 @@ export default function page() {
     const router = useRouter();
 
     useEffect(() => {
-        router.push("/dars-details")
-        // setUsername(JSON.parse(localStorage.getItem("user") as string));
-        // !localStorage.getItem("user") && router.push("/login");
+        setUsername(JSON.parse(localStorage.getItem("user") as string));
+        !localStorage.getItem("user") && router.push("/login");
     }, []);
 
     function calculateFinalGrade(mark1: number, mark2: number) {
