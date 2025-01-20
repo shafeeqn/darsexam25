@@ -14,7 +14,7 @@ const Login = () => {
     e.preventDefault();
 
     // check the username that matches from students data on studentId
-    // if matches then check the password is 123
+    // if matches then check the password is 786
 
     const student = Students.find(
       (student) => (student.StudentId as any) === parseInt(username)
@@ -22,7 +22,7 @@ const Login = () => {
     const dars = Dars.find((dars) => dars.DarsCode === username);
     const admin = username === "JMADMIN" ? true : false;
     if (student) {
-      password === "123"
+      password === "786"
         ? (localStorage.setItem("user", JSON.stringify(student.StudentId)),
           Router.push("/dashboard"))
         : (setError("Invalid Password"),
@@ -30,7 +30,7 @@ const Login = () => {
             setError("");
           }, 3000));
     } else if (dars) {
-      password === "123"
+      password === "786"
         ? (localStorage.setItem("user", JSON.stringify(dars.DarsCode)),
           Router.push("/result"))
         : (setError("Invalid Password"),
@@ -38,7 +38,7 @@ const Login = () => {
             setError("");
           }, 3000));
     } else if (admin) {
-      password === "123"
+      password === "786"
         ? (localStorage.setItem("user", JSON.stringify("JMADMIN")),
           Router.push("/admin"))
         : (setError("Invalid Password"),
