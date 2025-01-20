@@ -83,7 +83,7 @@ const Login = () => {
           Router.push('/')
         }} className='object-contain cursor-pointer' src="/Logo.png" alt="Logo" />
       </div>
-      <h1 className="text-center font-semibold text-xl">Login to <span className="font-extrabold text-primary">EXAM PORTAL</span></h1>
+      <h1 className="text-center font-semibold text-xl">Login to <span className="font-extrabold text-primary">IMTHIHAN PORTAL</span></h1>
       <p>
         {error && <span className="text-red-500">{error}</span>}
       </p>
