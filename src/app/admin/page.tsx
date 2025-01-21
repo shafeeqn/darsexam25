@@ -19,7 +19,7 @@ const page = () => {
     },
     {
       shortName: "M",
-      fullName: "Muthawassitha",
+      fullName: "Muthawassitwa",
     },
     {
       shortName: "A",
