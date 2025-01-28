@@ -155,11 +155,11 @@ const page = () => {
             <p className="w-32 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               {student.StudentId}
             </p>
-            <p className="w-60 text-left line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+{/*             <p className="w-60 text-left line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               {student.Name}
             </p>
             <p className="w-20 text-left line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              {student.DarsCode}
+              {student.DarsCode} */}
             </p>
             <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               {" "}
