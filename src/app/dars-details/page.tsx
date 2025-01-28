@@ -89,7 +89,7 @@ const page = () => {
         </option>
         {dars?.map((option) => (
           <option key={option.DarsCode} value={option.DarsCode}>
-            {option.Dars}
+            {option.DarsCode} {option.Dars}
           </option>
         ))}
       </select>
