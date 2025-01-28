@@ -8,6 +8,7 @@ import { useRouter } from "next/navigation";
 
 const page = () => {
   const [username, setUsername] = useState<string>("");
+  const [admin , setAdmin] = useState<string>("")
   const [isStudent, setIsStudent] = useState<boolean>(true);
   const [selectedSubject, setSelectedSubject] = useState<string>("");
   const [query, setQuery] = useState<string>("");
@@ -30,11 +31,13 @@ const page = () => {
 
   useEffect(() => {
     setUsername(JSON.parse(localStorage.getItem("user") as string));
+    setAdmin(JSON.parse(localStorage.getItem("user") as string));
+
     !localStorage.getItem("user") && router.push("/login");
   }, []);
 
   const students = Students.filter((student) => student.DarsCode == username);
-  console.log(students);
+  // console.log(students);
   const subjectId: any = [];
   students.map((student) => {
     if (!subjectId.includes(student.Subject1 as never)) {
@@ -68,6 +71,29 @@ const page = () => {
         <p className="text-center text-3xl text-black font-semibold rounded-lg p-1">
           {dars.find((drs) => drs.DarsCode === username)?.Dars}
         </p>
+        {
+        admin === 'JMADMIN' && <select
+        id="my-select"
+        value={username}
+        onChange={
+          (e)=>{
+            setUsername(e.target.value)
+          }
+        }
+        style={{ marginLeft: "10px", padding: "5px" }}
+        className="
+        "
+      >
+        <option value="" disabled>
+          Select an option
+        </option>
+        {dars?.map((option) => (
+          <option key={option.DarsCode} value={option.DarsCode}>
+            {option.Dars}
+          </option>
+        ))}
+      </select>
+        }
         <p className="text-center text-xl text-black font-semibold rounded-t-lg p-1 -mt-2">
           {dars.find((drs) => drs.DarsCode === username)?.Place}
         </p>
