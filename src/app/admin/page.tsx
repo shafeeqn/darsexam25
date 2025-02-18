@@ -3,7 +3,7 @@ import React, { useEffect, useRef, useState } from "react";
 import { useReactToPrint } from "react-to-print";
 import students from "../../data/students.json";
 import subjects from "../../data/subjects.json";
-import dars from "../../data/dars.json";
+import darscode from "../../data/dars.json";
 
 const page = () => {
   const [username, setUsername] = useState<string>("");
@@ -159,7 +159,7 @@ const page = () => {
               {student.Name}
             </p>
             <p className="w-80 text-left line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              {student.Dars}
+              {student.DarsCode}
             </p>
             <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               {student.Subject1 === selectedSubject ? student["Mark 1"] : student["Mark 2"] }
