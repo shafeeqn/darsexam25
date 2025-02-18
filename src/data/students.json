@@ -37,7 +37,9 @@
   "DarsCode": "TSR01",
   "Category": "I",
   "Subject1": "I9",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250005,
@@ -87,7 +89,9 @@
   "DarsCode": "TSR01",
   "Category": "I",
   "Subject1": "I9",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250010,
@@ -137,7 +141,9 @@
   "DarsCode": "TSR01",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M21"
+  "Mark 1": "A",
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250015,
@@ -157,7 +163,8 @@
   "DarsCode": "TSR01",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M21"
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250017,
@@ -307,7 +314,9 @@
   "DarsCode": "TSR02",
   "Category": "M",
   "Subject1": "M15",
-  "Subject2": "M21"
+  "Mark 1": "N",
+  "Subject2": "M21",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250032,
@@ -317,7 +326,9 @@
   "DarsCode": "TSR02",
   "Category": "M",
   "Subject1": "M15",
-  "Subject2": "M21"
+  "Mark 1": "N",
+  "Subject2": "M21",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250033,
@@ -327,7 +338,9 @@
   "DarsCode": "TSR02",
   "Category": "A",
   "Subject1": "A20",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250034,
@@ -337,7 +350,9 @@
   "DarsCode": "TSR02",
   "Category": "A",
   "Subject1": "A20",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250035,
@@ -587,7 +602,9 @@
   "DarsCode": "TSR04",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250060,
@@ -607,6 +624,7 @@
   "DarsCode": "TSR04",
   "Category": "I",
   "Subject1": "I4",
+  "Mark 1": "A",
   "Subject2": "I11"
  },
  {
@@ -617,11 +635,13 @@
   "DarsCode": "TSR04",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250063,
-  "Name": "ABOOBAKR",
+  "Name": "ABOO TWAHIR",
   "Dars": "JOUHARUL ULOOM PALLIMEPPURAM",
   "Place": "PALLIMEPPURAM",
   "DarsCode": "TSR04",
@@ -647,7 +667,8 @@
   "DarsCode": "TSR04",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M21"
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250066,
@@ -657,7 +678,8 @@
   "DarsCode": "TSR04",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M21"
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250067,
@@ -697,6 +719,7 @@
   "DarsCode": "TSR04",
   "Category": "M",
   "Subject1": "M16",
+  "Mark 1": "A",
   "Subject2": "M21"
  },
  {
@@ -717,6 +740,7 @@
   "DarsCode": "TSR04",
   "Category": "M",
   "Subject1": "M16",
+  "Mark 1": "A",
   "Subject2": "M21"
  },
  {
@@ -786,7 +810,7 @@
   "Place": "PANNITHADAM",
   "DarsCode": "TSR05",
   "Category": "I",
-  "Subject1": "I7",
+  "Subject1": "I3",
   "Subject2": "I11"
  },
  {
@@ -797,7 +821,9 @@
   "DarsCode": "TSR05",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I16"
+  "Mark 1": "A",
+  "Subject2": "I16",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250081,
@@ -817,7 +843,9 @@
   "DarsCode": "TSR05",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I16"
+  "Mark 1": "A",
+  "Subject2": "I16",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250083,
@@ -841,7 +869,7 @@
  },
  {
   "StudentId": 250085,
-  "Name": "FAZIL",
+  "Name": "SAHAD ES",
   "Dars": "MIC MFSA  PALLAM",
   "Place": "PALLAM",
   "DarsCode": "TSR06",
@@ -851,7 +879,7 @@
  },
  {
   "StudentId": 250086,
-  "Name": "SWAFWAN",
+  "Name": "ASLAM H",
   "Dars": "MIC MFSA  PALLAM",
   "Place": "PALLAM",
   "DarsCode": "TSR06",
@@ -871,7 +899,7 @@
  },
  {
   "StudentId": 250088,
-  "Name": "UMAR HARIS",
+  "Name": "HUSIN KT",
   "Dars": "MIC MFSA  PALLAM",
   "Place": "PALLAM",
   "DarsCode": "TSR06",
@@ -901,7 +929,7 @@
  },
  {
   "StudentId": 250091,
-  "Name": "SA'D",
+  "Name": "SAHAD B",
   "Dars": "MIC MFSA  PALLAM",
   "Place": "PALLAM",
   "DarsCode": "TSR06",
@@ -921,7 +949,7 @@
  },
  {
   "StudentId": 250093,
-  "Name": "NIHAD",
+  "Name": "NIHAL CM",
   "Dars": "MIC MFSA  PALLAM",
   "Place": "PALLAM",
   "DarsCode": "TSR06",
@@ -931,7 +959,7 @@
  },
  {
   "StudentId": 250094,
-  "Name": "ASHIF",
+  "Name": "ASHIF MH",
   "Dars": "MIC MFSA  PALLAM",
   "Place": "PALLAM",
   "DarsCode": "TSR06",
@@ -1147,7 +1175,9 @@
   "DarsCode": "TSR07",
   "Category": "I",
   "Subject1": "I2",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250116,
@@ -1237,7 +1267,9 @@
   "DarsCode": "TSR07",
   "Category": "I",
   "Subject1": "I2",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250125,
@@ -1257,7 +1289,9 @@
   "DarsCode": "TSR07",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250127,
@@ -1307,7 +1341,9 @@
   "DarsCode": "TSR07",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M21"
+  "Mark 1": "A",
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250132,
@@ -1317,7 +1353,9 @@
   "DarsCode": "TSR07",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M21"
+  "Mark 1": "A",
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250133,
@@ -1411,7 +1449,7 @@
  },
  {
   "StudentId": 250142,
-  "Name": "MUHAMMED RAMEES",
+  "Name": "MUHAMMED RUMAIS",
   "Dars": "BAHJATHUTWALABA THALI",
   "Place": "THALI",
   "DarsCode": "TSR08",
@@ -1447,7 +1485,9 @@
   "DarsCode": "TSR09",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I12"
+  "Mark 1": "A",
+  "Subject2": "I12",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250146,
@@ -1457,6 +1497,7 @@
   "DarsCode": "TSR09",
   "Category": "I",
   "Subject1": "I4",
+  "Mark 1": "A",
   "Subject2": "I12"
  },
  {
@@ -1467,7 +1508,9 @@
   "DarsCode": "TSR09",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250148,
@@ -1487,7 +1530,9 @@
   "DarsCode": "TSR09",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250150,
@@ -1507,7 +1552,9 @@
   "DarsCode": "TSR09",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250152,
@@ -1677,7 +1724,9 @@
   "DarsCode": "TSR10",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250169,
@@ -1797,7 +1846,9 @@
   "DarsCode": "TSR10",
   "Category": "M",
   "Subject1": "M16",
-  "Subject2": "M20"
+  "Mark 1": "A",
+  "Subject2": "M20",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250181,
@@ -1947,7 +1998,9 @@
   "DarsCode": "TSR10",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M26"
+  "Mark 1": "A",
+  "Subject2": "M26",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250196,
@@ -1967,7 +2020,9 @@
   "DarsCode": "TSR10",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M26"
+  "Mark 1": "A",
+  "Subject2": "M26",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250198,
@@ -2191,7 +2246,7 @@
  },
  {
   "StudentId": 250220,
-  "Name": "MUHAMMED SHAHID",
+  "Name": "MUHAMMED SHAHIL",
   "Dars": "MARKAZUL ULAMA CHERUMBA",
   "Place": "CHERUMBA",
   "DarsCode": "KSD01",
@@ -2357,7 +2412,9 @@
   "DarsCode": "KSD01",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250237,
@@ -2377,7 +2434,9 @@
   "DarsCode": "KSD01",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250239,
@@ -2536,7 +2595,7 @@
   "Place": "KUNIYA",
   "DarsCode": "KSD02",
   "Category": "M",
-  "Subject1": "M2",
+  "Subject1": "M1",
   "Subject2": "M22"
  },
  {
@@ -2546,7 +2605,7 @@
   "Place": "KUNIYA",
   "DarsCode": "KSD02",
   "Category": "M",
-  "Subject1": "M2",
+  "Subject1": "M1",
   "Subject2": "M22"
  },
  {
@@ -2556,7 +2615,7 @@
   "Place": "KUNIYA",
   "DarsCode": "KSD02",
   "Category": "M",
-  "Subject1": "M2",
+  "Subject1": "M1",
   "Subject2": "M22"
  },
  {
@@ -2566,7 +2625,7 @@
   "Place": "KUNIYA",
   "DarsCode": "KSD02",
   "Category": "M",
-  "Subject1": "M2",
+  "Subject1": "M1",
   "Subject2": "M22"
  },
  {
@@ -2576,7 +2635,7 @@
   "Place": "KUNIYA",
   "DarsCode": "KSD02",
   "Category": "M",
-  "Subject1": "M2",
+  "Subject1": "M1",
   "Subject2": "M22"
  },
  {
@@ -2586,7 +2645,7 @@
   "Place": "KUNIYA",
   "DarsCode": "KSD02",
   "Category": "M",
-  "Subject1": "M2",
+  "Subject1": "M1",
   "Subject2": "M22"
  },
  {
@@ -2596,7 +2655,7 @@
   "Place": "KUNIYA",
   "DarsCode": "KSD02",
   "Category": "M",
-  "Subject1": "M2",
+  "Subject1": "M1",
   "Subject2": "M22"
  },
  {
@@ -2606,7 +2665,7 @@
   "Place": "KUNIYA",
   "DarsCode": "KSD02",
   "Category": "M",
-  "Subject1": "M2",
+  "Subject1": "M1",
   "Subject2": "M22"
  },
  {
@@ -2827,7 +2886,8 @@
   "DarsCode": "KSD04",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M25"
+  "Subject2": "M25",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250284,
@@ -2907,6 +2967,7 @@
   "DarsCode": "KSD04",
   "Category": "A",
   "Subject1": "A1",
+  "Mark 1": "A",
   "Subject2": "A28"
  },
  {
@@ -2927,7 +2988,9 @@
   "DarsCode": "KSD05",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250294,
@@ -2947,7 +3010,9 @@
   "DarsCode": "KSD05",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250296,
@@ -2967,7 +3032,9 @@
   "DarsCode": "KSD05",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250298,
@@ -3047,7 +3114,9 @@
   "DarsCode": "KSD05",
   "Category": "I",
   "Subject1": "I6",
-  "Subject2": "I12"
+  "Mark 1": "A",
+  "Subject2": "I12",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250306,
@@ -3087,7 +3156,9 @@
   "DarsCode": "KSD05",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250310,
@@ -3137,7 +3208,8 @@
   "DarsCode": "KSD05",
   "Category": "M",
   "Subject1": "M3",
-  "Subject2": "M22"
+  "Subject2": "M22",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250315,
@@ -3147,7 +3219,8 @@
   "DarsCode": "KSD05",
   "Category": "M",
   "Subject1": "M3",
-  "Subject2": "M22"
+  "Subject2": "M22",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250316,
@@ -3157,7 +3230,9 @@
   "DarsCode": "KSD05",
   "Category": "M",
   "Subject1": "M3",
-  "Subject2": "M22"
+  "Mark 1": "N",
+  "Subject2": "M22",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250317,
@@ -3167,7 +3242,9 @@
   "DarsCode": "KSD05",
   "Category": "M",
   "Subject1": "M3",
-  "Subject2": "M22"
+  "Mark 1": "N",
+  "Subject2": "M22",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250318,
@@ -3187,7 +3264,9 @@
   "DarsCode": "KSD06",
   "Category": "I",
   "Subject1": "I2",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250320,
@@ -3217,7 +3296,8 @@
   "DarsCode": "KSD06",
   "Category": "I",
   "Subject1": "I2",
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250323,
@@ -3227,7 +3307,7 @@
   "DarsCode": "KSD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I11"
  },
  {
   "StudentId": 250324,
@@ -3237,7 +3317,8 @@
   "DarsCode": "KSD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250325,
@@ -3247,7 +3328,9 @@
   "DarsCode": "KSD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250326,
@@ -3257,7 +3340,7 @@
   "DarsCode": "KSD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I11"
  },
  {
   "StudentId": 250327,
@@ -3267,7 +3350,7 @@
   "DarsCode": "KSD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I11"
  },
  {
   "StudentId": 250328,
@@ -3277,7 +3360,7 @@
   "DarsCode": "KSD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I11"
  },
  {
   "StudentId": 250329,
@@ -3287,7 +3370,8 @@
   "DarsCode": "KSD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250330,
@@ -3297,7 +3381,8 @@
   "DarsCode": "KSD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250331,
@@ -3307,7 +3392,8 @@
   "DarsCode": "KSD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250332,
@@ -3317,7 +3403,9 @@
   "DarsCode": "KSD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250333,
@@ -3327,7 +3415,9 @@
   "DarsCode": "KSD06",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M21"
+  "Mark 1": "A",
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250334,
@@ -3377,7 +3467,8 @@
   "DarsCode": "KSD06",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M21"
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250339,
@@ -3386,7 +3477,7 @@
   "Place": "THAIKKADAPPURAM",
   "DarsCode": "KSD07",
   "Category": "I",
-  "Subject1": "I1",
+  "Subject1": "I3",
   "Subject2": "I11"
  },
  {
@@ -3396,7 +3487,7 @@
   "Place": "THAIKKADAPPURAM",
   "DarsCode": "KSD07",
   "Category": "I",
-  "Subject1": "I1",
+  "Subject1": "I3",
   "Subject2": "I11"
  },
  {
@@ -3406,7 +3497,7 @@
   "Place": "THAIKKADAPPURAM",
   "DarsCode": "KSD07",
   "Category": "I",
-  "Subject1": "I1",
+  "Subject1": "I3",
   "Subject2": "I11"
  },
  {
@@ -3467,7 +3558,9 @@
   "DarsCode": "KSD07",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250348,
@@ -3587,7 +3680,9 @@
   "DarsCode": "KSD08",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I12"
+  "Mark 1": "A",
+  "Subject2": "I12",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250360,
@@ -4491,13 +4586,13 @@
  },
  {
   "StudentId": 250450,
-  "Name": "HAFIZ MUHAMMED ASEEM",
+  "Name": "HAFIZ MUHAMMED SINAN",
   "Dars": "IQRA' DARS UDINOOR",
   "Place": "UDINOOR",
   "DarsCode": "KSD11",
   "Category": "I",
-  "Subject1": "I3",
-  "Subject2": "I11"
+  "Subject1": "I4",
+  "Subject2": "I13"
  },
  {
   "StudentId": 250451,
@@ -4717,7 +4812,7 @@
   "DarsCode": "KSD11",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M19"
+  "Subject2": "M26"
  },
  {
   "StudentId": 250473,
@@ -4767,7 +4862,9 @@
   "DarsCode": "KSD11",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250478,
@@ -4857,7 +4954,9 @@
   "DarsCode": "KSD11",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M21"
+  "Mark 1": "N",
+  "Subject2": "M21",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250487,
@@ -4867,7 +4966,9 @@
   "DarsCode": "KSD11",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M21"
+  "Mark 1": "N",
+  "Subject2": "M21",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250488,
@@ -4887,7 +4988,9 @@
   "DarsCode": "KSD11",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M21"
+  "Mark 1": "N",
+  "Subject2": "M21",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250490,
@@ -4927,7 +5030,9 @@
   "DarsCode": "KSD11",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M21"
+  "Mark 1": "N",
+  "Subject2": "M21",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250494,
@@ -4947,7 +5052,9 @@
   "DarsCode": "KSD11",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M21"
+  "Mark 1": "N",
+  "Subject2": "M21",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250496,
@@ -4967,7 +5074,9 @@
   "DarsCode": "KSD11",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M21"
+  "Mark 1": "N",
+  "Subject2": "M21",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250498,
@@ -4997,7 +5106,9 @@
   "DarsCode": "KSD11",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M21"
+  "Mark 1": "N",
+  "Subject2": "M21",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250501,
@@ -5007,7 +5118,9 @@
   "DarsCode": "KSD11",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M21"
+  "Mark 1": "N",
+  "Subject2": "M21",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250502,
@@ -5017,7 +5130,9 @@
   "DarsCode": "KSD11",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M21"
+  "Mark 1": "N",
+  "Subject2": "M21",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250503,
@@ -5027,7 +5142,9 @@
   "DarsCode": "KSD11",
   "Category": "A",
   "Subject1": "A16",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250504,
@@ -5037,7 +5154,9 @@
   "DarsCode": "KSD11",
   "Category": "A",
   "Subject1": "A16",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250505,
@@ -5047,7 +5166,9 @@
   "DarsCode": "KSD11",
   "Category": "A",
   "Subject1": "A16",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250506,
@@ -5057,7 +5178,9 @@
   "DarsCode": "KSD11",
   "Category": "A",
   "Subject1": "A16",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250507,
@@ -5067,7 +5190,9 @@
   "DarsCode": "KSD11",
   "Category": "A",
   "Subject1": "A16",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250508,
@@ -5077,7 +5202,9 @@
   "DarsCode": "KSD11",
   "Category": "A",
   "Subject1": "A16",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250509,
@@ -5087,7 +5214,9 @@
   "DarsCode": "KSD11",
   "Category": "A",
   "Subject1": "A16",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250510,
@@ -5097,7 +5226,9 @@
   "DarsCode": "KSD11",
   "Category": "A",
   "Subject1": "A16",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250511,
@@ -5107,7 +5238,9 @@
   "DarsCode": "KSD11",
   "Category": "A",
   "Subject1": "A16",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250512,
@@ -5117,7 +5250,9 @@
   "DarsCode": "KSD11",
   "Category": "A",
   "Subject1": "A16",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250513,
@@ -5127,7 +5262,9 @@
   "DarsCode": "KSD11",
   "Category": "A",
   "Subject1": "A16",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250514,
@@ -5137,7 +5274,9 @@
   "DarsCode": "KSD11",
   "Category": "A",
   "Subject1": "A16",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250515,
@@ -5147,7 +5286,9 @@
   "DarsCode": "KSD11",
   "Category": "A",
   "Subject1": "A16",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250516,
@@ -5157,7 +5298,9 @@
   "DarsCode": "KSD11",
   "Category": "A",
   "Subject1": "A16",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250517,
@@ -5167,7 +5310,9 @@
   "DarsCode": "KSD11",
   "Category": "A",
   "Subject1": "A16",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250518,
@@ -5177,7 +5322,9 @@
   "DarsCode": "KSD11",
   "Category": "A",
   "Subject1": "A16",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 250519,
@@ -6067,7 +6214,7 @@
   "DarsCode": "KNR01",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I11"
  },
  {
   "StudentId": 250608,
@@ -6077,7 +6224,7 @@
   "DarsCode": "KNR01",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I11"
  },
  {
   "StudentId": 250609,
@@ -6087,7 +6234,7 @@
   "DarsCode": "KNR01",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I11"
  },
  {
   "StudentId": 250610,
@@ -6097,7 +6244,7 @@
   "DarsCode": "KNR01",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I11"
  },
  {
   "StudentId": 250611,
@@ -6107,7 +6254,7 @@
   "DarsCode": "KNR01",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I11"
  },
  {
   "StudentId": 250612,
@@ -6117,7 +6264,7 @@
   "DarsCode": "KNR01",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I11"
  },
  {
   "StudentId": 250613,
@@ -6127,7 +6274,7 @@
   "DarsCode": "KNR01",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I11"
  },
  {
   "StudentId": 250614,
@@ -6207,7 +6354,9 @@
   "DarsCode": "KNR01",
   "Category": "M",
   "Subject1": "M16",
-  "Subject2": "M25"
+  "Mark 1": "A",
+  "Subject2": "M25",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250622,
@@ -6237,7 +6386,9 @@
   "DarsCode": "KNR01",
   "Category": "M",
   "Subject1": "M16",
-  "Subject2": "M25"
+  "Mark 1": "A",
+  "Subject2": "M25",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250625,
@@ -6297,7 +6448,9 @@
   "DarsCode": "KNR02",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250631,
@@ -6337,7 +6490,9 @@
   "DarsCode": "KNR02",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250635,
@@ -6357,7 +6512,9 @@
   "DarsCode": "KNR02",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I12"
+  "Mark 1": "A",
+  "Subject2": "I12",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250637,
@@ -6427,7 +6584,9 @@
   "DarsCode": "KNR02",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M26"
+  "Mark 1": "A",
+  "Subject2": "M26",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250644,
@@ -6507,7 +6666,9 @@
   "DarsCode": "KNR02",
   "Category": "A",
   "Subject1": "A2",
-  "Subject2": "A28"
+  "Mark 1": "A",
+  "Subject2": "A28",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250652,
@@ -7297,7 +7458,9 @@
   "DarsCode": "KNR05",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250731,
@@ -7337,7 +7500,9 @@
   "DarsCode": "KNR05",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250735,
@@ -7527,7 +7692,9 @@
   "DarsCode": "KNR05",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250754,
@@ -7657,7 +7824,9 @@
   "DarsCode": "KNR05",
   "Category": "M",
   "Subject1": "M16",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250767,
@@ -7777,7 +7946,9 @@
   "DarsCode": "KNR05",
   "Category": "M",
   "Subject1": "M16",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250779,
@@ -7877,6 +8048,7 @@
   "DarsCode": "KNR05",
   "Category": "M",
   "Subject1": "M16",
+  "Mark 1": "A",
   "Subject2": "M19"
  },
  {
@@ -7887,7 +8059,8 @@
   "DarsCode": "KNR05",
   "Category": "M",
   "Subject1": "M16",
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250790,
@@ -7977,7 +8150,9 @@
   "DarsCode": "KNR05",
   "Category": "M",
   "Subject1": "M16",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250799,
@@ -8776,7 +8951,9 @@
   "DarsCode": "KNR10",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250879,
@@ -9016,7 +9193,9 @@
   "DarsCode": "KNR11",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250903,
@@ -9125,8 +9304,8 @@
   "Place": "KUMMAYAKKADAVU",
   "DarsCode": "KNR12",
   "Category": "M",
-  "Subject1": "M17",
-  "Subject2": "M22"
+  "Subject1": "M8",
+  "Subject2": "M19"
  },
  {
   "StudentId": 250914,
@@ -9135,8 +9314,8 @@
   "Place": "KUMMAYAKKADAVU",
   "DarsCode": "KNR12",
   "Category": "M",
-  "Subject1": "M17",
-  "Subject2": "M22"
+  "Subject1": "M8",
+  "Subject2": "M19"
  },
  {
   "StudentId": 250915,
@@ -9145,8 +9324,8 @@
   "Place": "KUMMAYAKKADAVU",
   "DarsCode": "KNR12",
   "Category": "M",
-  "Subject1": "M17",
-  "Subject2": "M22"
+  "Subject1": "M8",
+  "Subject2": "M19"
  },
  {
   "StudentId": 250916,
@@ -9246,7 +9425,9 @@
   "DarsCode": "KNR12",
   "Category": "A",
   "Subject1": "A20",
-  "Subject2": "A28"
+  "Mark 1": "A",
+  "Subject2": "A28",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250926,
@@ -9476,7 +9657,9 @@
   "DarsCode": "KNR15",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250949,
@@ -9516,7 +9699,9 @@
   "DarsCode": "KNR15",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250953,
@@ -9760,7 +9945,7 @@
  },
  {
   "StudentId": 250977,
-  "Name": "MUHAMMED KHAIR",
+  "Name": "MUHAMMED KV",
   "Dars": "MANBAUL HIDAYA PALOTTUPALLI",
   "Place": "PALOTTUPALLI",
   "DarsCode": "KNR18",
@@ -9856,7 +10041,9 @@
   "DarsCode": "KNR18",
   "Category": "M",
   "Subject1": "M10",
-  "Subject2": "M25"
+  "Mark 1": "A",
+  "Subject2": "M25",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250987,
@@ -9876,7 +10063,9 @@
   "DarsCode": "KNR18",
   "Category": "M",
   "Subject1": "M10",
-  "Subject2": "M25"
+  "Mark 1": "A",
+  "Subject2": "M25",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250989,
@@ -9886,7 +10075,8 @@
   "DarsCode": "KNR18",
   "Category": "M",
   "Subject1": "M10",
-  "Subject2": "M25"
+  "Subject2": "M25",
+  "Mark 2": "A"
  },
  {
   "StudentId": 250990,
@@ -9910,7 +10100,7 @@
  },
  {
   "StudentId": 250992,
-  "Name": "MUHAMMED LIBAN",
+  "Name": "MUHAMMED ITHBAN",
   "Dars": "MANBAUL HIDAYA PALOTTUPALLI",
   "Place": "PALOTTUPALLI",
   "DarsCode": "KNR18",
@@ -10266,7 +10456,9 @@
   "DarsCode": "KNR21",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251028,
@@ -10920,7 +11112,9 @@
   "DarsCode": "KNR21",
   "Category": "A",
   "Subject1": "A4",
-  "Subject2": "A38"
+  "Mark 1": "A",
+  "Subject2": "A38",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251094,
@@ -11190,7 +11384,7 @@
   "DarsCode": "KNR24",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I16"
+  "Subject2": "I11"
  },
  {
   "StudentId": 251121,
@@ -11200,7 +11394,7 @@
   "DarsCode": "KNR24",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I16"
+  "Subject2": "I11"
  },
  {
   "StudentId": 251122,
@@ -11210,7 +11404,7 @@
   "DarsCode": "KNR24",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I16"
+  "Subject2": "I11"
  },
  {
   "StudentId": 251123,
@@ -11220,7 +11414,7 @@
   "DarsCode": "KNR24",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I16"
+  "Subject2": "I11"
  },
  {
   "StudentId": 251124,
@@ -11230,7 +11424,7 @@
   "DarsCode": "KNR24",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I16"
+  "Subject2": "I11"
  },
  {
   "StudentId": 251125,
@@ -11240,7 +11434,7 @@
   "DarsCode": "KNR24",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I16"
+  "Subject2": "I11"
  },
  {
   "StudentId": 251126,
@@ -11620,7 +11814,9 @@
   "DarsCode": "KNR28",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251164,
@@ -11630,7 +11826,9 @@
   "DarsCode": "KNR28",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251165,
@@ -11750,7 +11948,9 @@
   "DarsCode": "KNR29",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251177,
@@ -11770,6 +11970,7 @@
   "DarsCode": "KNR30",
   "Category": "M",
   "Subject1": "M3",
+  "Mark 1": "A",
   "Subject2": "M21"
  },
  {
@@ -12010,7 +12211,9 @@
   "DarsCode": "KNR31",
   "Category": "A",
   "Subject1": "A22",
-  "Subject2": "A42"
+  "Mark 1": "A",
+  "Subject2": "A42",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251203,
@@ -12060,7 +12263,9 @@
   "DarsCode": "KNR32",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251208,
@@ -12080,7 +12285,9 @@
   "DarsCode": "KNR32",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251210,
@@ -12090,7 +12297,9 @@
   "DarsCode": "KNR32",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251211,
@@ -12295,7 +12504,8 @@
   "Place": "PAZHAYANGADI",
   "DarsCode": "KNR34",
   "Category": "A",
-  "Subject1": "A1"
+  "Subject1": "A1",
+  "Mark 1": "A"
  },
  {
   "StudentId": 251232,
@@ -12575,7 +12785,9 @@
   "DarsCode": "CLT01",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I16"
+  "Mark 1": "A",
+  "Subject2": "I16",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251260,
@@ -12625,7 +12837,9 @@
   "DarsCode": "CLT01",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I16"
+  "Mark 1": "A",
+  "Subject2": "I16",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251265,
@@ -12855,7 +13069,9 @@
   "DarsCode": "CLT01",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I16"
+  "Mark 1": "A",
+  "Subject2": "I16",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251288,
@@ -12915,7 +13131,9 @@
   "DarsCode": "CLT01",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M21"
+  "Mark 1": "A",
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251294,
@@ -12955,7 +13173,9 @@
   "DarsCode": "CLT01",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M21"
+  "Mark 1": "A",
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251298,
@@ -13135,7 +13355,9 @@
   "DarsCode": "CLT01",
   "Category": "A",
   "Subject1": "A11",
-  "Subject2": "A26"
+  "Mark 1": "A",
+  "Subject2": "A26",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251316,
@@ -13255,7 +13477,9 @@
   "DarsCode": "CLT02",
   "Category": "M",
   "Subject1": "M3",
-  "Subject2": "M26"
+  "Mark 1": "A",
+  "Subject2": "M26",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251328,
@@ -13355,7 +13579,7 @@
   "DarsCode": "CLT03",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I14"
  },
  {
   "StudentId": 251338,
@@ -13445,7 +13669,9 @@
   "DarsCode": "CLT03",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M26"
+  "Mark 1": "A",
+  "Subject2": "M26",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251347,
@@ -13555,11 +13781,13 @@
   "DarsCode": "CLT04",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251358,
-  "Name": "MUHAMMED",
+  "Name": "MUHAMMED HIJAZ",
   "Dars": "VANIMAL DARS VANIMAL",
   "Place": "VANIMAL",
   "DarsCode": "CLT04",
@@ -13569,7 +13797,7 @@
  },
  {
   "StudentId": 251359,
-  "Name": "MUHAMMED ",
+  "Name": "MUHAMMED HISHAM",
   "Dars": "VANIMAL DARS VANIMAL",
   "Place": "VANIMAL",
   "DarsCode": "CLT04",
@@ -13585,7 +13813,9 @@
   "DarsCode": "CLT04",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251361,
@@ -13595,7 +13825,9 @@
   "DarsCode": "CLT04",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251362,
@@ -13625,7 +13857,9 @@
   "DarsCode": "CLT05",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251365,
@@ -13635,7 +13869,9 @@
   "DarsCode": "CLT05",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251366,
@@ -13785,7 +14021,9 @@
   "DarsCode": "CLT06",
   "Category": "M",
   "Subject1": "M16",
-  "Subject2": "M20"
+  "Mark 1": "A",
+  "Subject2": "M20",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251381,
@@ -13795,7 +14033,9 @@
   "DarsCode": "CLT06",
   "Category": "M",
   "Subject1": "M16",
-  "Subject2": "M20"
+  "Mark 1": "A",
+  "Subject2": "M20",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251382,
@@ -14395,7 +14635,9 @@
   "DarsCode": "CLT09",
   "Category": "M",
   "Subject1": "M3",
-  "Subject2": "M22"
+  "Mark 1": "A",
+  "Subject2": "M22",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251442,
@@ -14965,7 +15207,9 @@
   "DarsCode": "CLT10",
   "Category": "M",
   "Subject1": "M5",
-  "Subject2": "M25"
+  "Mark 1": "A",
+  "Subject2": "M25",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251499,
@@ -15295,7 +15539,9 @@
   "DarsCode": "CLT13",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251532,
@@ -15399,7 +15645,7 @@
  },
  {
   "StudentId": 251542,
-  "Name": "MUHAMMED FAZL",
+  "Name": "MUHAMMED FAZAL",
   "Dars": "DARUL HIDAYA PURAYIL",
   "Place": "PURAYIL",
   "DarsCode": "CLT14",
@@ -15895,7 +16141,7 @@
   "DarsCode": "CLT16",
   "Category": "M",
   "Subject1": "M15",
-  "Subject2": "M24"
+  "Subject2": "M23"
  },
  {
   "StudentId": 251592,
@@ -15905,7 +16151,7 @@
   "DarsCode": "CLT16",
   "Category": "M",
   "Subject1": "M3",
-  "Subject2": "M25"
+  "Subject2": "M23"
  },
  {
   "StudentId": 251593,
@@ -15915,7 +16161,7 @@
   "DarsCode": "CLT16",
   "Category": "M",
   "Subject1": "M3",
-  "Subject2": "M26"
+  "Subject2": "M23"
  },
  {
   "StudentId": 251594,
@@ -15925,7 +16171,7 @@
   "DarsCode": "CLT16",
   "Category": "M",
   "Subject1": "M3",
-  "Subject2": "M27"
+  "Subject2": "M23"
  },
  {
   "StudentId": 251595,
@@ -15935,7 +16181,7 @@
   "DarsCode": "CLT16",
   "Category": "M",
   "Subject1": "M3",
-  "Subject2": "M28"
+  "Subject2": "M23"
  },
  {
   "StudentId": 251596,
@@ -16025,7 +16271,7 @@
   "DarsCode": "CLT18",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I15"
+  "Subject2": "I11"
  },
  {
   "StudentId": 251605,
@@ -16035,7 +16281,7 @@
   "DarsCode": "CLT18",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I15"
+  "Subject2": "I11"
  },
  {
   "StudentId": 251606,
@@ -16045,7 +16291,7 @@
   "DarsCode": "CLT18",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I15"
+  "Subject2": "I11"
  },
  {
   "StudentId": 251607,
@@ -16055,7 +16301,7 @@
   "DarsCode": "CLT18",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I11"
  },
  {
   "StudentId": 251608,
@@ -16065,7 +16311,7 @@
   "DarsCode": "CLT18",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I11"
  },
  {
   "StudentId": 251609,
@@ -16585,7 +16831,9 @@
   "DarsCode": "CLT20",
   "Category": "M",
   "Subject1": "M8",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251661,
@@ -16724,7 +16972,7 @@
   "Place": "KALARANTHIRI",
   "DarsCode": "CLT20",
   "Category": "M",
-  "Subject1": "M8",
+  "Subject1": "M2",
   "Subject2": "M19"
  },
  {
@@ -17145,6 +17393,7 @@
   "DarsCode": "CLT22",
   "Category": "I",
   "Subject1": "I4",
+  "Mark 1": "A",
   "Subject2": "I13"
  },
  {
@@ -17285,7 +17534,9 @@
   "DarsCode": "CLT22",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251731,
@@ -17315,7 +17566,9 @@
   "DarsCode": "CLT22",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251734,
@@ -17445,7 +17698,9 @@
   "DarsCode": "CLT22",
   "Category": "M",
   "Subject1": "M5",
-  "Subject2": "M22"
+  "Mark 1": "N",
+  "Subject2": "M22",
+  "Mark 2": "N"
  },
  {
   "StudentId": 251747,
@@ -17465,7 +17720,9 @@
   "DarsCode": "CLT22",
   "Category": "M",
   "Subject1": "M5",
-  "Subject2": "M21"
+  "Mark 1": "N",
+  "Subject2": "M21",
+  "Mark 2": "N"
  },
  {
   "StudentId": 251749,
@@ -17485,7 +17742,9 @@
   "DarsCode": "CLT22",
   "Category": "M",
   "Subject1": "M5",
-  "Subject2": "M21"
+  "Mark 1": "A",
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251751,
@@ -17495,7 +17754,9 @@
   "DarsCode": "CLT22",
   "Category": "A",
   "Subject1": "A16",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 251752,
@@ -17505,7 +17766,9 @@
   "DarsCode": "CLT22",
   "Category": "A",
   "Subject1": "A16",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 251753,
@@ -17605,7 +17868,9 @@
   "DarsCode": "CLT23",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251763,
@@ -17705,7 +17970,7 @@
   "DarsCode": "CLT24",
   "Category": "M",
   "Subject1": "M17",
-  "Subject2": "M29"
+  "Subject2": "M30"
  },
  {
   "StudentId": 251773,
@@ -17715,7 +17980,7 @@
   "DarsCode": "CLT24",
   "Category": "M",
   "Subject1": "M17",
-  "Subject2": "M29"
+  "Subject2": "M30"
  },
  {
   "StudentId": 251774,
@@ -17725,7 +17990,7 @@
   "DarsCode": "CLT24",
   "Category": "M",
   "Subject1": "M17",
-  "Subject2": "M29"
+  "Subject2": "M30"
  },
  {
   "StudentId": 251775,
@@ -17735,7 +18000,7 @@
   "DarsCode": "CLT24",
   "Category": "M",
   "Subject1": "M8",
-  "Subject2": "M30"
+  "Subject2": "M29"
  },
  {
   "StudentId": 251776,
@@ -17745,7 +18010,7 @@
   "DarsCode": "CLT24",
   "Category": "M",
   "Subject1": "M8",
-  "Subject2": "M30"
+  "Subject2": "M29"
  },
  {
   "StudentId": 251777,
@@ -17755,7 +18020,7 @@
   "DarsCode": "CLT24",
   "Category": "M",
   "Subject1": "M8",
-  "Subject2": "M30"
+  "Subject2": "M29"
  },
  {
   "StudentId": 251778,
@@ -17765,11 +18030,11 @@
   "DarsCode": "CLT24",
   "Category": "M",
   "Subject1": "M8",
-  "Subject2": "M30"
+  "Subject2": "M29"
  },
  {
   "StudentId": 251779,
-  "Name": "MUHAMMED SHANAS",
+  "Name": "MUHAMMED SHINAS",
   "Dars": "BAYANUL ULOOM  MANKAVU",
   "Place": "MANKAVU",
   "DarsCode": "CLT25",
@@ -17889,7 +18154,7 @@
  },
  {
   "StudentId": 251791,
-  "Name": "MUHAMMED",
+  "Name": "AHAMMED HADHIM",
   "Dars": "BAYANUL ULOOM  MANKAVU",
   "Place": "MANKAVU",
   "DarsCode": "CLT25",
@@ -17905,7 +18170,9 @@
   "DarsCode": "CLT25",
   "Category": "I",
   "Subject1": "I2",
-  "Subject2": "I16"
+  "Mark 1": "A",
+  "Subject2": "I16",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251793,
@@ -18085,11 +18352,13 @@
   "DarsCode": "CLT25",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M21"
+  "Mark 1": "A",
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251811,
-  "Name": "AMEEN JUHAL",
+  "Name": "AMEEN JIHAL",
   "Dars": "BAYANUL ULOOM  MANKAVU",
   "Place": "MANKAVU",
   "DarsCode": "CLT25",
@@ -18165,7 +18434,9 @@
   "DarsCode": "CLT25",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A34"
+  "Mark 1": "A",
+  "Subject2": "A34",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251819,
@@ -18195,7 +18466,9 @@
   "DarsCode": "CLT25",
   "Category": "A",
   "Subject1": "A17",
-  "Subject2": "A30"
+  "Mark 1": "N",
+  "Subject2": "A30",
+  "Mark 2": "N"
  },
  {
   "StudentId": 251822,
@@ -18205,7 +18478,9 @@
   "DarsCode": "CLT25",
   "Category": "A",
   "Subject1": "A17",
-  "Subject2": "A30"
+  "Mark 1": "N",
+  "Subject2": "A30",
+  "Mark 2": "N"
  },
  {
   "StudentId": 251823,
@@ -18215,7 +18490,9 @@
   "DarsCode": "CLT25",
   "Category": "A",
   "Subject1": "A17",
-  "Subject2": "A30"
+  "Mark 1": "N",
+  "Subject2": "A30",
+  "Mark 2": "N"
  },
  {
   "StudentId": 251824,
@@ -18225,7 +18502,9 @@
   "DarsCode": "CLT25",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 251825,
@@ -18235,7 +18514,9 @@
   "DarsCode": "CLT25",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 251826,
@@ -18245,7 +18526,9 @@
   "DarsCode": "CLT25",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 251827,
@@ -18255,7 +18538,9 @@
   "DarsCode": "CLT25",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 251828,
@@ -18325,7 +18610,9 @@
   "DarsCode": "CLT26",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251835,
@@ -18345,7 +18632,9 @@
   "DarsCode": "CLT26",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A26"
+  "Mark 1": "A",
+  "Subject2": "A26",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251837,
@@ -18365,7 +18654,8 @@
   "DarsCode": "CLT26",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A26"
+  "Subject2": "A26",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251839,
@@ -18729,7 +19019,7 @@
  },
  {
   "StudentId": 251875,
-  "Name": "MUHAMMED MUHSIN PT",
+  "Name": "MUHAMMED MURSHID PT",
   "Dars": "MUEENU TWALABA KUMARAMPUTHUR",
   "Place": "KUMARAMPUTHUR",
   "DarsCode": "PKD02",
@@ -18955,7 +19245,9 @@
   "DarsCode": "PKD04",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251898,
@@ -19045,7 +19337,9 @@
   "DarsCode": "PKD04",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M25"
+  "Mark 1": "A",
+  "Subject2": "M25",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251907,
@@ -19225,6 +19519,7 @@
   "DarsCode": "PKD06",
   "Category": "I",
   "Subject1": "I3",
+  "Mark 1": "A",
   "Subject2": "I11"
  },
  {
@@ -19235,7 +19530,9 @@
   "DarsCode": "PKD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251926,
@@ -19265,6 +19562,7 @@
   "DarsCode": "PKD06",
   "Category": "I",
   "Subject1": "I3",
+  "Mark 1": "A",
   "Subject2": "I11"
  },
  {
@@ -19295,7 +19593,9 @@
   "DarsCode": "PKD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251932,
@@ -19395,7 +19695,9 @@
   "DarsCode": "PKD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251942,
@@ -19435,6 +19737,7 @@
   "DarsCode": "PKD06",
   "Category": "I",
   "Subject1": "I3",
+  "Mark 1": "A",
   "Subject2": "I11"
  },
  {
@@ -19445,7 +19748,9 @@
   "DarsCode": "PKD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251947,
@@ -19505,7 +19810,9 @@
   "DarsCode": "PKD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251953,
@@ -19525,7 +19832,9 @@
   "DarsCode": "PKD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251955,
@@ -19535,6 +19844,7 @@
   "DarsCode": "PKD06",
   "Category": "I",
   "Subject1": "I3",
+  "Mark 1": "A",
   "Subject2": "I11"
  },
  {
@@ -19545,7 +19855,9 @@
   "DarsCode": "PKD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251957,
@@ -19555,7 +19867,9 @@
   "DarsCode": "PKD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251958,
@@ -19595,7 +19909,9 @@
   "DarsCode": "PKD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251962,
@@ -19615,7 +19931,9 @@
   "DarsCode": "PKD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251964,
@@ -19635,7 +19953,9 @@
   "DarsCode": "PKD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251966,
@@ -19665,7 +19985,9 @@
   "DarsCode": "PKD06",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251969,
@@ -19725,6 +20047,7 @@
   "DarsCode": "PKD06",
   "Category": "M",
   "Subject1": "M1",
+  "Mark 1": "A",
   "Subject2": "M21"
  },
  {
@@ -19735,7 +20058,9 @@
   "DarsCode": "PKD06",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M21"
+  "Mark 1": "A",
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251976,
@@ -19755,7 +20080,9 @@
   "DarsCode": "PKD06",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "A",
+  "Subject2": "A28",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251978,
@@ -19765,7 +20092,8 @@
   "DarsCode": "PKD06",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Subject2": "A28",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251979,
@@ -19775,7 +20103,9 @@
   "DarsCode": "PKD06",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "A",
+  "Subject2": "A28",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251980,
@@ -19795,7 +20125,9 @@
   "DarsCode": "PKD06",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "A",
+  "Subject2": "A28",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251982,
@@ -19835,7 +20167,9 @@
   "DarsCode": "PKD06",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "A",
+  "Subject2": "A28",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251986,
@@ -19845,7 +20179,9 @@
   "DarsCode": "PKD06",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "A",
+  "Subject2": "A28",
+  "Mark 2": "A"
  },
  {
   "StudentId": 251987,
@@ -19975,7 +20311,9 @@
   "DarsCode": "PKD07",
   "Category": "I",
   "Subject1": "I2",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252000,
@@ -19985,7 +20323,9 @@
   "DarsCode": "PKD07",
   "Category": "I",
   "Subject1": "I2",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252001,
@@ -19995,7 +20335,9 @@
   "DarsCode": "PKD07",
   "Category": "I",
   "Subject1": "I2",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252002,
@@ -20675,7 +21017,9 @@
   "DarsCode": "PKD11",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252070,
@@ -20725,7 +21069,9 @@
   "DarsCode": "PKD11",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252075,
@@ -20835,7 +21181,9 @@
   "DarsCode": "PKD12",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252086,
@@ -21515,7 +21863,9 @@
   "DarsCode": "PKD15",
   "Category": "I",
   "Subject1": "I1",
-  "Subject2": "I14"
+  "Mark 1": "A",
+  "Subject2": "I14",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252154,
@@ -21605,7 +21955,9 @@
   "DarsCode": "PKD16",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252163,
@@ -21665,7 +22017,9 @@
   "DarsCode": "PKD16",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252169,
@@ -21675,7 +22029,9 @@
   "DarsCode": "PKD16",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252170,
@@ -21945,7 +22301,9 @@
   "DarsCode": "PKD18",
   "Category": "M",
   "Subject1": "M16",
-  "Subject2": "M25"
+  "Mark 1": "A",
+  "Subject2": "M25",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252197,
@@ -21955,7 +22313,9 @@
   "DarsCode": "PKD18",
   "Category": "M",
   "Subject1": "M16",
-  "Subject2": "M25"
+  "Mark 1": "A",
+  "Subject2": "M25",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252198,
@@ -22305,7 +22665,9 @@
   "DarsCode": "PKD19",
   "Category": "M",
   "Subject1": "M3",
-  "Subject2": "M23"
+  "Mark 1": "A",
+  "Subject2": "M23",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252233,
@@ -22355,7 +22717,9 @@
   "DarsCode": "PKD19",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M23"
+  "Mark 1": "A",
+  "Subject2": "M23",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252238,
@@ -22645,7 +23009,9 @@
   "DarsCode": "PKD21",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252267,
@@ -22655,7 +23021,9 @@
   "DarsCode": "PKD21",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252268,
@@ -22845,7 +23213,9 @@
   "DarsCode": "PKD22",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252287,
@@ -22985,7 +23355,7 @@
   "DarsCode": "PKD22",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I11"
+  "Subject2": "I12"
  },
  {
   "StudentId": 252301,
@@ -22995,7 +23365,7 @@
   "DarsCode": "PKD22",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I11"
+  "Subject2": "I12"
  },
  {
   "StudentId": 252302,
@@ -23005,7 +23375,7 @@
   "DarsCode": "PKD22",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I11"
+  "Subject2": "I12"
  },
  {
   "StudentId": 252303,
@@ -23015,7 +23385,7 @@
   "DarsCode": "PKD22",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I11"
+  "Subject2": "I12"
  },
  {
   "StudentId": 252304,
@@ -23025,7 +23395,7 @@
   "DarsCode": "PKD22",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I11"
+  "Subject2": "I12"
  },
  {
   "StudentId": 252305,
@@ -23035,7 +23405,7 @@
   "DarsCode": "PKD22",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I11"
+  "Subject2": "I12"
  },
  {
   "StudentId": 252306,
@@ -23045,7 +23415,7 @@
   "DarsCode": "PKD22",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I11"
+  "Subject2": "I12"
  },
  {
   "StudentId": 252307,
@@ -23055,7 +23425,7 @@
   "DarsCode": "PKD22",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I11"
+  "Subject2": "I12"
  },
  {
   "StudentId": 252308,
@@ -23065,7 +23435,7 @@
   "DarsCode": "PKD22",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I11"
+  "Subject2": "I12"
  },
  {
   "StudentId": 252309,
@@ -23075,7 +23445,7 @@
   "DarsCode": "PKD22",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I11"
+  "Subject2": "I12"
  },
  {
   "StudentId": 252310,
@@ -23085,7 +23455,7 @@
   "DarsCode": "PKD22",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I11"
+  "Subject2": "I12"
  },
  {
   "StudentId": 252311,
@@ -23295,7 +23665,8 @@
   "DarsCode": "PKD22",
   "Category": "M",
   "Subject1": "M16",
-  "Subject2": "M21"
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252332,
@@ -23405,7 +23776,9 @@
   "DarsCode": "PKD22",
   "Category": "M",
   "Subject1": "M16",
-  "Subject2": "M25"
+  "Mark 1": "A",
+  "Subject2": "M25",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252343,
@@ -23555,7 +23928,9 @@
   "DarsCode": "PKD24",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M8"
+  "Mark 1": "A",
+  "Subject2": "M8",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252358,
@@ -24095,6 +24470,7 @@
   "DarsCode": "PKD28",
   "Category": "I",
   "Subject1": "I3",
+  "Mark 1": "A",
   "Subject2": "I11"
  },
  {
@@ -24115,6 +24491,7 @@
   "DarsCode": "PKD28",
   "Category": "I",
   "Subject1": "I4",
+  "Mark 1": "A",
   "Subject2": "I13"
  },
  {
@@ -24124,7 +24501,7 @@
   "Place": "VALLAPPUZHA",
   "DarsCode": "PKD28",
   "Category": "I",
-  "Subject1": "I4",
+  "Subject1": "I7",
   "Subject2": "I13"
  },
  {
@@ -24225,7 +24602,9 @@
   "DarsCode": "PKD29",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252425,
@@ -24455,7 +24834,9 @@
   "DarsCode": "PKD29",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A26"
+  "Mark 1": "A",
+  "Subject2": "A26",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252448,
@@ -24575,7 +24956,9 @@
   "DarsCode": "PKD30",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252460,
@@ -24705,7 +25088,9 @@
   "DarsCode": "PKD31",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M25"
+  "Mark 1": "A",
+  "Subject2": "M25",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252473,
@@ -24745,7 +25130,9 @@
   "DarsCode": "PKD31",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M25"
+  "Mark 1": "A",
+  "Subject2": "M25",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252477,
@@ -24775,7 +25162,8 @@
   "DarsCode": "PKD32",
   "Category": "I",
   "Subject1": "I2",
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252480,
@@ -24895,7 +25283,9 @@
   "DarsCode": "PKD32",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252492,
@@ -24945,7 +25335,9 @@
   "DarsCode": "PKD33",
   "Category": "I",
   "Subject1": "I9",
-  "Subject2": "I16"
+  "Mark 1": "A",
+  "Subject2": "I16",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252497,
@@ -25095,6 +25487,7 @@
   "DarsCode": "PKD34",
   "Category": "I",
   "Subject1": "I3",
+  "Mark 1": "A",
   "Subject2": "I16"
  },
  {
@@ -25125,6 +25518,7 @@
   "DarsCode": "PKD34",
   "Category": "I",
   "Subject1": "I3",
+  "Mark 1": "A",
   "Subject2": "I16"
  },
  {
@@ -25145,7 +25539,9 @@
   "DarsCode": "PKD34",
   "Category": "M",
   "Subject1": "M8",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252517,
@@ -25155,7 +25551,9 @@
   "DarsCode": "PKD34",
   "Category": "M",
   "Subject1": "M8",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252518,
@@ -25215,7 +25613,8 @@
   "DarsCode": "PKD35",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252524,
@@ -25225,7 +25624,8 @@
   "DarsCode": "PKD35",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252525,
@@ -25235,7 +25635,8 @@
   "DarsCode": "PKD35",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252526,
@@ -25245,7 +25646,8 @@
   "DarsCode": "PKD35",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252527,
@@ -25405,7 +25807,9 @@
   "DarsCode": "PKD37",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252543,
@@ -25475,7 +25879,9 @@
   "DarsCode": "PKD37",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I12"
+  "Mark 1": "A",
+  "Subject2": "I12",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252550,
@@ -25635,7 +26041,9 @@
   "DarsCode": "PKD38",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252566,
@@ -25655,7 +26063,7 @@
   "DarsCode": "PKD38",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M12"
+  "Subject2": "M21"
  },
  {
   "StudentId": 252568,
@@ -25975,6 +26383,7 @@
   "DarsCode": "MLP01",
   "Category": "I",
   "Subject1": "I3",
+  "Mark 1": "A",
   "Subject2": "I11"
  },
  {
@@ -26815,6 +27224,7 @@
   "DarsCode": "MLP01",
   "Category": "M",
   "Subject1": "M16",
+  "Mark 1": "A",
   "Subject2": "M25"
  },
  {
@@ -26835,6 +27245,7 @@
   "DarsCode": "MLP01",
   "Category": "M",
   "Subject1": "M2",
+  "Mark 1": "A",
   "Subject2": "M22"
  },
  {
@@ -27329,7 +27740,7 @@
  },
  {
   "StudentId": 252735,
-  "Name": "SINVAR",
+  "Name": "SINVAN",
   "Dars": "FIRDOUSUL ULOOM VADAKKUMURI",
   "Place": "VADAKKUMURI",
   "DarsCode": "MLP04",
@@ -27399,7 +27810,7 @@
  },
  {
   "StudentId": 252742,
-  "Name": "HAFIZ MUHAMMED RASHAD",
+  "Name": "HAFIZ MUHAMMED AUFI",
   "Dars": "FIRDOUSUL ULOOM VADAKKUMURI",
   "Place": "VADAKKUMURI",
   "DarsCode": "MLP04",
@@ -27445,7 +27856,9 @@
   "DarsCode": "MLP04",
   "Category": "A",
   "Subject1": "A2",
-  "Subject2": "A31"
+  "Mark 1": "N",
+  "Subject2": "A31",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252747,
@@ -27455,7 +27868,9 @@
   "DarsCode": "MLP04",
   "Category": "A",
   "Subject1": "A2",
-  "Subject2": "A31"
+  "Mark 1": "N",
+  "Subject2": "A31",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252748,
@@ -27465,7 +27880,9 @@
   "DarsCode": "MLP04",
   "Category": "A",
   "Subject1": "A2",
-  "Subject2": "A31"
+  "Mark 1": "N",
+  "Subject2": "A31",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252749,
@@ -27475,7 +27892,9 @@
   "DarsCode": "MLP04",
   "Category": "A",
   "Subject1": "A2",
-  "Subject2": "A31"
+  "Mark 1": "N",
+  "Subject2": "A31",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252750,
@@ -27675,7 +28094,7 @@
   "DarsCode": "MLP05",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M20"
+  "Subject2": "M21"
  },
  {
   "StudentId": 252770,
@@ -27685,7 +28104,7 @@
   "DarsCode": "MLP05",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M20"
+  "Subject2": "M21"
  },
  {
   "StudentId": 252771,
@@ -27695,7 +28114,7 @@
   "DarsCode": "MLP05",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M20"
+  "Subject2": "M21"
  },
  {
   "StudentId": 252772,
@@ -27705,7 +28124,7 @@
   "DarsCode": "MLP05",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M20"
+  "Subject2": "M21"
  },
  {
   "StudentId": 252773,
@@ -27715,7 +28134,7 @@
   "DarsCode": "MLP05",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M20"
+  "Subject2": "M21"
  },
  {
   "StudentId": 252774,
@@ -27725,7 +28144,7 @@
   "DarsCode": "MLP05",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M20"
+  "Subject2": "M21"
  },
  {
   "StudentId": 252775,
@@ -27735,7 +28154,7 @@
   "DarsCode": "MLP05",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M20"
+  "Subject2": "M21"
  },
  {
   "StudentId": 252776,
@@ -27985,6 +28404,7 @@
   "DarsCode": "MLP07",
   "Category": "I",
   "Subject1": "I3",
+  "Mark 1": "A",
   "Subject2": "I16"
  },
  {
@@ -28115,7 +28535,9 @@
   "DarsCode": "MLP07",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "A",
+  "Subject2": "A28",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252814,
@@ -28125,7 +28547,9 @@
   "DarsCode": "MLP07",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "A",
+  "Subject2": "A28",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252815,
@@ -28695,7 +29119,9 @@
   "DarsCode": "MLP08",
   "Category": "I",
   "Subject1": "I5",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 252872,
@@ -29395,7 +29821,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252942,
@@ -29405,7 +29833,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252943,
@@ -29415,7 +29845,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252944,
@@ -29425,7 +29857,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252945,
@@ -29435,7 +29869,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252946,
@@ -29445,7 +29881,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252947,
@@ -29455,7 +29893,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252948,
@@ -29465,7 +29905,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252949,
@@ -29475,7 +29917,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252950,
@@ -29485,7 +29929,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252951,
@@ -29495,7 +29941,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252952,
@@ -29505,7 +29953,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252953,
@@ -29515,7 +29965,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252954,
@@ -29525,7 +29977,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252955,
@@ -29535,7 +29989,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252956,
@@ -29545,7 +30001,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252957,
@@ -29555,7 +30013,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252958,
@@ -29565,7 +30025,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252959,
@@ -29575,7 +30037,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A32"
+  "Mark 1": "N",
+  "Subject2": "A32",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252960,
@@ -29585,7 +30049,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252961,
@@ -29595,7 +30061,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252962,
@@ -29605,7 +30073,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252963,
@@ -29615,7 +30085,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A2",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252964,
@@ -29625,7 +30097,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A32"
+  "Mark 1": "N",
+  "Subject2": "A32",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252965,
@@ -29635,7 +30109,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252966,
@@ -29645,7 +30121,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252967,
@@ -29655,7 +30133,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252968,
@@ -29665,7 +30145,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252969,
@@ -29675,7 +30157,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252970,
@@ -29685,7 +30169,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252971,
@@ -29695,7 +30181,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252972,
@@ -29705,7 +30193,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252973,
@@ -29715,7 +30205,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252974,
@@ -29725,7 +30217,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252975,
@@ -29735,7 +30229,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252976,
@@ -29745,7 +30241,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252977,
@@ -29755,7 +30253,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252978,
@@ -29765,7 +30265,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252979,
@@ -29775,7 +30277,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252980,
@@ -29785,7 +30289,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252981,
@@ -29795,7 +30301,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A3",
-  "Subject2": "A29"
+  "Mark 1": "N",
+  "Subject2": "A29",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252982,
@@ -29805,7 +30313,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A2",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252983,
@@ -29815,7 +30325,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A2",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252984,
@@ -29825,7 +30337,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A2",
-  "Subject2": "A32"
+  "Mark 1": "N",
+  "Subject2": "A32",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252985,
@@ -29835,7 +30349,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252986,
@@ -29845,7 +30361,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A32"
+  "Mark 1": "N",
+  "Subject2": "A32",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252987,
@@ -29855,7 +30373,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A32"
+  "Mark 1": "N",
+  "Subject2": "A32",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252988,
@@ -29865,7 +30385,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252989,
@@ -29875,7 +30397,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A32"
+  "Mark 1": "N",
+  "Subject2": "A32",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252990,
@@ -29885,7 +30409,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A38"
+  "Mark 1": "N",
+  "Subject2": "A38",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252991,
@@ -29895,7 +30421,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252992,
@@ -29905,7 +30433,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252993,
@@ -29915,7 +30445,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252994,
@@ -29925,7 +30457,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252995,
@@ -29935,7 +30469,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252996,
@@ -29945,7 +30481,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252997,
@@ -29955,7 +30493,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252998,
@@ -29965,7 +30505,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 252999,
@@ -29975,7 +30517,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253000,
@@ -29985,7 +30529,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A32"
+  "Mark 1": "N",
+  "Subject2": "A32",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253001,
@@ -29995,7 +30541,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A32"
+  "Mark 1": "N",
+  "Subject2": "A32",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253002,
@@ -30005,7 +30553,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253003,
@@ -30015,7 +30565,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253004,
@@ -30025,7 +30577,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253005,
@@ -30035,7 +30589,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253006,
@@ -30045,7 +30601,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253007,
@@ -30055,7 +30613,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253008,
@@ -30065,7 +30625,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253009,
@@ -30075,7 +30637,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253010,
@@ -30085,7 +30649,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253011,
@@ -30095,7 +30661,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253012,
@@ -30105,7 +30673,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A32"
+  "Mark 1": "N",
+  "Subject2": "A32",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253013,
@@ -30115,7 +30685,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253014,
@@ -30125,7 +30697,9 @@
   "DarsCode": "MLP08",
   "Category": "A",
   "Subject1": "A11",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253015,
@@ -32605,7 +33179,9 @@
   "DarsCode": "MLP11",
   "Category": "M",
   "Subject1": "M18",
-  "Subject2": "M28"
+  "Mark 1": "A",
+  "Subject2": "M28",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253263,
@@ -32635,6 +33211,7 @@
   "DarsCode": "MLP11",
   "Category": "M",
   "Subject1": "M14",
+  "Mark 1": "A",
   "Subject2": "M26"
  },
  {
@@ -32665,7 +33242,9 @@
   "DarsCode": "MLP11",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M18"
+  "Mark 1": "A",
+  "Subject2": "M18",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253269,
@@ -32675,7 +33254,8 @@
   "DarsCode": "MLP11",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M18"
+  "Subject2": "M18",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253270,
@@ -32685,6 +33265,7 @@
   "DarsCode": "MLP11",
   "Category": "M",
   "Subject1": "M18",
+  "Mark 1": "A",
   "Subject2": 0
  },
  {
@@ -32755,7 +33336,9 @@
   "DarsCode": "MLP12",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253278,
@@ -33115,7 +33698,9 @@
   "DarsCode": "MLP14",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253314,
@@ -33155,7 +33740,9 @@
   "DarsCode": "MLP14",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253318,
@@ -33225,7 +33812,9 @@
   "DarsCode": "MLP14",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253325,
@@ -33295,7 +33884,9 @@
   "DarsCode": "MLP14",
   "Category": "M",
   "Subject1": "M10",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253332,
@@ -33345,7 +33936,9 @@
   "DarsCode": "MLP14",
   "Category": "M",
   "Subject1": "M10",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253337,
@@ -33455,7 +34048,9 @@
   "DarsCode": "MLP15",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253348,
@@ -33525,6 +34120,7 @@
   "DarsCode": "MLP16",
   "Category": "I",
   "Subject1": "I3",
+  "Mark 1": "A",
   "Subject2": "I11"
  },
  {
@@ -33559,7 +34155,7 @@
  },
  {
   "StudentId": 253358,
-  "Name": "MUHAMMED IRSHAD",
+  "Name": "MUHAMMED ARSHAN",
   "Dars": "SIRAJUL ULAMA CHENGUVETTY",
   "Place": "CHENGUVETTY",
   "DarsCode": "MLP16",
@@ -33589,7 +34185,7 @@
  },
  {
   "StudentId": 253361,
-  "Name": "MUHAMMED ANSAL",
+  "Name": "MUHAMMED ANSIL",
   "Dars": "SIRAJUL ULAMA CHENGUVETTY",
   "Place": "CHENGUVETTY",
   "DarsCode": "MLP16",
@@ -33615,7 +34211,9 @@
   "DarsCode": "MLP16",
   "Category": "M",
   "Subject1": "M8",
-  "Subject2": "M25"
+  "Mark 1": "A",
+  "Subject2": "M25",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253364,
@@ -33665,7 +34263,9 @@
   "DarsCode": "MLP16",
   "Category": "A",
   "Subject1": "A22",
-  "Subject2": "A28"
+  "Mark 1": "A",
+  "Subject2": "A28",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253369,
@@ -33675,7 +34275,9 @@
   "DarsCode": "MLP16",
   "Category": "A",
   "Subject1": "A22",
-  "Subject2": "A28"
+  "Mark 1": "A",
+  "Subject2": "A28",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253370,
@@ -33715,7 +34317,9 @@
   "DarsCode": "MLP17",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253374,
@@ -33815,7 +34419,9 @@
   "DarsCode": "MLP17",
   "Category": "A",
   "Subject1": "A2",
-  "Subject2": "A28"
+  "Mark 1": "A",
+  "Subject2": "A28",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253384,
@@ -34005,7 +34611,9 @@
   "DarsCode": "MLP18",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M21"
+  "Mark 1": "A",
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253403,
@@ -34055,7 +34663,7 @@
   "DarsCode": "MLP18",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M21"
+  "Subject2": "M19"
  },
  {
   "StudentId": 253408,
@@ -34065,7 +34673,7 @@
   "DarsCode": "MLP18",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M21"
+  "Subject2": "M19"
  },
  {
   "StudentId": 253409,
@@ -34135,7 +34743,9 @@
   "DarsCode": "MLP18",
   "Category": "M",
   "Subject1": "M8",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253416,
@@ -34274,7 +34884,7 @@
   "Place": "KAVANUR",
   "DarsCode": "MLP19",
   "Category": "M",
-  "Subject1": "M1",
+  "Subject1": "M5",
   "Subject2": "M22"
  },
  {
@@ -34284,7 +34894,7 @@
   "Place": "KAVANUR",
   "DarsCode": "MLP19",
   "Category": "M",
-  "Subject1": "M1",
+  "Subject1": "M5",
   "Subject2": "M22"
  },
  {
@@ -34294,7 +34904,7 @@
   "Place": "KAVANUR",
   "DarsCode": "MLP19",
   "Category": "M",
-  "Subject1": "M1",
+  "Subject1": "M5",
   "Subject2": "M22"
  },
  {
@@ -34304,7 +34914,7 @@
   "Place": "KAVANUR",
   "DarsCode": "MLP19",
   "Category": "M",
-  "Subject1": "M1",
+  "Subject1": "M5",
   "Subject2": "M22"
  },
  {
@@ -34314,7 +34924,7 @@
   "Place": "KAVANUR",
   "DarsCode": "MLP19",
   "Category": "M",
-  "Subject1": "M1",
+  "Subject1": "M5",
   "Subject2": "M22"
  },
  {
@@ -34324,7 +34934,7 @@
   "Place": "KAVANUR",
   "DarsCode": "MLP19",
   "Category": "M",
-  "Subject1": "M5",
+  "Subject1": "M1",
   "Subject2": "M19"
  },
  {
@@ -34334,7 +34944,7 @@
   "Place": "KAVANUR",
   "DarsCode": "MLP19",
   "Category": "M",
-  "Subject1": "M5",
+  "Subject1": "M1",
   "Subject2": "M19"
  },
  {
@@ -34344,7 +34954,7 @@
   "Place": "KAVANUR",
   "DarsCode": "MLP19",
   "Category": "M",
-  "Subject1": "M5",
+  "Subject1": "M1",
   "Subject2": "M19"
  },
  {
@@ -34354,7 +34964,7 @@
   "Place": "KAVANUR",
   "DarsCode": "MLP19",
   "Category": "M",
-  "Subject1": "M5",
+  "Subject1": "M1",
   "Subject2": "M19"
  },
  {
@@ -34364,7 +34974,7 @@
   "Place": "KAVANUR",
   "DarsCode": "MLP19",
   "Category": "M",
-  "Subject1": "M5",
+  "Subject1": "M1",
   "Subject2": "M19"
  },
  {
@@ -34374,7 +34984,7 @@
   "Place": "KAVANUR",
   "DarsCode": "MLP19",
   "Category": "M",
-  "Subject1": "M5",
+  "Subject1": "M1",
   "Subject2": "M19"
  },
  {
@@ -34384,7 +34994,7 @@
   "Place": "KAVANUR",
   "DarsCode": "MLP19",
   "Category": "M",
-  "Subject1": "M5",
+  "Subject1": "M1",
   "Subject2": "M19"
  },
  {
@@ -34739,7 +35349,7 @@
  },
  {
   "StudentId": 253476,
-  "Name": "MUHAMMED RASHAL",
+  "Name": "MUHAMMED RISHAL",
   "Dars": "MANSHAUL ULOOM  PUTHUPARAMBA",
   "Place": "PUTHUPARAMBA",
   "DarsCode": "MLP21",
@@ -34759,7 +35369,7 @@
  },
  {
   "StudentId": 253478,
-  "Name": "SHIBL",
+  "Name": "SHIBIN",
   "Dars": "MANSHAUL ULOOM  PUTHUPARAMBA",
   "Place": "PUTHUPARAMBA",
   "DarsCode": "MLP21",
@@ -34799,7 +35409,7 @@
  },
  {
   "StudentId": 253482,
-  "Name": "AJMAL ANEEF",
+  "Name": "AJMAL AMEEN",
   "Dars": "MANSHAUL ULOOM  PUTHUPARAMBA",
   "Place": "PUTHUPARAMBA",
   "DarsCode": "MLP21",
@@ -34809,7 +35419,7 @@
  },
  {
   "StudentId": 253483,
-  "Name": "SAYED FOUZ",
+  "Name": "SAYED FAWAZ",
   "Dars": "MANSHAUL ULOOM  PUTHUPARAMBA",
   "Place": "PUTHUPARAMBA",
   "DarsCode": "MLP21",
@@ -34819,7 +35429,7 @@
  },
  {
   "StudentId": 253484,
-  "Name": "MUHAMMED MUNAWWAR",
+  "Name": "MUNAWWAR",
   "Dars": "MANSHAUL ULOOM  PUTHUPARAMBA",
   "Place": "PUTHUPARAMBA",
   "DarsCode": "MLP21",
@@ -34865,7 +35475,9 @@
   "DarsCode": "MLP21",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M21"
+  "Mark 1": "A",
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253489,
@@ -34879,7 +35491,7 @@
  },
  {
   "StudentId": 253490,
-  "Name": "DULKIFL",
+  "Name": "DULKIFL E",
   "Dars": "MANSHAUL ULOOM  PUTHUPARAMBA",
   "Place": "PUTHUPARAMBA",
   "DarsCode": "MLP21",
@@ -34909,7 +35521,7 @@
  },
  {
   "StudentId": 253493,
-  "Name": "JINAN",
+  "Name": "JASNAN",
   "Dars": "MANSHAUL ULOOM  PUTHUPARAMBA",
   "Place": "PUTHUPARAMBA",
   "DarsCode": "MLP21",
@@ -34939,7 +35551,7 @@
  },
  {
   "StudentId": 253496,
-  "Name": "MUHAMMED SAHIR T",
+  "Name": "MUHAMMED THAHIR K",
   "Dars": "MANSHAUL ULOOM  PUTHUPARAMBA",
   "Place": "PUTHUPARAMBA",
   "DarsCode": "MLP21",
@@ -34949,7 +35561,7 @@
  },
  {
   "StudentId": 253497,
-  "Name": "MUHAMMED ARSHAD A",
+  "Name": "ARSHAD RAHMAN A",
   "Dars": "MANSHAUL ULOOM  PUTHUPARAMBA",
   "Place": "PUTHUPARAMBA",
   "DarsCode": "MLP21",
@@ -35005,7 +35617,9 @@
   "DarsCode": "MLP22",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253503,
@@ -35325,7 +35939,9 @@
   "DarsCode": "MLP25",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M21"
+  "Mark 1": "N",
+  "Subject2": "M21",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253535,
@@ -35335,7 +35951,9 @@
   "DarsCode": "MLP25",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M21"
+  "Mark 1": "N",
+  "Subject2": "M21",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253536,
@@ -35355,7 +35973,9 @@
   "DarsCode": "MLP25",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M21"
+  "Mark 1": "N",
+  "Subject2": "M21",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253538,
@@ -35555,7 +36175,9 @@
   "DarsCode": "MLP26",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253558,
@@ -35565,7 +36187,7 @@
   "DarsCode": "MLP27",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "A13"
+  "Subject2": "I13"
  },
  {
   "StudentId": 253559,
@@ -35575,7 +36197,7 @@
   "DarsCode": "MLP27",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "A13"
+  "Subject2": "I13"
  },
  {
   "StudentId": 253560,
@@ -35585,7 +36207,7 @@
   "DarsCode": "MLP27",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "A13"
+  "Subject2": "I13"
  },
  {
   "StudentId": 253561,
@@ -35595,7 +36217,7 @@
   "DarsCode": "MLP27",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "A13"
+  "Subject2": "I13"
  },
  {
   "StudentId": 253562,
@@ -35605,7 +36227,7 @@
   "DarsCode": "MLP27",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "A13"
+  "Subject2": "I13"
  },
  {
   "StudentId": 253563,
@@ -36095,7 +36717,9 @@
   "DarsCode": "MLP30",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253612,
@@ -36295,7 +36919,9 @@
   "DarsCode": "MLP30",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M25"
+  "Mark 1": "A",
+  "Subject2": "M25",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253632,
@@ -36315,7 +36941,9 @@
   "DarsCode": "MLP30",
   "Category": "M",
   "Subject1": "M12",
-  "Subject2": "M23"
+  "Mark 1": "A",
+  "Subject2": "M23",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253634,
@@ -36425,7 +37053,9 @@
   "DarsCode": "MLP31",
   "Category": "M",
   "Subject1": "M16",
-  "Subject2": "M21"
+  "Mark 1": "N",
+  "Subject2": "M21",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253645,
@@ -36435,7 +37065,9 @@
   "DarsCode": "MLP31",
   "Category": "M",
   "Subject1": "M16",
-  "Subject2": "M21"
+  "Mark 1": "N",
+  "Subject2": "M21",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253646,
@@ -36495,7 +37127,8 @@
   "DarsCode": "MLP32",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253652,
@@ -36545,7 +37178,8 @@
   "DarsCode": "MLP32",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253657,
@@ -36555,7 +37189,8 @@
   "DarsCode": "MLP32",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253658,
@@ -36565,7 +37200,8 @@
   "DarsCode": "MLP32",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253659,
@@ -36815,7 +37451,9 @@
   "DarsCode": "MLP33",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253684,
@@ -36845,7 +37483,9 @@
   "DarsCode": "MLP33",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253687,
@@ -36875,7 +37515,9 @@
   "DarsCode": "MLP33",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253690,
@@ -36945,6 +37587,7 @@
   "DarsCode": "MLP33",
   "Category": "I",
   "Subject1": "I3",
+  "Mark 1": "A",
   "Subject2": "I11"
  },
  {
@@ -37235,7 +37878,9 @@
   "DarsCode": "MLP33",
   "Category": "I",
   "Subject1": "I1",
-  "Subject2": "I12"
+  "Mark 1": "A",
+  "Subject2": "I12",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253726,
@@ -37335,6 +37980,7 @@
   "DarsCode": "MLP33",
   "Category": "I",
   "Subject1": "I7",
+  "Mark 1": "A",
   "Subject2": "I13"
  },
  {
@@ -37555,7 +38201,9 @@
   "DarsCode": "MLP33",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M25"
+  "Mark 1": "A",
+  "Subject2": "M25",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253758,
@@ -37605,7 +38253,9 @@
   "DarsCode": "MLP33",
   "Category": "M",
   "Subject1": "M16",
-  "Subject2": "M27"
+  "Mark 1": "A",
+  "Subject2": "M27",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253763,
@@ -37715,7 +38365,9 @@
   "DarsCode": "MLP33",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253774,
@@ -37725,7 +38377,9 @@
   "DarsCode": "MLP33",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253775,
@@ -37735,7 +38389,9 @@
   "DarsCode": "MLP33",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253776,
@@ -37745,7 +38401,9 @@
   "DarsCode": "MLP33",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253777,
@@ -37755,7 +38413,9 @@
   "DarsCode": "MLP33",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253778,
@@ -37765,7 +38425,9 @@
   "DarsCode": "MLP33",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253779,
@@ -37775,7 +38437,9 @@
   "DarsCode": "MLP33",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253780,
@@ -37785,7 +38449,9 @@
   "DarsCode": "MLP33",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253781,
@@ -37795,7 +38461,9 @@
   "DarsCode": "MLP33",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253782,
@@ -38099,7 +38767,7 @@
  },
  {
   "StudentId": 253812,
-  "Name": "RASHAD",
+  "Name": "RISHAD",
   "Dars": "SOUTHUSHAREE'A EDAKKARA",
   "Place": "EDAKKARA",
   "DarsCode": "MLP35",
@@ -38109,7 +38777,7 @@
  },
  {
   "StudentId": 253813,
-  "Name": "SAMEEL",
+  "Name": "SUHAIL",
   "Dars": "SOUTHUSHAREE'A EDAKKARA",
   "Place": "EDAKKARA",
   "DarsCode": "MLP35",
@@ -38189,7 +38857,7 @@
  },
  {
   "StudentId": 253821,
-  "Name": "NABHAN",
+  "Name": "SHANAVAS",
   "Dars": "SOUTHUSHAREE'A EDAKKARA",
   "Place": "EDAKKARA",
   "DarsCode": "MLP35",
@@ -38205,7 +38873,9 @@
   "DarsCode": "MLP35",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253823,
@@ -38345,7 +39015,9 @@
   "DarsCode": "MLP35",
   "Category": "A",
   "Subject1": "A20",
-  "Subject2": "A26"
+  "Mark 1": "A",
+  "Subject2": "A26",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253837,
@@ -38365,7 +39037,9 @@
   "DarsCode": "MLP35",
   "Category": "A",
   "Subject1": "A20",
-  "Subject2": "A26"
+  "Mark 1": "A",
+  "Subject2": "A26",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253839,
@@ -38389,7 +39063,7 @@
  },
  {
   "StudentId": 253841,
-  "Name": "MUHAMMED SHAHAN",
+  "Name": "MUHAMMED SHIHAN",
   "Dars": "SOUTHUSHAREE'A EDAKKARA",
   "Place": "EDAKKARA",
   "DarsCode": "MLP35",
@@ -38405,7 +39079,9 @@
   "DarsCode": "MLP35",
   "Category": "A",
   "Subject1": "A20",
-  "Subject2": "A26"
+  "Mark 1": "A",
+  "Subject2": "A26",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253843,
@@ -38495,7 +39171,9 @@
   "DarsCode": "MLP36",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253852,
@@ -38544,7 +39222,7 @@
   "Place": "EDAKKARA PALATHINGAL",
   "DarsCode": "MLP37",
   "Category": "I",
-  "Subject1": "I3",
+  "Subject1": "I4",
   "Subject2": "I11"
  },
  {
@@ -38554,8 +39232,8 @@
   "Place": "EDAKKARA PALATHINGAL",
   "DarsCode": "MLP37",
   "Category": "I",
-  "Subject1": "I3",
-  "Subject2": "I14"
+  "Subject1": "I4",
+  "Subject2": "I11"
  },
  {
   "StudentId": 253858,
@@ -38565,7 +39243,9 @@
   "DarsCode": "MLP37",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I14"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253859,
@@ -38575,7 +39255,9 @@
   "DarsCode": "MLP37",
   "Category": "M",
   "Subject1": "M8",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253860,
@@ -38595,7 +39277,8 @@
   "DarsCode": "MLP37",
   "Category": "M",
   "Subject1": "M8",
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253862,
@@ -38665,6 +39348,7 @@
   "DarsCode": "MLP38",
   "Category": "I",
   "Subject1": "I9",
+  "Mark 1": "A",
   "Subject2": "I13"
  },
  {
@@ -38674,7 +39358,7 @@
   "Place": "POOKOTUMPADAM",
   "DarsCode": "MLP38",
   "Category": "M",
-  "Subject1": "M16",
+  "Subject1": "M1",
   "Subject2": "M19"
  },
  {
@@ -38684,7 +39368,7 @@
   "Place": "POOKOTUMPADAM",
   "DarsCode": "MLP38",
   "Category": "M",
-  "Subject1": "M16",
+  "Subject1": "M1",
   "Subject2": "M19"
  },
  {
@@ -38725,7 +39409,9 @@
   "DarsCode": "MLP38",
   "Category": "M",
   "Subject1": "M17",
-  "Subject2": "M21"
+  "Mark 1": "A",
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253875,
@@ -38775,6 +39461,7 @@
   "DarsCode": "MLP38",
   "Category": "A",
   "Subject1": "A22",
+  "Mark 1": "N",
   "Subject2": "A42"
  },
  {
@@ -38945,6 +39632,7 @@
   "DarsCode": "MLP40",
   "Category": "I",
   "Subject1": "I7",
+  "Mark 1": "A",
   "Subject2": "I11"
  },
  {
@@ -38975,7 +39663,9 @@
   "DarsCode": "MLP40",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253900,
@@ -39025,6 +39715,7 @@
   "DarsCode": "MLP40",
   "Category": "I",
   "Subject1": "I4",
+  "Mark 1": "A",
   "Subject2": "I13"
  },
  {
@@ -39135,7 +39826,9 @@
   "DarsCode": "MLP40",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A26"
+  "Mark 1": "A",
+  "Subject2": "A26",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253916,
@@ -39269,12 +39962,13 @@
  },
  {
   "StudentId": 253929,
-  "Name": "SAYED UWAIS",
+  "Name": "SAYED UMAIS",
   "Dars": "HIDAYATHU TWALABA THRIKKALANGODE",
   "Place": "THRIKKALANGODE",
   "DarsCode": "MLP41",
   "Category": "M",
   "Subject1": "M2",
+  "Mark 1": "A",
   "Subject2": "M22"
  },
  {
@@ -39299,7 +39993,7 @@
  },
  {
   "StudentId": 253932,
-  "Name": "DISHAD",
+  "Name": "DILSHAD",
   "Dars": "HIDAYATHU TWALABA THRIKKALANGODE",
   "Place": "THRIKKALANGODE",
   "DarsCode": "MLP41",
@@ -39349,13 +40043,15 @@
  },
  {
   "StudentId": 253937,
-  "Name": "SAYED OUS",
+  "Name": "SAYED UVAIS",
   "Dars": "HIDAYATHU TWALABA THRIKKALANGODE",
   "Place": "THRIKKALANGODE",
   "DarsCode": "MLP41",
   "Category": "A",
   "Subject1": "A3",
-  "Subject2": "A28"
+  "Mark 1": "A",
+  "Subject2": "A28",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253938,
@@ -39365,7 +40061,8 @@
   "DarsCode": "MLP41",
   "Category": "A",
   "Subject1": "A3",
-  "Subject2": "A28"
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253939,
@@ -39415,7 +40112,9 @@
   "DarsCode": "MLP41",
   "Category": "A",
   "Subject1": "A21",
-  "Subject2": "A42"
+  "Mark 1": "N",
+  "Subject2": "A42",
+  "Mark 2": "N"
  },
  {
   "StudentId": 253944,
@@ -39505,7 +40204,9 @@
   "DarsCode": "MLP43",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253953,
@@ -39519,7 +40220,7 @@
  },
  {
   "StudentId": 253954,
-  "Name": "MUHAMMED RIYAN",
+  "Name": "MUHAMMED RAYAN",
   "Dars": "MANBAUL ULOOM VENNIYUR",
   "Place": "VENNIYUR",
   "DarsCode": "MLP43",
@@ -39559,7 +40260,7 @@
  },
  {
   "StudentId": 253958,
-  "Name": "MUHAMMED AFZAL",
+  "Name": "MUHAMMED AFSAL",
   "Dars": "MANBAUL ULOOM VENNIYUR",
   "Place": "VENNIYUR",
   "DarsCode": "MLP43",
@@ -39945,7 +40646,9 @@
   "DarsCode": "MLP45",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 253997,
@@ -40034,7 +40737,7 @@
   "Place": "KODINHI",
   "DarsCode": "MLP45",
   "Category": "I",
-  "Subject1": "I7",
+  "Subject1": "I3",
   "Subject2": "I13"
  },
  {
@@ -40044,7 +40747,7 @@
   "Place": "KODINHI",
   "DarsCode": "MLP45",
   "Category": "I",
-  "Subject1": "I7",
+  "Subject1": "I3",
   "Subject2": "I13"
  },
  {
@@ -40054,7 +40757,7 @@
   "Place": "KODINHI",
   "DarsCode": "MLP45",
   "Category": "I",
-  "Subject1": "I7",
+  "Subject1": "I3",
   "Subject2": "I13"
  },
  {
@@ -40064,7 +40767,7 @@
   "Place": "KODINHI",
   "DarsCode": "MLP45",
   "Category": "I",
-  "Subject1": "I7",
+  "Subject1": "I3",
   "Subject2": "I13"
  },
  {
@@ -40074,7 +40777,7 @@
   "Place": "KODINHI",
   "DarsCode": "MLP45",
   "Category": "I",
-  "Subject1": "I7",
+  "Subject1": "I3",
   "Subject2": "I13"
  },
  {
@@ -40084,7 +40787,7 @@
   "Place": "KODINHI",
   "DarsCode": "MLP45",
   "Category": "I",
-  "Subject1": "I7",
+  "Subject1": "I3",
   "Subject2": "I13"
  },
  {
@@ -40094,7 +40797,7 @@
   "Place": "KODINHI",
   "DarsCode": "MLP45",
   "Category": "I",
-  "Subject1": "I7",
+  "Subject1": "I3",
   "Subject2": "I13"
  },
  {
@@ -40104,7 +40807,7 @@
   "Place": "KODINHI",
   "DarsCode": "MLP45",
   "Category": "I",
-  "Subject1": "I7",
+  "Subject1": "I3",
   "Subject2": "I13"
  },
  {
@@ -40114,7 +40817,7 @@
   "Place": "KODINHI",
   "DarsCode": "MLP45",
   "Category": "I",
-  "Subject1": "I7",
+  "Subject1": "I3",
   "Subject2": "I13"
  },
  {
@@ -40124,7 +40827,7 @@
   "Place": "KODINHI",
   "DarsCode": "MLP45",
   "Category": "I",
-  "Subject1": "I7",
+  "Subject1": "I3",
   "Subject2": "I13"
  },
  {
@@ -40134,7 +40837,7 @@
   "Place": "KODINHI",
   "DarsCode": "MLP45",
   "Category": "I",
-  "Subject1": "I7",
+  "Subject1": "I3",
   "Subject2": "I13"
  },
  {
@@ -40144,7 +40847,7 @@
   "Place": "KODINHI",
   "DarsCode": "MLP45",
   "Category": "I",
-  "Subject1": "I7",
+  "Subject1": "I3",
   "Subject2": "I13"
  },
  {
@@ -40205,7 +40908,7 @@
   "DarsCode": "MLP45",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M19"
+  "Subject2": "M21"
  },
  {
   "StudentId": 254023,
@@ -40469,7 +41172,7 @@
  },
  {
   "StudentId": 254049,
-  "Name": "MUHAMMED ANEES KV",
+  "Name": "MUHAMMED UNAIS KV",
   "Dars": "NIBRASUL ISLAM ANANTHAVOOR",
   "Place": "ANANTHAVOOR",
   "DarsCode": "MLP46",
@@ -40499,7 +41202,7 @@
  },
  {
   "StudentId": 254052,
-  "Name": "MUHAMMED TP",
+  "Name": "MUHAMMED MUZZAMMIL TP",
   "Dars": "NIBRASUL ISLAM ANANTHAVOOR",
   "Place": "ANANTHAVOOR",
   "DarsCode": "MLP46",
@@ -40724,7 +41427,7 @@
   "Place": "VANIYANNUR",
   "DarsCode": "MLP47",
   "Category": "I",
-  "Subject1": "I3",
+  "Subject1": "I4",
   "Subject2": "I12"
  },
  {
@@ -40734,7 +41437,7 @@
   "Place": "VANIYANNUR",
   "DarsCode": "MLP47",
   "Category": "I",
-  "Subject1": "I3",
+  "Subject1": "I4",
   "Subject2": "I13"
  },
  {
@@ -40744,7 +41447,7 @@
   "Place": "VANIYANNUR",
   "DarsCode": "MLP47",
   "Category": "I",
-  "Subject1": "I3",
+  "Subject1": "I4",
   "Subject2": "I13"
  },
  {
@@ -40754,7 +41457,7 @@
   "Place": "VANIYANNUR",
   "DarsCode": "MLP47",
   "Category": "I",
-  "Subject1": "I3",
+  "Subject1": "I4",
   "Subject2": "I13"
  },
  {
@@ -40804,8 +41507,8 @@
   "Place": "VANIYANNUR",
   "DarsCode": "MLP47",
   "Category": "I",
-  "Subject1": "I4",
-  "Subject2": "I13"
+  "Subject1": "I3",
+  "Subject2": "I12"
  },
  {
   "StudentId": 254083,
@@ -40875,7 +41578,7 @@
   "DarsCode": "MLP47",
   "Category": "A",
   "Subject1": "A11",
-  "Subject2": "A34"
+  "Subject2": "A26"
  },
  {
   "StudentId": 254090,
@@ -40925,7 +41628,9 @@
   "DarsCode": "MLP49",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254095,
@@ -40935,7 +41640,9 @@
   "DarsCode": "MLP49",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A26"
+  "Mark 1": "N",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254096,
@@ -41055,7 +41762,9 @@
   "DarsCode": "MLP51",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254108,
@@ -41405,7 +42114,9 @@
   "DarsCode": "MLP51",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M25"
+  "Mark 1": "A",
+  "Subject2": "M25",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254143,
@@ -42074,7 +42785,7 @@
   "Place": "PANANGANGARA",
   "DarsCode": "MLP53",
   "Category": "A",
-  "Subject1": "A16",
+  "Subject1": "A20",
   "Subject2": "A32"
  },
  {
@@ -42545,7 +43256,9 @@
   "DarsCode": "MLP56",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254257,
@@ -42875,7 +43588,9 @@
   "DarsCode": "MLP56",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254290,
@@ -43805,7 +44520,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254383,
@@ -44045,7 +44762,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254407,
@@ -44055,7 +44774,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254408,
@@ -44065,7 +44786,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254409,
@@ -44075,7 +44798,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254410,
@@ -44085,7 +44810,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254411,
@@ -44095,7 +44822,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254412,
@@ -44105,7 +44834,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254413,
@@ -44115,7 +44846,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254414,
@@ -44125,7 +44858,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254415,
@@ -44135,7 +44870,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254416,
@@ -44145,7 +44882,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254417,
@@ -44155,7 +44894,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254418,
@@ -44165,7 +44906,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254419,
@@ -44175,7 +44918,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254420,
@@ -44185,7 +44930,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254421,
@@ -44195,7 +44942,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254422,
@@ -44205,7 +44954,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254423,
@@ -44215,7 +44966,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254424,
@@ -44225,7 +44978,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254425,
@@ -44235,7 +44990,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254426,
@@ -44245,7 +45002,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254427,
@@ -44255,7 +45014,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254428,
@@ -44265,7 +45026,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254429,
@@ -44275,7 +45038,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254430,
@@ -44285,7 +45050,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254431,
@@ -44295,7 +45062,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254432,
@@ -44305,6 +45074,7 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
+  "Mark 1": "N",
   "Subject2": "A34"
  },
  {
@@ -44315,7 +45085,8 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254434,
@@ -44325,7 +45096,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254435,
@@ -44335,7 +45108,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254436,
@@ -44345,7 +45120,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254437,
@@ -44355,7 +45132,9 @@
   "DarsCode": "MLP56",
   "Category": "A",
   "Subject1": "A18",
-  "Subject2": "A34"
+  "Mark 1": "N",
+  "Subject2": "A34",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254438,
@@ -44425,7 +45204,9 @@
   "DarsCode": "MLP57",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254445,
@@ -44765,7 +45546,8 @@
   "DarsCode": "MLP59",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254479,
@@ -44775,7 +45557,8 @@
   "DarsCode": "MLP59",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254480,
@@ -44785,7 +45568,8 @@
   "DarsCode": "MLP59",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254481,
@@ -44795,7 +45579,8 @@
   "DarsCode": "MLP59",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254482,
@@ -44805,7 +45590,8 @@
   "DarsCode": "MLP59",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254483,
@@ -44919,7 +45705,7 @@
  },
  {
   "StudentId": 254494,
-  "Name": "MUHAMMED RAZAL FANAN TP",
+  "Name": "MUHAMMED RAZAL FINAN TP",
   "Dars": "RABBANI VELOOR",
   "Place": "VELOOR",
   "DarsCode": "MLP61",
@@ -44959,7 +45745,7 @@
  },
  {
   "StudentId": 254498,
-  "Name": "MUHAMMED THANSHEEQ P",
+  "Name": "MUHAMMED THANSHEEF P",
   "Dars": "RABBANI VELOOR",
   "Place": "VELOOR",
   "DarsCode": "MLP61",
@@ -45105,7 +45891,7 @@
   "DarsCode": "MLP61",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M25"
+  "Subject2": "M21"
  },
  {
   "StudentId": 254513,
@@ -45505,7 +46291,9 @@
   "DarsCode": "MLP64",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M21"
+  "Mark 1": "A",
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254553,
@@ -45515,7 +46303,9 @@
   "DarsCode": "MLP64",
   "Category": "A",
   "Subject1": "A2",
-  "Subject2": "A26"
+  "Mark 1": "A",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254554,
@@ -45525,7 +46315,9 @@
   "DarsCode": "MLP64",
   "Category": "A",
   "Subject1": "A2",
-  "Subject2": "A26"
+  "Mark 1": "A",
+  "Subject2": "A26",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254555,
@@ -45575,7 +46367,9 @@
   "DarsCode": "MLP66",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254560,
@@ -45759,7 +46553,7 @@
  },
  {
   "StudentId": 254578,
-  "Name": "SINAN ",
+  "Name": "SINAN PC",
   "Dars": "HIDAYATHU TWALABA PULIYAKKODE",
   "Place": "PULIYAKKODE",
   "DarsCode": "MLP67",
@@ -45785,7 +46579,9 @@
   "DarsCode": "MLP67",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M26"
+  "Mark 1": "A",
+  "Subject2": "M26",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254581,
@@ -45805,7 +46601,7 @@
   "DarsCode": "MLP67",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M16"
+  "Subject2": "M19"
  },
  {
   "StudentId": 254583,
@@ -45815,7 +46611,9 @@
   "DarsCode": "MLP67",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M16"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254584,
@@ -45825,37 +46623,37 @@
   "DarsCode": "MLP67",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M16"
+  "Subject2": "M19"
  },
  {
   "StudentId": 254585,
-  "Name": "SINAN",
+  "Name": "SINAN K",
   "Dars": "HIDAYATHU TWALABA PULIYAKKODE",
   "Place": "PULIYAKKODE",
   "DarsCode": "MLP67",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M16"
+  "Subject2": "M19"
  },
  {
   "StudentId": 254586,
-  "Name": "DANISH",
+  "Name": "DANISH K",
   "Dars": "HIDAYATHU TWALABA PULIYAKKODE",
   "Place": "PULIYAKKODE",
   "DarsCode": "MLP67",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M16"
+  "Subject2": "M19"
  },
  {
   "StudentId": 254587,
-  "Name": "SHAHEEB",
+  "Name": "SHUHAIB",
   "Dars": "HIDAYATHU TWALABA PULIYAKKODE",
   "Place": "PULIYAKKODE",
   "DarsCode": "MLP67",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M16"
+  "Subject2": "M19"
  },
  {
   "StudentId": 254588,
@@ -45905,7 +46703,7 @@
   "DarsCode": "MLP68",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I14"
+  "Subject2": "I13"
  },
  {
   "StudentId": 254593,
@@ -45915,7 +46713,7 @@
   "DarsCode": "MLP68",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I14"
+  "Subject2": "I13"
  },
  {
   "StudentId": 254594,
@@ -45925,7 +46723,7 @@
   "DarsCode": "MLP68",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I14"
+  "Subject2": "I13"
  },
  {
   "StudentId": 254595,
@@ -45935,7 +46733,7 @@
   "DarsCode": "MLP68",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I14"
+  "Subject2": "I13"
  },
  {
   "StudentId": 254596,
@@ -46065,6 +46863,7 @@
   "DarsCode": "MLP71",
   "Category": "M",
   "Subject1": "M13",
+  "Mark 1": "A",
   "Subject2": "M21"
  },
  {
@@ -46075,7 +46874,9 @@
   "DarsCode": "MLP72",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254610,
@@ -46115,7 +46916,9 @@
   "DarsCode": "MLP72",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254614,
@@ -46235,7 +47038,9 @@
   "DarsCode": "MLP72",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254626,
@@ -46344,7 +47149,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "I",
-  "Subject1": "I3"
+  "Subject1": "I3",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254637,
@@ -46353,7 +47159,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "I",
-  "Subject1": "I3"
+  "Subject1": "I3",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254638,
@@ -46362,7 +47169,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "I",
-  "Subject1": "I3"
+  "Subject1": "I3",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254639,
@@ -46371,7 +47179,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "I",
-  "Subject1": "I3"
+  "Subject1": "I3",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254640,
@@ -46380,7 +47189,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "I",
-  "Subject1": "I3"
+  "Subject1": "I3",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254641,
@@ -46389,7 +47199,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "I",
-  "Subject1": "I3"
+  "Subject1": "I3",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254642,
@@ -46398,7 +47209,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "I",
-  "Subject1": "I3"
+  "Subject1": "I3",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254643,
@@ -46407,7 +47219,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "I",
-  "Subject1": "I3"
+  "Subject1": "I3",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254644,
@@ -46416,7 +47229,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "I",
-  "Subject1": "I3"
+  "Subject1": "I3",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254645,
@@ -46425,7 +47239,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "I",
-  "Subject1": "I3"
+  "Subject1": "I3",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254646,
@@ -46435,7 +47250,9 @@
   "DarsCode": "MLP73",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254647,
@@ -46445,7 +47262,9 @@
   "DarsCode": "MLP73",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254648,
@@ -46455,7 +47274,9 @@
   "DarsCode": "MLP73",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254649,
@@ -46674,7 +47495,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "M",
-  "Subject1": "M9"
+  "Subject1": "M9",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254671,
@@ -46683,7 +47505,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "M",
-  "Subject1": "M9"
+  "Subject1": "M9",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254672,
@@ -46692,16 +47515,18 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "M",
-  "Subject1": "M9"
+  "Subject1": "M9",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254673,
-  "Name": "MUHAMMED RAFAD PC",
+  "Name": "MUHAMMED RIFAD PC",
   "Dars": "SIRAJUL ULAMA  POOKULATHUR",
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "M",
-  "Subject1": "M9"
+  "Subject1": "M9",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254674,
@@ -46710,7 +47535,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "M",
-  "Subject1": "M9"
+  "Subject1": "M9",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254675,
@@ -46719,7 +47545,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "M",
-  "Subject1": "M9"
+  "Subject1": "M9",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254676,
@@ -46728,7 +47555,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "M",
-  "Subject1": "M9"
+  "Subject1": "M9",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254677,
@@ -46737,7 +47565,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "M",
-  "Subject1": "M9"
+  "Subject1": "M9",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254678,
@@ -46746,7 +47575,9 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "M",
-  "Subject1": "M9"
+  "Subject1": "M9",
+  "Mark 1": "A",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254679,
@@ -46755,7 +47586,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "M",
-  "Subject1": "M9"
+  "Subject1": "M9",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254680,
@@ -46764,7 +47596,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "M",
-  "Subject1": "M9"
+  "Subject1": "M9",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254681,
@@ -46773,7 +47606,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "M",
-  "Subject1": "M9"
+  "Subject1": "M9",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254682,
@@ -46782,7 +47616,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "M",
-  "Subject1": "M9"
+  "Subject1": "M9",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254683,
@@ -46791,7 +47626,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "M",
-  "Subject1": "M9"
+  "Subject1": "M9",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254684,
@@ -46800,7 +47636,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "M",
-  "Subject1": "M9"
+  "Subject1": "M9",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254685,
@@ -46809,7 +47646,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "M",
-  "Subject1": "M9"
+  "Subject1": "M9",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254686,
@@ -46818,7 +47656,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "M",
-  "Subject1": "M9"
+  "Subject1": "M9",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254687,
@@ -46827,7 +47666,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "M",
-  "Subject1": "M9"
+  "Subject1": "M9",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254688,
@@ -46836,7 +47676,8 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "M",
-  "Subject1": "M9"
+  "Subject1": "M9",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254689,
@@ -46845,6 +47686,7 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "I",
+  "Mark 1": "A",
   "Subject2": "I16"
  },
  {
@@ -46854,6 +47696,7 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "I",
+  "Mark 1": "A",
   "Subject2": "I16"
  },
  {
@@ -46863,6 +47706,7 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "I",
+  "Mark 1": "A",
   "Subject2": "I16"
  },
  {
@@ -46872,6 +47716,7 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "I",
+  "Mark 1": "A",
   "Subject2": "I16"
  },
  {
@@ -46881,6 +47726,7 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "I",
+  "Mark 1": "A",
   "Subject2": "I16"
  },
  {
@@ -46890,6 +47736,7 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "I",
+  "Mark 1": "A",
   "Subject2": "I16"
  },
  {
@@ -46899,6 +47746,7 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "I",
+  "Mark 1": "A",
   "Subject2": "I16"
  },
  {
@@ -46908,6 +47756,7 @@
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
   "Category": "I",
+  "Mark 1": "A",
   "Subject2": "I16"
  },
  {
@@ -46978,7 +47827,9 @@
   "DarsCode": "MLP73",
   "Category": "A",
   "Subject1": "A2",
-  "Subject2": "A26"
+  "Mark 1": "A",
+  "Subject2": "A26",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254704,
@@ -46998,7 +47849,9 @@
   "DarsCode": "MLP73",
   "Category": "A",
   "Subject1": "A2",
-  "Subject2": "A26"
+  "Mark 1": "A",
+  "Subject2": "A26",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254706,
@@ -47062,7 +47915,7 @@
  },
  {
   "StudentId": 254712,
-  "Name": "JAMAL ALABATHISH",
+  "Name": "JAMAL ABATHISH",
   "Dars": "SIRAJUL ULAMA  POOKULATHUR",
   "Place": "POOKULATHUR",
   "DarsCode": "MLP73",
@@ -47266,7 +48119,9 @@
   "DarsCode": "MLP77",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254733,
@@ -48466,7 +49321,9 @@
   "DarsCode": "MLP78",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254853,
@@ -48584,7 +49441,8 @@
   "DarsCode": "MLP80",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254865,
@@ -48733,7 +49591,7 @@
   "Place": "PULLURAL",
   "DarsCode": "MLP83",
   "Category": "I",
-  "Subject1": "I3",
+  "Subject1": "I4",
   "Subject2": "I13"
  },
  {
@@ -48743,7 +49601,7 @@
   "Place": "PULLURAL",
   "DarsCode": "MLP83",
   "Category": "I",
-  "Subject1": "I3",
+  "Subject1": "I4",
   "Subject2": "I12"
  },
  {
@@ -48753,7 +49611,7 @@
   "Place": "PULLURAL",
   "DarsCode": "MLP83",
   "Category": "I",
-  "Subject1": "I3",
+  "Subject1": "I4",
   "Subject2": "I12"
  },
  {
@@ -48894,6 +49752,7 @@
   "DarsCode": "MLP85",
   "Category": "I",
   "Subject1": "I3",
+  "Mark 1": "A",
   "Subject2": "I11"
  },
  {
@@ -48904,6 +49763,7 @@
   "DarsCode": "MLP85",
   "Category": "I",
   "Subject1": "I3",
+  "Mark 1": "A",
   "Subject2": "I11"
  },
  {
@@ -48984,7 +49844,9 @@
   "DarsCode": "MLP85",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M26"
+  "Mark 1": "A",
+  "Subject2": "M26",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254905,
@@ -49014,7 +49876,9 @@
   "DarsCode": "MLP86",
   "Category": "I",
   "Subject1": "I5",
-  "Subject2": "I14"
+  "Mark 1": "A",
+  "Subject2": "I14",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254908,
@@ -49514,7 +50378,9 @@
   "DarsCode": "MLP87",
   "Category": "M",
   "Subject1": "M8",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254958,
@@ -49834,7 +50700,9 @@
   "DarsCode": "MLP93",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M29"
+  "Mark 1": "A",
+  "Subject2": "M29",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254990,
@@ -49854,7 +50722,9 @@
   "DarsCode": "MLP93",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M29"
+  "Mark 1": "N",
+  "Subject2": "M29",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254992,
@@ -49864,7 +50734,9 @@
   "DarsCode": "MLP93",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M29"
+  "Mark 1": "N",
+  "Subject2": "M29",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254993,
@@ -49874,7 +50746,9 @@
   "DarsCode": "MLP93",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M29"
+  "Mark 1": "N",
+  "Subject2": "M29",
+  "Mark 2": "N"
  },
  {
   "StudentId": 254994,
@@ -49894,7 +50768,9 @@
   "DarsCode": "MLP93",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M29"
+  "Mark 1": "A",
+  "Subject2": "M29",
+  "Mark 2": "A"
  },
  {
   "StudentId": 254996,
@@ -49934,7 +50810,9 @@
   "DarsCode": "MLP94",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255000,
@@ -49954,7 +50832,9 @@
   "DarsCode": "MLP95",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255002,
@@ -50064,7 +50944,9 @@
   "DarsCode": "MLP96",
   "Category": "M",
   "Subject1": "M6",
-  "Subject2": "M21"
+  "Mark 1": "A",
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255013,
@@ -50088,7 +50970,7 @@
  },
  {
   "StudentId": 255015,
-  "Name": "MUHAMMED ANSHID",
+  "Name": "MUHAMMED ANSHID VP",
   "Dars": "MARKAZUL ULAMA MORAYUR",
   "Place": "MORAYUR",
   "DarsCode": "MLP97",
@@ -50278,7 +51160,7 @@
  },
  {
   "StudentId": 255034,
-  "Name": "MUHAMMED BASITH",
+  "Name": "MUHAMMED BASITH MK",
   "Dars": "MARKAZUL ULAMA MORAYUR",
   "Place": "MORAYUR",
   "DarsCode": "MLP97",
@@ -50444,7 +51326,9 @@
   "DarsCode": "MLP101",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255051,
@@ -50574,7 +51458,9 @@
   "DarsCode": "MLP102",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255064,
@@ -50834,7 +51720,9 @@
   "DarsCode": "MLP104",
   "Category": "I",
   "Subject1": "I1",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255090,
@@ -51067,16 +51955,6 @@
   "Subject2": "I13"
  },
  {
-  "StudentId": 256040,
-  "Name": "BASITH",
-  "Dars": "NUSRATHUL ISLAM MAKKARAPPARAMBA",
-  "Place": "MAKKARAPPARAMBA",
-  "DarsCode": "MLP105",
-  "Category": "I",
-  "Subject1": "I1",
-  "Subject2": "I13"
- },
- {
   "StudentId": 255113,
   "Name": "SHAMIL",
   "Dars": "NUSRATHUL ISLAM MAKKARAPPARAMBA",
@@ -51224,7 +52102,9 @@
   "DarsCode": "MLP106",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255128,
@@ -51324,7 +52204,9 @@
   "DarsCode": "MLP106",
   "Category": "I",
   "Subject1": "I9",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255138,
@@ -51334,7 +52216,9 @@
   "DarsCode": "MLP106",
   "Category": "I",
   "Subject1": "I9",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255139,
@@ -51534,7 +52418,9 @@
   "DarsCode": "MLP109",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255159,
@@ -52128,7 +53014,7 @@
  },
  {
   "StudentId": 255218,
-  "Name": "LISAN MV",
+  "Name": "SINAN MV",
   "Dars": "NOORANIYA PAPPINIPPARA",
   "Place": "PAPPINIPPARA",
   "DarsCode": "MLP112",
@@ -52404,7 +53290,7 @@
   "DarsCode": "MLP114",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I12"
+  "Subject2": "I11"
  },
  {
   "StudentId": 255246,
@@ -52414,7 +53300,7 @@
   "DarsCode": "MLP114",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I12"
+  "Subject2": "I11"
  },
  {
   "StudentId": 255247,
@@ -52424,7 +53310,7 @@
   "DarsCode": "MLP114",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I12"
+  "Subject2": "I11"
  },
  {
   "StudentId": 255248,
@@ -52498,7 +53384,7 @@
  },
  {
   "StudentId": 255255,
-  "Name": "MUHAMMED BASHEER",
+  "Name": "MUHAMMED JASHEER",
   "Dars": "BAYANUL ULOOM MUTHUVALLUR",
   "Place": "MUTHUVALLUR",
   "DarsCode": "MLP115",
@@ -53214,7 +54100,9 @@
   "DarsCode": "MLP118",
   "Category": "I",
   "Subject1": "I1",
-  "Subject2": "I12"
+  "Mark 1": "A",
+  "Subject2": "I12",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255327,
@@ -53304,7 +54192,9 @@
   "DarsCode": "MLP119",
   "Category": "I",
   "Subject1": "I9",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255336,
@@ -53314,7 +54204,9 @@
   "DarsCode": "MLP119",
   "Category": "I",
   "Subject1": "I9",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255337,
@@ -53924,7 +54816,9 @@
   "DarsCode": "MLP121",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255398,
@@ -54338,7 +55232,7 @@
  },
  {
   "StudentId": 255439,
-  "Name": "MUHAMMED RAFEED CV",
+  "Name": "MUHAMMED RUFAID CV",
   "Dars": "JAMALULLAIL AYYAYA",
   "Place": "AYYAYA",
   "DarsCode": "MLP124",
@@ -54468,7 +55362,7 @@
  },
  {
   "StudentId": 255452,
-  "Name": "MUHAMMED BASITH K",
+  "Name": "MUHAMMED BASITH A",
   "Dars": "JAMALULLAIL AYYAYA",
   "Place": "AYYAYA",
   "DarsCode": "MLP124",
@@ -54504,7 +55398,9 @@
   "DarsCode": "MLP124",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255456,
@@ -54528,7 +55424,7 @@
  },
  {
   "StudentId": 255458,
-  "Name": "MUHAMMED SANIF C",
+  "Name": "MUHAMMED SWANIF C",
   "Dars": "JAMALULLAIL AYYAYA",
   "Place": "AYYAYA",
   "DarsCode": "MLP124",
@@ -54698,7 +55594,7 @@
  },
  {
   "StudentId": 255475,
-  "Name": "MUHAMMED IHSAN P",
+  "Name": "MUHAMMED SINAN P",
   "Dars": "MANBAUL IHSAN KONDIPARAMBA",
   "Place": "KONDIPARAMBA",
   "DarsCode": "MLP125",
@@ -54708,7 +55604,7 @@
  },
  {
   "StudentId": 255476,
-  "Name": "MUHAMMED RISHAN P",
+  "Name": "MUHAMMED RISHAD P",
   "Dars": "MANBAUL IHSAN KONDIPARAMBA",
   "Place": "KONDIPARAMBA",
   "DarsCode": "MLP125",
@@ -54764,7 +55660,9 @@
   "DarsCode": "MLP125",
   "Category": "I",
   "Subject1": "I9",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255482,
@@ -54864,7 +55762,9 @@
   "DarsCode": "MLP126",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255492,
@@ -54874,7 +55774,9 @@
   "DarsCode": "MLP126",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255493,
@@ -54884,7 +55786,9 @@
   "DarsCode": "MLP126",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255494,
@@ -54934,7 +55838,9 @@
   "DarsCode": "MLP126",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255499,
@@ -54944,7 +55850,9 @@
   "DarsCode": "MLP126",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255500,
@@ -55054,7 +55962,9 @@
   "DarsCode": "MLP127",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255511,
@@ -55144,7 +56054,9 @@
   "DarsCode": "MLP127",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255520,
@@ -55254,7 +56166,9 @@
   "DarsCode": "MLP127",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255531,
@@ -55384,7 +56298,9 @@
   "DarsCode": "MLP127",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255544,
@@ -55394,7 +56310,9 @@
   "DarsCode": "MLP127",
   "Category": "I",
   "Subject1": "I7",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255545,
@@ -55424,7 +56342,9 @@
   "DarsCode": "MLP127",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M21"
+  "Mark 1": "A",
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255548,
@@ -55594,7 +56514,9 @@
   "DarsCode": "MLP127",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M21"
+  "Mark 1": "A",
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255565,
@@ -55644,7 +56566,9 @@
   "DarsCode": "MLP128",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255570,
@@ -55744,7 +56668,9 @@
   "DarsCode": "MLP128",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255580,
@@ -55824,7 +56750,7 @@
   "DarsCode": "MLP129",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I14"
+  "Subject2": "I13"
  },
  {
   "StudentId": 255588,
@@ -55834,7 +56760,7 @@
   "DarsCode": "MLP129",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I14"
+  "Subject2": "I13"
  },
  {
   "StudentId": 255589,
@@ -55844,7 +56770,7 @@
   "DarsCode": "MLP129",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I14"
+  "Subject2": "I13"
  },
  {
   "StudentId": 255590,
@@ -56173,8 +57099,8 @@
   "Place": "EDAKKULAM",
   "DarsCode": "MLP131",
   "Category": "I",
-  "Subject1": "M2",
-  "Subject2": "M21"
+  "Subject1": "I7",
+  "Subject2": "I13"
  },
  {
   "StudentId": 255623,
@@ -56204,7 +57130,9 @@
   "DarsCode": "MLP131",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M21"
+  "Mark 1": "A",
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255626,
@@ -56374,7 +57302,9 @@
   "DarsCode": "MLP131",
   "Category": "A",
   "Subject1": "A20",
-  "Subject2": "A38"
+  "Mark 1": "N",
+  "Subject2": "A38",
+  "Mark 2": "N"
  },
  {
   "StudentId": 255643,
@@ -56384,7 +57314,9 @@
   "DarsCode": "MLP131",
   "Category": "A",
   "Subject1": "A20",
-  "Subject2": "A38"
+  "Mark 1": "N",
+  "Subject2": "A38",
+  "Mark 2": "N"
  },
  {
   "StudentId": 255644,
@@ -56664,7 +57596,9 @@
   "DarsCode": "MLP134",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255672,
@@ -56674,7 +57608,7 @@
   "DarsCode": "MLP134",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I11"
  },
  {
   "StudentId": 255673,
@@ -56794,7 +57728,8 @@
   "DarsCode": "MLP135",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A26"
+  "Subject2": "A26",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255685,
@@ -56804,7 +57739,8 @@
   "DarsCode": "MLP135",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A26"
+  "Subject2": "A26",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255686,
@@ -57234,7 +58170,9 @@
   "DarsCode": "MLP140",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255729,
@@ -57244,7 +58182,9 @@
   "DarsCode": "MLP140",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255730,
@@ -57254,7 +58194,9 @@
   "DarsCode": "MLP140",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255731,
@@ -57264,7 +58206,9 @@
   "DarsCode": "MLP140",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255732,
@@ -57304,7 +58248,7 @@
   "DarsCode": "MLP142",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I1"
+  "Subject2": "I11"
  },
  {
   "StudentId": 255736,
@@ -57318,7 +58262,7 @@
  },
  {
   "StudentId": 255737,
-  "Name": "MUHAMMED AMEEN VC",
+  "Name": "MUHAMMED AMEEN VS",
   "Dars": "DARAJATHUL ULOOM CHEPYALAM",
   "Place": "CHEPYALAM",
   "DarsCode": "MLP142",
@@ -57464,6 +58408,7 @@
   "DarsCode": "MLP142",
   "Category": "M",
   "Subject1": "M1",
+  "Mark 1": "A",
   "Subject2": "M22"
  },
  {
@@ -57484,7 +58429,9 @@
   "DarsCode": "MLP142",
   "Category": "A",
   "Subject1": "A3",
-  "Subject2": "A28"
+  "Mark 1": "N",
+  "Subject2": "A28",
+  "Mark 2": "N"
  },
  {
   "StudentId": 255754,
@@ -57534,7 +58481,7 @@
   "DarsCode": "MLP143",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I11"
  },
  {
   "StudentId": 255759,
@@ -57544,7 +58491,7 @@
   "DarsCode": "MLP143",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Subject2": "I11"
  },
  {
   "StudentId": 255760,
@@ -57634,7 +58581,9 @@
   "DarsCode": "MLP144",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255769,
@@ -57644,7 +58593,9 @@
   "DarsCode": "MLP144",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255770,
@@ -57654,7 +58605,9 @@
   "DarsCode": "MLP144",
   "Category": "I",
   "Subject1": "I9",
-  "Subject2": "I12"
+  "Mark 1": "A",
+  "Subject2": "I12",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255771,
@@ -57694,7 +58647,9 @@
   "DarsCode": "MLP144",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M19"
+  "Mark 1": "A",
+  "Subject2": "M19",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255775,
@@ -57734,7 +58689,9 @@
   "DarsCode": "MLP144",
   "Category": "A",
   "Subject1": "A1",
-  "Subject2": "A34"
+  "Mark 1": "A",
+  "Subject2": "A34",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255779,
@@ -58454,7 +59411,8 @@
   "DarsCode": "MLP146",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255851,
@@ -58524,7 +59482,7 @@
   "DarsCode": "MLP146",
   "Category": "A",
   "Subject1": "A2",
-  "Subject2": "A2"
+  "Subject2": "A26"
  },
  {
   "StudentId": 255858,
@@ -58534,7 +59492,7 @@
   "DarsCode": "MLP146",
   "Category": "A",
   "Subject1": "A2",
-  "Subject2": "A2"
+  "Subject2": "A26"
  },
  {
   "StudentId": 255859,
@@ -58544,7 +59502,7 @@
   "DarsCode": "MLP146",
   "Category": "A",
   "Subject1": "A2",
-  "Subject2": "A2"
+  "Subject2": "A26"
  },
  {
   "StudentId": 255860,
@@ -58554,7 +59512,7 @@
   "DarsCode": "MLP146",
   "Category": "A",
   "Subject1": "A2",
-  "Subject2": "A2"
+  "Subject2": "A26"
  },
  {
   "StudentId": 255861,
@@ -58574,7 +59532,7 @@
   "DarsCode": "MLP147",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Subject2": "I12"
  },
  {
   "StudentId": 255863,
@@ -58834,7 +59792,9 @@
   "DarsCode": "MLP149",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I13"
+  "Mark 1": "A",
+  "Subject2": "I13",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255889,
@@ -58904,7 +59864,9 @@
   "DarsCode": "MLP149",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M21"
+  "Mark 1": "A",
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255896,
@@ -59204,7 +60166,9 @@
   "DarsCode": "MLP152",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255926,
@@ -59214,7 +60178,8 @@
   "DarsCode": "MLP152",
   "Category": "I",
   "Subject1": "I3",
-  "Subject2": "I11"
+  "Subject2": "I11",
+  "Mark 2": "NP"
  },
  {
   "StudentId": 255927,
@@ -59304,7 +60269,9 @@
   "DarsCode": "MLP152",
   "Category": "M",
   "Subject1": "M8",
-  "Subject2": "M26"
+  "Mark 1": "A",
+  "Subject2": "M26",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255936,
@@ -59453,7 +60420,7 @@
   "Place": "KAPPU",
   "DarsCode": "MLP153",
   "Category": "I",
-  "Subject1": "I4",
+  "Subject1": "I3",
   "Subject2": "I13"
  },
  {
@@ -59463,7 +60430,7 @@
   "Place": "KAPPU",
   "DarsCode": "MLP153",
   "Category": "I",
-  "Subject1": "I4",
+  "Subject1": "I3",
   "Subject2": "I13"
  },
  {
@@ -59554,7 +60521,9 @@
   "DarsCode": "MLP153",
   "Category": "M",
   "Subject1": "M16",
-  "Subject2": "M27"
+  "Mark 1": "N",
+  "Subject2": "M27",
+  "Mark 2": "N"
  },
  {
   "StudentId": 255961,
@@ -59564,7 +60533,9 @@
   "DarsCode": "MLP153",
   "Category": "M",
   "Subject1": "M16",
-  "Subject2": "M27"
+  "Mark 1": "N",
+  "Subject2": "M27",
+  "Mark 2": "N"
  },
  {
   "StudentId": 255962,
@@ -59574,7 +60545,9 @@
   "DarsCode": "MLP153",
   "Category": "M",
   "Subject1": "M16",
-  "Subject2": "M27"
+  "Mark 1": "N",
+  "Subject2": "M27",
+  "Mark 2": "N"
  },
  {
   "StudentId": 255963,
@@ -59584,7 +60557,9 @@
   "DarsCode": "MLP153",
   "Category": "M",
   "Subject1": "M16",
-  "Subject2": "M27"
+  "Mark 1": "N",
+  "Subject2": "M27",
+  "Mark 2": "N"
  },
  {
   "StudentId": 255964,
@@ -59614,7 +60589,9 @@
   "DarsCode": "MLP154",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I11"
+  "Mark 1": "A",
+  "Subject2": "I11",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255967,
@@ -59714,7 +60691,9 @@
   "DarsCode": "MLP154",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M28"
+  "Mark 1": "A",
+  "Subject2": "M28",
+  "Mark 2": "A"
  },
  {
   "StudentId": 255977,
@@ -59743,8 +60722,8 @@
   "Place": "PANAYAPPURAM",
   "DarsCode": "MLP154",
   "Category": "A",
-  "Subject1": "M1",
-  "Subject2": "M27"
+  "Subject1": "A1",
+  "Subject2": "A26"
  },
  {
   "StudentId": 255980,
@@ -59753,8 +60732,8 @@
   "Place": "PANAYAPPURAM",
   "DarsCode": "MLP154",
   "Category": "A",
-  "Subject1": "M1",
-  "Subject2": "M27"
+  "Subject1": "A1",
+  "Subject2": "A26"
  },
  {
   "StudentId": 255981,
@@ -59763,7 +60742,7 @@
   "Place": "PANAYAPPURAM",
   "DarsCode": "MLP154",
   "Category": "A",
-  "Subject1": "M7",
+  "Subject1": "A7",
   "Subject2": "M28"
  },
  {
@@ -59773,7 +60752,7 @@
   "Place": "PANAYAPPURAM",
   "DarsCode": "MLP154",
   "Category": "A",
-  "Subject1": "M7",
+  "Subject1": "A7",
   "Subject2": "M28"
  },
  {
@@ -59783,7 +60762,7 @@
   "Place": "PANAYAPPURAM",
   "DarsCode": "MLP154",
   "Category": "A",
-  "Subject1": "M7",
+  "Subject1": "A7",
   "Subject2": "M28"
  },
  {
@@ -59793,7 +60772,7 @@
   "Place": "PANAYAPPURAM",
   "DarsCode": "MLP154",
   "Category": "A",
-  "Subject1": "M7",
+  "Subject1": "A7",
   "Subject2": "M28"
  },
  {
@@ -60034,7 +61013,9 @@
   "DarsCode": "MLP156",
   "Category": "M",
   "Subject1": "M1",
-  "Subject2": "M21"
+  "Mark 1": "A",
+  "Subject2": "M21",
+  "Mark 2": "A"
  },
  {
   "StudentId": 256009,
@@ -60058,7 +61039,7 @@
  },
  {
   "StudentId": 256011,
-  "Name": "MUHAMMED SWAFWAN",
+  "Name": "MUHAMMED SAFVAN",
   "Dars": "DARUL ULOOM KORAD",
   "Place": "KORAD",
   "DarsCode": "MLP156",
@@ -60285,5 +61266,15 @@
   "Category": "A",
   "Subject1": "A3",
   "Subject2": "A28"
+ },
+ {
+  "StudentId": 256040,
+  "Name": "BASITH",
+  "Dars": "NUSRATHUL ISLAM MAKKARAPPARAMBA",
+  "Place": "MAKKARAPPARAMBA",
+  "DarsCode": "MLP105",
+  "Category": "I",
+  "Subject1": "I1",
+  "Subject2": "I13"
  }
 ]
