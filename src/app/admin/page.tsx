@@ -131,10 +131,10 @@ const page = () => {
         <p className="w-32 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
           Reg No
         </p>
-        <p className="w-60 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+        <p className="w-100 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
           Name
         </p>
-        <p className="w-80 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+        <p className="w-40 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
           DarsCode
         </p>
         <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
