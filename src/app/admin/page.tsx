@@ -131,7 +131,7 @@ const page = () => {
         <p className="w-32 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
           Reg No
         </p>
-        <p className="w-80 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+        <p className="w-64 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
           Name
         </p>
         <p className="w-80 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
