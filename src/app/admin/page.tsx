@@ -162,7 +162,7 @@ const page = () => {
               {student.Dars}
             </p>
             <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              {" "}
+              {student.Subject1 === selectedSubject ? student["Mark 1"] : student["Mark 2"] }
             </p>
           </div>
         ))}
