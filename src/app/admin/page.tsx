@@ -135,7 +135,7 @@ const page = () => {
           Name
         </p>
         <p className="w-80 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-          Dars
+          DarsCode
         </p>
         <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
           Mark
