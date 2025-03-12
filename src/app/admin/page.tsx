@@ -137,7 +137,7 @@ const page = () => {
         <p className="w-40 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
           DarsCode
         </p>
-        <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+{/*         <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm"> */}
           Mark
         </p>
       </div>
@@ -161,7 +161,7 @@ const page = () => {
             <p className="w-40 text-left line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               {student.DarsCode}
             </p>
-            <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+{/*             <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm"> */}
               {student.Subject1 === selectedSubject ? student["Mark 1"] : student["Mark 2"] }
             </p>
           </div>
