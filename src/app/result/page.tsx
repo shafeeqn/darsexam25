@@ -23,17 +23,17 @@ export default function page() {
     function calculateFinalGrade(mark1: number, mark2: number) {
         const calculateGrade = (mark: any) => {
             if (mark >= 97 && mark <= 100) {
-                return "Top Plus";
+                return "TOP PLUS";
             } else if (mark >= 80 && mark <= 96) {
-                return "Distinction";
+                return "DISTINCTION";
             } else if (mark >= 60 && mark <= 79) {
-                return "First Class";
+                return "FIRST CLASS";
             } else if (mark >= 50 && mark <= 59) {
-                return "Second Class";
+                return "SECOND CLASS";
             } else if (mark >= 25 && mark <= 49) {
-                return "Third Class";
+                return "THIRD CLASS";
             } else {
-                return "Not Promoted";
+                return "NOT PROMOTED";
             }
         };
         const grade1 = calculateGrade(mark1);
@@ -46,7 +46,7 @@ export default function page() {
         } else if (mark2 < mark1) {
             return grade2;
         } else {
-            return "Not Promoted"
+            return "NOT PROMOTED"
         }
     }
 
