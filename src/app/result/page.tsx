@@ -100,7 +100,7 @@ export default function page() {
             <div className="flex w-full justify-center gap-2 text-xs font-semibold print:hidden">
                 <button
                     onClick={() => setCategory("all")}
-                    className={`uppercase border-black border-2 p-1 border-dotted rounded-md ${category === "all" && `bg-black text-white`
+                    className={uppercase border-black border-2 p-1 border-dotted rounded-md ${category === "all" && `bg-black text-white
                         }`}
                 >
                     ALL
@@ -108,7 +108,7 @@ export default function page() {
                 {categories.map((ctgry) => (
                     <button
                         onClick={() => setCategory(ctgry.shortName)}
-                        className={`uppercase border-black border-2 p-1 border-dotted rounded-md ${category === ctgry.shortName && `bg-black text-white`
+                        className={uppercase border-black border-2 p-1 border-dotted rounded-md ${category === ctgry.shortName && `bg-black text-white
                             }`}
                     >
                         {ctgry.fullName}
