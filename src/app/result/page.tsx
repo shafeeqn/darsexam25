@@ -154,18 +154,18 @@ export default function page() {
                         <p className="w-60 text-center line-clamp-1 font-semibold border-[1px] border-black text-sm">
                             Subject 1
                         </p>
-                        {/*                         <p className="w-12 text-center line-clamp-1 font-semibold pt-1 border-[1px] border-black text-xs">
+                        <p className="w-12 text-center line-clamp-1 font-semibold pt-1 border-[1px] border-black text-xs">
                             Mark 1
-                        </p> */}
+                        </p>
                         <p className="w-60 text-center line-clamp-1 font-semibold border-[1px] border-black text-sm">
                             Subject 2
                         </p>
-                        {/*                         <p className="w-12 text-center line-clamp-1 font-semibold pt-1 border-[1px] border-black text-xs">
+                        <p className="w-12 text-center line-clamp-1 font-semibold pt-1 border-[1px] border-black text-xs">
                             Mark 2
-                        </p> */}
-                        {/*                         <p className="w-36 text-center line-clamp-1 font-semibold pt-1 border-[1px] border-black text-xs">
+                        </p>
+                        <p className="w-36 text-center line-clamp-1 font-semibold pt-1 border-[1px] border-black text-xs">
                             Grade
-                        </p> */}
+                        </p>
                     </div>
                     {darsStudents
                         .filter(
