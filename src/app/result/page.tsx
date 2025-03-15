@@ -194,7 +194,7 @@ export default function page() {
                                         }
                                     })}{" "}
                                 </p>
-                                {/*                                 <p className="w-12 text-center line-clamp-1 font-semibold border-[1px] border-black text-sm">{student["Mark 1"] as string}</p> */}
+                                <p className="w-12 text-center line-clamp-1 font-semibold border-[1px] border-black text-sm">{student["Mark 1"] as string}</p>
                                 <p
                                     className="w-60 text-right line-clamp-1 font-semibold pr-1 border-[1px] border-black text-sm font-arabic"
                                     dir="rtl"
@@ -205,10 +205,10 @@ export default function page() {
                                         }
                                     })}{" "}
                                 </p>
-                                {/*                                 <p className="w-12 text-center line-clamp-1 font-semibold border-[1px] border-black text-sm">{student["Mark 2"] as string}</p>
+                                <p className="w-12 text-center line-clamp-1 font-semibold border-[1px] border-black text-sm">{student["Mark 2"] as string}</p>
                                 <p className="w-36 text-left pl-2 line-clamp-1 font-semibold pt-1 border-[1px] border-black text-xs">
                                     {calculateFinalGrade(parseInt(student["Mark 1"]), parseInt(student["Mark 2"]))}
-                                </p> */}
+                                </p>
                             </div>
                         ))}
                 </>
