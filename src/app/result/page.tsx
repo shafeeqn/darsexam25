@@ -109,7 +109,7 @@ export default function Page() {
                             <p className="w-60 text-left font-semibold pl-1 border-[1px] border-black text-sm">{student.Name}</p>
                             <p className="w-10 text-center font-semibold border-[1px] border-black text-sm">{student.Category}</p>
                             <p className="w-36 text-left pl-2 font-semibold border-[1px] border-black text-xs">
-                                {calculateFinalGrade(parseInt(student["Mark 1"] || "0"), parseInt(student["Mark 2"] || "0"))}
+                                {calculateFinalGrade(parseInt(student["Mark 1"]?.toString() || "0"), parseInt(student["Mark 2"]?.toString() || "0"))}
                             </p>
                         </div>
                     ))}
