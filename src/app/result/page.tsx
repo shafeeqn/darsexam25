@@ -204,9 +204,9 @@ export default function page() {
                                     })}{" "}
                                 </p>
                                 <p className="w-12 text-center line-clamp-1 font-semibold border-[1px] border-black text-sm">{student["Mark 2"] as string}</p>
-                                {/* <p className="w-36 text-left pl-2 line-clamp-1 font-semibold pt-1 border-[1px] border-black text-xs">
-                                    {calculateFinalGrade(parseInt(student["Mark 1"]), parseInt(student["Mark 2"]))}
-                                </p> */}
+                                <p className="w-36 text-left pl-2 line-clamp-1 font-semibold pt-1 border-[1px] border-black text-xs">
+                                    {calculateFinalGrade(parseInt(student["Mark 1"] as string || "0"), parseInt(student["Mark 2"] as string || "0"))}
+                                </p>
                             </div>
                         ))}
                 </>
