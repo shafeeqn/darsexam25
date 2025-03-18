@@ -3057,7 +3057,7 @@
   "Subject1": "M1",
   "Mark 1": 35,
   "Subject2": "M22",
-  "Mark 2": 354
+  "Mark 2": 35
  },
  {
   "StudentId": 250258,
@@ -9529,7 +9529,8 @@
   "Category": "M",
   "Subject1": "M16",
   "Mark 1": 59,
-  "Subject2": "M26"
+  "Subject2": "M26",
+  "Mark 2": 39
  },
  {
   "StudentId": 250802,
@@ -10664,6 +10665,7 @@
   "DarsCode": "KNR11",
   "Category": "I",
   "Subject1": "I3",
+  "Mark 1": 86,
   "Subject2": "I16",
   "Mark 2": 92
  },
@@ -11498,6 +11500,7 @@
   "DarsCode": "KNR17",
   "Category": "I",
   "Subject1": "I10",
+  "Mark 1": 38,
   "Subject2": "I12",
   "Mark 2": 26
  },
@@ -32928,7 +32931,7 @@
   "DarsCode": "MLP05",
   "Category": "M",
   "Subject1": "M1",
-  "Mark 1": "39*",
+  "Mark 1": 39,
   "Subject2": "M19",
   "Mark 2": 68
  },
@@ -34805,7 +34808,8 @@
   "Category": "M",
   "Subject1": "M16",
   "Mark 1": 74,
-  "Subject2": "M21"
+  "Subject2": "M21",
+  "Mark 2": 38
  },
  {
   "StudentId": 252919,
@@ -34888,7 +34892,8 @@
   "Category": "M",
   "Subject1": "M16",
   "Mark 1": 92,
-  "Subject2": "M21"
+  "Subject2": "M21",
+  "Mark 2": 61
  },
  {
   "StudentId": 252926,
@@ -35521,7 +35526,8 @@
   "Category": "A",
   "Subject1": "A28",
   "Mark 1": 54,
-  "Subject2": "A1"
+  "Subject2": "A1",
+  "Mark 2": 78
  },
  {
   "StudentId": 252979,
@@ -35544,7 +35550,8 @@
   "Category": "A",
   "Subject1": "A28",
   "Mark 1": 60,
-  "Subject2": "A1"
+  "Subject2": "A1",
+  "Mark 2": 80
  },
  {
   "StudentId": 252981,
@@ -42416,7 +42423,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 10,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 35
  },
  {
   "StudentId": 253560,
@@ -42427,7 +42435,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 35,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 38
  },
  {
   "StudentId": 253561,
@@ -42438,7 +42447,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 35,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 46
  },
  {
   "StudentId": 253562,
@@ -42449,7 +42459,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 35,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 60
  },
  {
   "StudentId": 253563,
@@ -47407,7 +47418,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 41,
-  "Subject2": "M26"
+  "Subject2": "M26",
+  "Mark 2": 37
  },
  {
   "StudentId": 253977,
@@ -54279,7 +54291,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 35,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 35
  },
  {
   "StudentId": 254551,
@@ -54348,7 +54361,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 61,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 97
  },
  {
   "StudentId": 254557,
@@ -54359,7 +54373,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 68,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 90
  },
  {
   "StudentId": 254558,
@@ -54370,7 +54385,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 62,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 98
  },
  {
   "StudentId": 254559,
@@ -54393,7 +54409,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 40,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 46
  },
  {
   "StudentId": 254561,
@@ -54656,7 +54673,8 @@
   "Category": "M",
   "Subject1": "M2",
   "Mark 1": 51,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 76
  },
  {
   "StudentId": 254583,
@@ -54679,7 +54697,8 @@
   "Category": "M",
   "Subject1": "M2",
   "Mark 1": 37,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 55
  },
  {
   "StudentId": 254585,
@@ -54690,7 +54709,8 @@
   "Category": "M",
   "Subject1": "M2",
   "Mark 1": 38,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 69
  },
  {
   "StudentId": 254586,
@@ -54701,7 +54721,8 @@
   "Category": "M",
   "Subject1": "M2",
   "Mark 1": 43,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 53
  },
  {
   "StudentId": 254587,
@@ -54712,7 +54733,8 @@
   "Category": "M",
   "Subject1": "M2",
   "Mark 1": 42,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 76
  },
  {
   "StudentId": 254588,
@@ -54723,7 +54745,8 @@
   "Category": "M",
   "Subject1": "M2",
   "Mark 1": 52,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 70
  },
  {
   "StudentId": 254589,
@@ -54734,7 +54757,8 @@
   "Category": "M",
   "Subject1": "M2",
   "Mark 1": 42,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 75
  },
  {
   "StudentId": 254590,
@@ -54744,7 +54768,8 @@
   "DarsCode": "MLP67",
   "Category": "M",
   "Subject1": "M2",
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 67
  },
  {
   "StudentId": 254591,
@@ -54755,7 +54780,8 @@
   "Category": "M",
   "Subject1": "M2",
   "Mark 1": 40,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 77
  },
  {
   "StudentId": 254592,
@@ -55186,7 +55212,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 38,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 75
  },
  {
   "StudentId": 254628,
@@ -55197,7 +55224,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 35,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 58
  },
  {
   "StudentId": 254629,
@@ -55208,7 +55236,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 35,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 57
  },
  {
   "StudentId": 254630,
@@ -55219,7 +55248,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 35,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 35
  },
  {
   "StudentId": 254631,
@@ -55230,7 +55260,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 37,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 35
  },
  {
   "StudentId": 254632,
@@ -55241,7 +55272,8 @@
   "Category": "M",
   "Subject1": "M8",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 72
  },
  {
   "StudentId": 254633,
@@ -55252,7 +55284,8 @@
   "Category": "M",
   "Subject1": "M8",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 42
  },
  {
   "StudentId": 254634,
@@ -55263,7 +55296,8 @@
   "Category": "M",
   "Subject1": "M8",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 60
  },
  {
   "StudentId": 254635,
@@ -55274,7 +55308,8 @@
   "Category": "M",
   "Subject1": "M8",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 35
  },
  {
   "StudentId": 254636,
@@ -55396,7 +55431,7 @@
   "Subject1": "I3",
   "Mark 1": "A",
   "Subject2": "I13",
-  "Mark 2": "A"
+  "Mark 2": 69
  },
  {
   "StudentId": 254647,
@@ -55408,7 +55443,7 @@
   "Subject1": "I3",
   "Mark 1": "A",
   "Subject2": "I13",
-  "Mark 2": "A"
+  "Mark 2": 51
  },
  {
   "StudentId": 254648,
@@ -55420,7 +55455,7 @@
   "Subject1": "I3",
   "Mark 1": "A",
   "Subject2": "I13",
-  "Mark 2": "A"
+  "Mark 2": 64
  },
  {
   "StudentId": 254649,
@@ -56170,7 +56205,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 71,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 73
  },
  {
   "StudentId": 254714,
@@ -56181,7 +56217,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 40,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 68
  },
  {
   "StudentId": 254715,
@@ -56192,7 +56229,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 55,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 83
  },
  {
   "StudentId": 254716,
@@ -56235,7 +56273,8 @@
   "Category": "M",
   "Subject1": "M2",
   "Mark 1": 81,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 85
  },
  {
   "StudentId": 254720,
@@ -56353,7 +56392,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 41,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 81
  },
  {
   "StudentId": 254730,
@@ -56364,7 +56404,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 35,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 85
  },
  {
   "StudentId": 254731,
@@ -56375,7 +56416,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 44,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 86
  },
  {
   "StudentId": 254732,
@@ -56398,7 +56440,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 45,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 95
  },
  {
   "StudentId": 254734,
@@ -56409,7 +56452,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 40,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 86
  },
  {
   "StudentId": 254735,
@@ -56420,7 +56464,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 42,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 92
  },
  {
   "StudentId": 254736,
@@ -56431,7 +56476,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 40,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 77
  },
  {
   "StudentId": 254737,
@@ -56442,7 +56488,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 35,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 90
  },
  {
   "StudentId": 254738,
@@ -56453,7 +56500,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 40,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 64
  },
  {
   "StudentId": 254739,
@@ -56464,7 +56512,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 35,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 90
  },
  {
   "StudentId": 254740,
@@ -56475,7 +56524,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 40,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 72
  },
  {
   "StudentId": 254741,
@@ -56486,7 +56536,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 41,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 75
  },
  {
   "StudentId": 254742,
@@ -56497,7 +56548,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 45,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 86
  },
  {
   "StudentId": 254743,
@@ -56508,7 +56560,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 44,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 71
  },
  {
   "StudentId": 254744,
@@ -57371,7 +57424,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 63
  },
  {
   "StudentId": 254816,
@@ -57382,7 +57436,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 46,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 76
  },
  {
   "StudentId": 254817,
@@ -57393,7 +57448,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 46,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 80
  },
  {
   "StudentId": 254818,
@@ -57404,7 +57460,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 75
  },
  {
   "StudentId": 254819,
@@ -57415,7 +57472,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 9,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 65
  },
  {
   "StudentId": 254820,
@@ -57426,7 +57484,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 61
  },
  {
   "StudentId": 254821,
@@ -57437,7 +57496,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 68
  },
  {
   "StudentId": 254822,
@@ -57448,7 +57508,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 76
  },
  {
   "StudentId": 254823,
@@ -57459,7 +57520,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 63
  },
  {
   "StudentId": 254824,
@@ -57470,7 +57532,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 79
  },
  {
   "StudentId": 254825,
@@ -57481,7 +57544,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 40,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 76
  },
  {
   "StudentId": 254826,
@@ -57492,7 +57556,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 78
  },
  {
   "StudentId": 254827,
@@ -57503,7 +57568,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 63
  },
  {
   "StudentId": 254828,
@@ -57862,7 +57928,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 37,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 59
  },
  {
   "StudentId": 254858,
@@ -57893,7 +57960,8 @@
   "Category": "M",
   "Subject1": "M16",
   "Mark 1": 7,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 49
  },
  {
   "StudentId": 254861,
@@ -57915,7 +57983,7 @@
   "DarsCode": "MLP79",
   "Category": "M",
   "Subject1": "M16",
-  "Mark 1": 8,
+  "Mark 1": 42,
   "Subject2": "M1",
   "Mark 2": 35
  },
@@ -58252,7 +58320,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 36,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 35
  },
  {
   "StudentId": 254891,
@@ -58263,7 +58332,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 40
  },
  {
   "StudentId": 254892,
@@ -58274,7 +58344,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 40
  },
  {
   "StudentId": 254893,
@@ -58285,7 +58356,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 41
  },
  {
   "StudentId": 254894,
@@ -58296,7 +58368,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 35
  },
  {
   "StudentId": 254895,
@@ -58426,6 +58499,7 @@
   "DarsCode": "MLP85",
   "Category": "A",
   "Subject1": "A1",
+  "Mark 1": 50,
   "Subject2": "A34",
   "Mark 2": 36
  },
@@ -58437,6 +58511,7 @@
   "DarsCode": "MLP85",
   "Category": "A",
   "Subject1": "A11",
+  "Mark 1": 66,
   "Subject2": "A34",
   "Mark 2": 47
  },
@@ -58749,7 +58824,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 41,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 77
  },
  {
   "StudentId": 254933,
@@ -58760,7 +58836,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 62,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 37
  },
  {
   "StudentId": 254934,
@@ -58771,7 +58848,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 43,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 68
  },
  {
   "StudentId": 254935,
@@ -58782,7 +58860,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 39,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 64
  },
  {
   "StudentId": 254936,
@@ -58793,7 +58872,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 73,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 77
  },
  {
   "StudentId": 254937,
@@ -58804,7 +58884,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 51,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 83
  },
  {
   "StudentId": 254938,
@@ -58815,7 +58896,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 64,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 44
  },
  {
   "StudentId": 254939,
@@ -58826,7 +58908,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 45,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 77
  },
  {
   "StudentId": 254940,
@@ -58837,7 +58920,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 41,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 51
  },
  {
   "StudentId": 254941,
@@ -58968,7 +59052,8 @@
   "Category": "M",
   "Subject1": "M8",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 54
  },
  {
   "StudentId": 254952,
@@ -58991,7 +59076,8 @@
   "Category": "M",
   "Subject1": "M8",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 59
  },
  {
   "StudentId": 254954,
@@ -59002,7 +59088,8 @@
   "Category": "M",
   "Subject1": "M8",
   "Mark 1": 54,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 68
  },
  {
   "StudentId": 254955,
@@ -59013,7 +59100,8 @@
   "Category": "M",
   "Subject1": "M8",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 71
  },
  {
   "StudentId": 254956,
@@ -59024,7 +59112,8 @@
   "Category": "M",
   "Subject1": "M8",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 69
  },
  {
   "StudentId": 254957,
@@ -59131,7 +59220,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 10,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 35
  },
  {
   "StudentId": 254966,
@@ -59141,7 +59231,8 @@
   "DarsCode": "MLP89",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 47
  },
  {
   "StudentId": 254967,
@@ -59722,7 +59813,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 13,
-  "Subject2": "I14"
+  "Subject2": "I14",
+  "Mark 2": 35
  },
  {
   "StudentId": 255016,
@@ -59781,7 +59873,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 10,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 57
  },
  {
   "StudentId": 255021,
@@ -59792,7 +59885,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 62
  },
  {
   "StudentId": 255022,
@@ -60676,7 +60770,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 36
  },
  {
   "StudentId": 255096,
@@ -62735,7 +62830,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 50,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 85
  },
  {
   "StudentId": 255268,
@@ -62746,7 +62842,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 36,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 45
  },
  {
   "StudentId": 255269,
@@ -62757,7 +62854,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 57,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 77
  },
  {
   "StudentId": 255270,
@@ -62768,7 +62866,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 64,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 87
  },
  {
   "StudentId": 255271,
@@ -62779,7 +62878,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 51,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 33
  },
  {
   "StudentId": 255272,
@@ -62790,7 +62890,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 47,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 60
  },
  {
   "StudentId": 255273,
@@ -62801,7 +62902,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 49,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 85
  },
  {
   "StudentId": 255274,
@@ -62812,7 +62914,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 45,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 59
  },
  {
   "StudentId": 255275,
@@ -62823,7 +62926,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 36,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 35
  },
  {
   "StudentId": 255276,
@@ -62834,7 +62938,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 42,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 66
  },
  {
   "StudentId": 255277,
@@ -62916,7 +63021,8 @@
   "DarsCode": "MLP116",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 35
  },
  {
   "StudentId": 255284,
@@ -62926,7 +63032,8 @@
   "DarsCode": "MLP116",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 40
  },
  {
   "StudentId": 255285,
@@ -62936,7 +63043,8 @@
   "DarsCode": "MLP116",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 35
  },
  {
   "StudentId": 255286,
@@ -62946,7 +63054,8 @@
   "DarsCode": "MLP116",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 35
  },
  {
   "StudentId": 255287,
@@ -62956,7 +63065,8 @@
   "DarsCode": "MLP116",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 56
  },
  {
   "StudentId": 255288,
@@ -62966,7 +63076,8 @@
   "DarsCode": "MLP116",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 35
  },
  {
   "StudentId": 255289,
@@ -62976,7 +63087,8 @@
   "DarsCode": "MLP116",
   "Category": "I",
   "Subject1": "I4",
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 35
  },
  {
   "StudentId": 255290,
@@ -63059,7 +63171,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 86,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 97
  },
  {
   "StudentId": 255297,
@@ -63070,7 +63183,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 62,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 90
  },
  {
   "StudentId": 255298,
@@ -63081,7 +63195,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 82,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 97
  },
  {
   "StudentId": 255299,
@@ -63092,7 +63207,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 78,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 97
  },
  {
   "StudentId": 255300,
@@ -63103,7 +63219,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 67,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 93
  },
  {
   "StudentId": 255301,
@@ -63114,7 +63231,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 72,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 92
  },
  {
   "StudentId": 255302,
@@ -63125,7 +63243,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 80,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 83
  },
  {
   "StudentId": 255303,
@@ -63136,7 +63255,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 80,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 95
  },
  {
   "StudentId": 255304,
@@ -63171,7 +63291,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 69
  },
  {
   "StudentId": 255307,
@@ -63182,7 +63303,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 77
  },
  {
   "StudentId": 255308,
@@ -63505,7 +63627,8 @@
   "Category": "I",
   "Subject1": "I9",
   "Mark 1": 97,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 90
  },
  {
   "StudentId": 255335,
@@ -63540,7 +63663,8 @@
   "Category": "I",
   "Subject1": "I9",
   "Mark 1": 84,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 93
  },
  {
   "StudentId": 255338,
@@ -64272,7 +64396,8 @@
   "Category": "I",
   "Subject1": "I1",
   "Mark 1": 35,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 35
  },
  {
   "StudentId": 255405,
@@ -64283,7 +64408,8 @@
   "Category": "I",
   "Subject1": "I1",
   "Mark 1": 54,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 79
  },
  {
   "StudentId": 255406,
@@ -64294,7 +64420,8 @@
   "Category": "I",
   "Subject1": "I1",
   "Mark 1": 10,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 35
  },
  {
   "StudentId": 255407,
@@ -64424,7 +64551,7 @@
   "DarsCode": "MLP123",
   "Category": "I",
   "Subject1": "I3",
-  "Mark 1": 511,
+  "Mark 1": 51,
   "Subject2": "I11",
   "Mark 2": 79
  },
@@ -64641,7 +64768,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 49,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 35
  },
  {
   "StudentId": 255436,
@@ -64652,7 +64780,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 64,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 90
  },
  {
   "StudentId": 255437,
@@ -64663,7 +64792,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 68,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 89
  },
  {
   "StudentId": 255438,
@@ -64674,7 +64804,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 66,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 88
  },
  {
   "StudentId": 255439,
@@ -64685,7 +64816,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 49,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 81
  },
  {
   "StudentId": 255440,
@@ -64696,7 +64828,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 47,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 85
  },
  {
   "StudentId": 255441,
@@ -64707,7 +64840,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 73,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 79
  },
  {
   "StudentId": 255442,
@@ -64718,7 +64852,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 73,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 83
  },
  {
   "StudentId": 255443,
@@ -64729,7 +64864,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 47,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 82
  },
  {
   "StudentId": 255444,
@@ -64740,7 +64876,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 63,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 53
  },
  {
   "StudentId": 255445,
@@ -65147,7 +65284,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 21,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 42
  },
  {
   "StudentId": 255479,
@@ -65158,7 +65296,8 @@
   "Category": "I",
   "Subject1": "I9",
   "Mark 1": 37,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 72
  },
  {
   "StudentId": 255480,
@@ -65169,7 +65308,8 @@
   "Category": "I",
   "Subject1": "I9",
   "Mark 1": 35,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 62
  },
  {
   "StudentId": 255481,
@@ -65264,7 +65404,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 35,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 52
  },
  {
   "StudentId": 255489,
@@ -65275,7 +65416,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 35,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 53
  },
  {
   "StudentId": 255490,
@@ -65286,7 +65428,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 43,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 41
  },
  {
   "StudentId": 255491,
@@ -65333,7 +65476,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 10,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 35
  },
  {
   "StudentId": 255495,
@@ -65344,7 +65488,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 10,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 35
  },
  {
   "StudentId": 255496,
@@ -65355,7 +65500,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 10,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 35
  },
  {
   "StudentId": 255497,
@@ -65366,7 +65512,8 @@
   "Category": "M",
   "Subject1": "M1",
   "Mark 1": 35,
-  "Subject2": "M19"
+  "Subject2": "M19",
+  "Mark 2": 38
  },
  {
   "StudentId": 255498,
@@ -65401,7 +65548,8 @@
   "Category": "I",
   "Subject1": "I7",
   "Mark 1": 98,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 97
  },
  {
   "StudentId": 255501,
@@ -65412,7 +65560,8 @@
   "Category": "I",
   "Subject1": "I7",
   "Mark 1": 100,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 87
  },
  {
   "StudentId": 255502,
@@ -65795,7 +65944,8 @@
   "Category": "I",
   "Subject1": "I7",
   "Mark 1": 99,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 97
  },
  {
   "StudentId": 255534,
@@ -65806,7 +65956,8 @@
   "Category": "I",
   "Subject1": "I7",
   "Mark 1": 99,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 97
  },
  {
   "StudentId": 255535,
@@ -65829,7 +65980,8 @@
   "Category": "I",
   "Subject1": "I7",
   "Mark 1": 97,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 97
  },
  {
   "StudentId": 255537,
@@ -65852,7 +66004,8 @@
   "Category": "I",
   "Subject1": "I7",
   "Mark 1": 99,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 97
  },
  {
   "StudentId": 255539,
@@ -65863,7 +66016,8 @@
   "Category": "I",
   "Subject1": "I7",
   "Mark 1": 97,
-  "Subject2": "I12"
+  "Subject2": "I12",
+  "Mark 2": 91
  },
  {
   "StudentId": 255540,
@@ -65874,7 +66028,8 @@
   "Category": "I",
   "Subject1": "I7",
   "Mark 1": 97,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 97
  },
  {
   "StudentId": 255541,
@@ -65885,7 +66040,8 @@
   "Category": "I",
   "Subject1": "I7",
   "Mark 1": 99,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 85
  },
  {
   "StudentId": 255542,
@@ -65943,7 +66099,8 @@
   "Category": "I",
   "Subject1": "I7",
   "Mark 1": 98,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 98
  },
  {
   "StudentId": 255547,
@@ -68872,7 +69029,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 60,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 82
  },
  {
   "StudentId": 255792,
@@ -68883,7 +69041,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 85,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 96
  },
  {
   "StudentId": 255793,
@@ -68894,7 +69053,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 35,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 35
  },
  {
   "StudentId": 255794,
@@ -68905,7 +69065,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 60,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 78
  },
  {
   "StudentId": 255795,
@@ -68916,7 +69077,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 35,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 35
  },
  {
   "StudentId": 255796,
@@ -68927,7 +69089,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 35,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 35
  },
  {
   "StudentId": 255797,
@@ -68938,7 +69101,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 35,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 57
  },
  {
   "StudentId": 255798,
@@ -68949,7 +69113,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 35,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 35
  },
  {
   "StudentId": 255799,
@@ -68960,7 +69125,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 35,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 35
  },
  {
   "StudentId": 255800,
@@ -68971,7 +69137,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 36,
-  "Subject2": "I13"
+  "Subject2": "I13",
+  "Mark 2": 39
  },
  {
   "StudentId": 255801,
@@ -69054,7 +69221,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 43,
-  "Subject2": "I14"
+  "Subject2": "I14",
+  "Mark 2": 61
  },
  {
   "StudentId": 255808,
@@ -69076,7 +69244,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 35,
-  "Subject2": "I14"
+  "Subject2": "I14",
+  "Mark 2": 35
  },
  {
   "StudentId": 255810,
@@ -69087,7 +69256,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 35,
-  "Subject2": "I14"
+  "Subject2": "I14",
+  "Mark 2": 64
  },
  {
   "StudentId": 255811,
@@ -69098,7 +69268,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 35,
-  "Subject2": "I14"
+  "Subject2": "I14",
+  "Mark 2": 57
  },
  {
   "StudentId": 255812,
@@ -69119,7 +69290,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 35,
-  "Subject2": "I14"
+  "Subject2": "I14",
+  "Mark 2": 35
  },
  {
   "StudentId": 255814,
@@ -69130,7 +69302,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 35,
-  "Subject2": "I14"
+  "Subject2": "I14",
+  "Mark 2": 36
  },
  {
   "StudentId": 255815,
@@ -69141,7 +69314,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 35,
-  "Subject2": "I14"
+  "Subject2": "I14",
+  "Mark 2": 20
  },
  {
   "StudentId": 255816,
@@ -69152,7 +69326,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 42,
-  "Subject2": "I14"
+  "Subject2": "I14",
+  "Mark 2": 90
  },
  {
   "StudentId": 255817,
@@ -69163,7 +69338,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 35,
-  "Subject2": "I14"
+  "Subject2": "I14",
+  "Mark 2": 35
  },
  {
   "StudentId": 255818,
