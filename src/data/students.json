@@ -49363,6 +49363,7 @@
   "DarsCode": "MLP51",
   "Category": "M",
   "Subject1": "M1",
+  "Mark 1": 51,
   "Subject2": "M25",
   "Mark 2": 73
  },
@@ -49446,6 +49447,7 @@
   "DarsCode": "MLP51",
   "Category": "M",
   "Subject1": "M1",
+  "Mark 1": 63,
   "Subject2": "M25",
   "Mark 2": 97
  },
@@ -66052,7 +66054,8 @@
   "Category": "I",
   "Subject1": "I4",
   "Mark 1": 98,
-  "Subject2": "I12"
+  "Subject2": "I12",
+  "Mark 2": 100
  },
  {
   "StudentId": 255543,
