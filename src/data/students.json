@@ -28292,7 +28292,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 35,
-  "Subject2": "I11"
+  "Subject2": "I11",
+  "Mark 2": 35
  },
  {
   "StudentId": 252372,
@@ -28303,7 +28304,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 35,
-  "Subject2": "I11"
+  "Subject2": "I11",
+  "Mark 2": 35
  },
  {
   "StudentId": 252373,
@@ -28314,7 +28316,8 @@
   "Category": "I",
   "Subject1": "I3",
   "Mark 1": 35,
-  "Subject2": "I11"
+  "Subject2": "I11",
+  "Mark 2": 60
  },
  {
   "StudentId": 252374,
@@ -51081,7 +51084,7 @@
   "Subject1": "I3",
   "Mark 1": 99,
   "Subject2": "I11",
-  "Mark 2": 10
+  "Mark 2": 100
  },
  {
   "StudentId": 254283,
