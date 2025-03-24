@@ -12208,6 +12208,7 @@
   "DarsCode": "KNR21",
   "Category": "I",
   "Subject1": "I3",
+  "Mark 1": 45,
   "Subject2": "I11",
   "Mark 2": 35
  },
@@ -12723,6 +12724,7 @@
   "DarsCode": "KNR21",
   "Category": "M",
   "Subject1": "M4",
+  "Mark 1": 50,
   "Subject2": "M27",
   "Mark 2": 59
  },
@@ -12734,6 +12736,7 @@
   "DarsCode": "KNR21",
   "Category": "M",
   "Subject1": "M4",
+  "Mark 1": 41,
   "Subject2": "M27",
   "Mark 2": 49
  },
@@ -12745,6 +12748,7 @@
   "DarsCode": "KNR21",
   "Category": "M",
   "Subject1": "M4",
+  "Mark 1": 57,
   "Subject2": "M27",
   "Mark 2": 58
  },
@@ -12756,6 +12760,7 @@
   "DarsCode": "KNR21",
   "Category": "M",
   "Subject1": "M4",
+  "Mark 1": 30,
   "Subject2": "M27",
   "Mark 2": 54
  },
@@ -12767,6 +12772,7 @@
   "DarsCode": "KNR21",
   "Category": "M",
   "Subject1": "M4",
+  "Mark 1": 54,
   "Subject2": "M27",
   "Mark 2": 59
  },
@@ -12778,6 +12784,7 @@
   "DarsCode": "KNR21",
   "Category": "M",
   "Subject1": "M4",
+  "Mark 1": 55,
   "Subject2": "M27",
   "Mark 2": 56
  },
@@ -12934,7 +12941,8 @@
   "Category": "A",
   "Subject1": "A18",
   "Mark 1": 56,
-  "Subject2": "A26"
+  "Subject2": "A26",
+  "Mark 2": 35
  },
  {
   "StudentId": 251088,
@@ -12944,6 +12952,7 @@
   "DarsCode": "KNR21",
   "Category": "A",
   "Subject1": "A18",
+  "Mark 1": 40,
   "Subject2": "A26",
   "Mark 2": 35
  },
@@ -52966,6 +52975,7 @@
   "DarsCode": "MLP57",
   "Category": "I",
   "Subject1": "I3",
+  "Mark 1": 69,
   "Subject2": "I11",
   "Mark 2": 83
  },
@@ -54773,6 +54783,7 @@
   "DarsCode": "MLP67",
   "Category": "M",
   "Subject1": "M2",
+  "Mark 1": 49,
   "Subject2": "M19",
   "Mark 2": 67
  },
@@ -56314,7 +56325,8 @@
   "Category": "A",
   "Subject1": "A2",
   "Mark 1": 35,
-  "Subject2": "A26"
+  "Subject2": "A26",
+  "Mark 2": 43
  },
  {
   "StudentId": 254723,
@@ -71882,5 +71894,185 @@
   "Mark 1": 46,
   "Subject2": "I13",
   "Mark 2": 78
+ },
+ {
+  "StudentId": 256101,
+  "Name": "MUHAMMED RAEES",
+  "Dars": "BUSTHANU TWALIBEEN AMMINIKKAD",
+  "Place": "AMMINIKKAD",
+  "DarsCode": "MLP86",
+  "Category": "A",
+  "Subject1": "A4",
+  "Mark 1": 35,
+  "Subject2": "A26",
+  "Mark 2": 40
+ },
+ {
+  "StudentId": 256102,
+  "Name": "MUHAMMED SINAN AK",
+  "Dars": "BUSTHANU TWALIBEEN AMMINIKKAD",
+  "Place": "AMMINIKKAD",
+  "DarsCode": "MLP86",
+  "Category": "A",
+  "Subject1": "A4",
+  "Mark 1": 35,
+  "Subject2": "A26",
+  "Mark 2": 35
+ },
+ {
+  "StudentId": 256103,
+  "Name": "MUHAMMED SINAN P",
+  "Dars": "BUSTHANU TWALIBEEN AMMINIKKAD",
+  "Place": "AMMINIKKAD",
+  "DarsCode": "MLP86",
+  "Category": "A",
+  "Subject1": "A4",
+  "Mark 1": 42,
+  "Subject2": "A26",
+  "Mark 2": 35
+ },
+ {
+  "StudentId": 256104,
+  "Name": "MUHAMMED MA'ROOF ",
+  "Dars": "BUSTHANU TWALIBEEN AMMINIKKAD",
+  "Place": "AMMINIKKAD",
+  "DarsCode": "MLP86",
+  "Category": "A",
+  "Subject1": "A4",
+  "Mark 1": 35,
+  "Subject2": "A26",
+  "Mark 2": 50
+ },
+ {
+  "StudentId": 256105,
+  "Name": "MUHAMMED FARHAN",
+  "Dars": "BUSTHANU TWALIBEEN AMMINIKKAD",
+  "Place": "AMMINIKKAD",
+  "DarsCode": "MLP86",
+  "Category": "A",
+  "Subject1": "A4",
+  "Mark 1": 35,
+  "Subject2": "A26",
+  "Mark 2": 35
+ },
+ {
+  "StudentId": 256106,
+  "Name": "MUHAMMED SWALIH P",
+  "Dars": "BUSTHANU TWALIBEEN AMMINIKKAD",
+  "Place": "AMMINIKKAD",
+  "DarsCode": "MLP86",
+  "Category": "M",
+  "Subject1": "M5",
+  "Mark 1": 35,
+  "Subject2": "M23",
+  "Mark 2": 37
+ },
+ {
+  "StudentId": 256107,
+  "Name": "MUHAMMED SWAFWAN",
+  "Dars": "BUSTHANU TWALIBEEN AMMINIKKAD",
+  "Place": "AMMINIKKAD",
+  "DarsCode": "MLP86",
+  "Category": "M",
+  "Subject1": "M5",
+  "Mark 1": 35,
+  "Subject2": "M23",
+  "Mark 2": 35
+ },
+ {
+  "StudentId": 256108,
+  "Name": "MUHAMMED NIYAS",
+  "Dars": "BUSTHANU TWALIBEEN AMMINIKKAD",
+  "Place": "AMMINIKKAD",
+  "DarsCode": "MLP86",
+  "Category": "M",
+  "Subject1": "M5",
+  "Mark 1": 35,
+  "Subject2": "M23",
+  "Mark 2": 65
+ },
+ {
+  "StudentId": 256109,
+  "Name": "MUHAMMED SINAJ",
+  "Dars": "BUSTHANU TWALIBEEN AMMINIKKAD",
+  "Place": "AMMINIKKAD",
+  "DarsCode": "MLP86",
+  "Category": "M",
+  "Subject1": "M5",
+  "Mark 1": 35,
+  "Subject2": "M23",
+  "Mark 2": 36
+ },
+ {
+  "StudentId": 256110,
+  "Name": "MUHAMMED MUKHTHAR",
+  "Dars": "BUSTHANU TWALIBEEN AMMINIKKAD",
+  "Place": "AMMINIKKAD",
+  "DarsCode": "MLP86",
+  "Category": "M",
+  "Subject1": "M5",
+  "Mark 1": 35,
+  "Subject2": "M23",
+  "Mark 2": 38
+ },
+ {
+  "StudentId": 256111,
+  "Name": "MUHAMMED MISAB",
+  "Dars": "BUSTHANU TWALIBEEN AMMINIKKAD",
+  "Place": "AMMINIKKAD",
+  "DarsCode": "MLP86",
+  "Category": "M",
+  "Subject1": "M5",
+  "Mark 1": 38,
+  "Subject2": "M23",
+  "Mark 2": 40
+ },
+ {
+  "StudentId": 256112,
+  "Name": "NIZAMUDDEEN",
+  "Dars": "BUSTHANU TWALIBEEN AMMINIKKAD",
+  "Place": "AMMINIKKAD",
+  "DarsCode": "MLP86",
+  "Category": "M",
+  "Subject1": "M2",
+  "Mark 1": 45,
+  "Subject2": "M21",
+  "Mark 2": 36
+ },
+ {
+  "StudentId": 256113,
+  "Name": "SHADULI SINAN",
+  "Dars": "BUSTHANU TWALIBEEN AMMINIKKAD",
+  "Place": "AMMINIKKAD",
+  "DarsCode": "MLP86",
+  "Category": "M",
+  "Subject1": "M2",
+  "Mark 1": 38,
+  "Subject2": "M21",
+  "Mark 2": 36
+ },
+ {
+  "StudentId": 256114,
+  "Name": "ABDUL BASITH",
+  "Dars": "BUSTHANU TWALIBEEN AMMINIKKAD",
+  "Place": "AMMINIKKAD",
+  "DarsCode": "MLP86",
+  "Category": "M",
+  "Subject1": "M2",
+  "Mark 1": 40,
+  "Subject2": "M21",
+  "Mark 2": 35
+ },
+ {
+  "StudentId": 256115,
+  "Name": "MUHAMMED SHIBILI",
+  "Dars": "BUSTHANU TWALIBEEN AMMINIKKAD",
+  "Place": "AMMINIKKAD",
+  "DarsCode": "MLP86",
+  "Category": "M",
+  "Subject1": "M2",
+  "Mark 1": 39,
+  "Subject2": "M21",
+  "Mark 2": 38
  }
 ]
