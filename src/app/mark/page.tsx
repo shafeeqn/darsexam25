@@ -11,7 +11,7 @@ type Student = {
   "Subject 1 Code": string;
   "Subject 2 Code": string;
   Institution: string;
-  "Institution Place": string;
+  Place: string;
   "Mark 1"?: string | number;
   "Mark 2"?: string | number;
 };
@@ -78,7 +78,7 @@ const page = () => {
   }
 
   function getDarsesToSubject() {
-    (students as Student[])
+    (students as unknown as Student[])
       .filter(
         (student) =>
           normalizeSubjectCode(student["Subject 1 Code"]) === selectedSubject ||
@@ -144,7 +144,7 @@ const page = () => {
           <p className="flex justify-center items-center text-base font-semibold  uppercase border-black bg-white text-black border-2 px-1 py-0.5 border-dotted rounded-md gap-1">
             students:
             {
-              (students as Student[]).filter(
+              (students as unknown as Student[]).filter(
                 (student) =>
                   normalizeSubjectCode(student["Subject 1 Code"]) === selectedSubject ||
                   normalizeSubjectCode(student["Subject 2 Code"]) === selectedSubject
@@ -183,7 +183,7 @@ const page = () => {
           Mark
         </p>
       </div>
-      {(students as Student[])
+      {(students as unknown as Student[])
         .filter(
           (student) =>
             normalizeSubjectCode(student["Subject 1 Code"]) === selectedSubject ||
@@ -201,7 +201,7 @@ const page = () => {
               {student.Name}
             </p>
             <p className="w-20 text-left line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              {getDarsCode(student.Institution, student["Institution Place"])}
+              {getDarsCode(student.Institution, student.Place)}
             </p>
             <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               {" "}

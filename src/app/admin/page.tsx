@@ -13,7 +13,7 @@ type Student = {
   "Subject 1 Code": string;
   "Subject 2 Code": string;
   Institution: string;
-  "Institution Place": string;
+  Place: string;
   "Mark 1"?: string | number;
   "Mark 2"?: string | number;
 };
@@ -24,8 +24,8 @@ type Dars = {
   DarsCode: string;
 };
 
-const students = studentsData as Student[];
-const darscode = darscodeData as Dars[];
+const students = studentsData as unknown as Student[];
+const darscode = darscodeData as unknown as Dars[];
 
 const page = () => {
   const [username, setUsername] = useState<string>("");
@@ -205,8 +205,8 @@ const page = () => {
             <p className="w-96 text-left line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               {student.Name}
             </p>
-            <p className="w-40 text-left line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              {getDarsCode(student.Institution, student["Institution Place"])}
+            <p className="w-40 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
+              {getDarsCode(student.Institution, student.Place)}
             </p>
             <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               {normalizeSubjectCode(student["Subject 1 Code"]) === selectedSubject ? student["Mark 1"] : student["Mark 2"]}

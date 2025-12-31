@@ -10,8 +10,6 @@ type Student = {
   "Subject 1 Code": string;
   "Subject 2 Code": string;
   Institution: string;
-  "Institution Place": string;
-  // Add other properties if needed based on usage
 };
 
 export default function Dashboard() {
@@ -68,7 +66,7 @@ export default function Dashboard() {
       }
 
       if (registrationNumber) {
-        const found = (students as Student[]).find(
+        const found = (students as unknown as Student[]).find(
           (s) => s["Registration Number"] == registrationNumber
         );
         setStudent(found);

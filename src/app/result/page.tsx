@@ -13,7 +13,6 @@ type Student = {
     "Subject 1 Code": string;
     "Subject 2 Code": string;
     Institution: string;
-    "Institution Place": string;
     "Mark 1"?: string | number;
     "Mark 2"?: string | number;
 };
@@ -54,7 +53,7 @@ export default function page() {
 
     const currentDarsObj = (dars as DarsEntry[]).find(d => d.DarsCode === username);
 
-    const darsStudents = (students as Student[]).filter(
+    const darsStudents = (students as unknown as Student[]).filter(
         (student) => currentDarsObj && student.Institution === currentDarsObj.Dars
     );
 

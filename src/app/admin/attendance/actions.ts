@@ -10,17 +10,16 @@ export type Student = {
     "Subject 1 Code": string;
     "Subject 2 Code": string;
     "Institution": string;
-    "Institution Place": string;
 };
 
 export async function getStudentsForInstitution(institutionName: string): Promise<Student[]> {
     try {
-        const students = studentsData as Student[];
+        const students = studentsData as unknown as Student[];
 
         // The institutionName from the dropdown comes from institutions.json, which appears to be "InstitutionName PlaceName"
         // So we interpret the input as the full string and try to match it against combined student fields
         const filteredStudents = students.filter((student) => {
-            const studentFull = `${student.Institution} ${student["Institution Place"]}`.trim();
+            const studentFull = `${student.Institution}`.trim();
             // Check for exact match (trimming to be safe)
             return studentFull === institutionName || student.Institution === institutionName;
         });
