@@ -1,6 +1,5 @@
-import path from 'path';
-import { promises as fs } from 'fs';
 import AttendanceRegister from '@/components/AttendanceRegister';
+import institutionsData from '@/data/institutions.json';
 
 type Institution = {
   institution: string;
@@ -8,9 +7,7 @@ type Institution = {
 };
 
 async function getInstitutions(): Promise<Institution[]> {
-  const jsonDirectory = path.join(process.cwd());
-  const fileContents = await fs.readFile(jsonDirectory + '/src/data/institutions.json', 'utf8');
-  return JSON.parse(fileContents);
+  return institutionsData as Institution[];
 }
 
 export default async function AttendancePage() {
@@ -23,7 +20,7 @@ export default async function AttendancePage() {
           <h1 className="text-3xl font-bold text-gray-900">Attendance Register Generation</h1>
           <p className="text-gray-600 mt-2">Select an institution to generate and print the exam hall attendance sheet.</p>
         </header>
-        
+
         <AttendanceRegister institutions={institutions} />
       </div>
     </div>

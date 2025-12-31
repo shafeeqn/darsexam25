@@ -1,7 +1,6 @@
 'use server';
 
-import path from 'path';
-import { promises as fs } from 'fs';
+import allStudentsData from '@/data/all_students.json';
 
 // Define the Student type based on the JSON structure
 export type Student = {
@@ -16,10 +15,7 @@ export type Student = {
 
 export async function getStudentsForInstitution(institutionName: string): Promise<Student[]> {
     try {
-        const jsonDirectory = path.join(process.cwd());
-        // Using the exact filename observed in the file exploration
-        const fileContents = await fs.readFile(jsonDirectory + '/src/data/students_All Sections_2025-12-30.json', 'utf8');
-        const allStudents: Student[] = JSON.parse(fileContents);
+        const allStudents = allStudentsData as Student[];
 
         const filteredStudents = allStudents.filter(
             (student) => student.Institution === institutionName
