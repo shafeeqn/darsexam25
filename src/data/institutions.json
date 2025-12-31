@@ -1,1046 +1,214 @@
 [
-  {
-    "institution": "Al Burhan Dars",
-    "place": "West Pathanapuram"
-  },
-  {
-    "institution": "Markazul ulama dars chirappalam",
-    "place": "Chirappalam, kadungalloor"
-  },
-  {
-    "institution": "Noorul khaliq dars",
-    "place": "Kottapalli"
-  },
-  {
-    "institution": "Sirajul Ulama dars",
-    "place": "kizhisheri"
-  },
-  {
-    "institution": "Busthanul Udaba Dars",
-    "place": "പൂനൂർ അവേലം ജുമാ മസ്ജിദ്"
-  },
-  {
-    "institution": "MARKAZUL ULAMA DARS",
-    "place": "KADAPPADI"
-  },
-  {
-    "institution": "MANHAJU SWALAH DARS",
-    "place": "MUDIKKODE"
-  },
-  {
-    "institution": "Haneenul Huda Suffa Dars",
-    "place": "Pukayoor kunnath Vengara"
-  },
-  {
-    "institution": "Koukabu thwalaba daras vallapuza",
-    "place": "Pattambi, vallapuza"
-  },
-  {
-    "institution": "MAMBA_UL_IHSAN DARS",
-    "place": "MALLIYIL"
-  },
-  {
-    "institution": "DARUL HIDAYA DARS",
-    "place": "VELLILA - PUTHANVEED"
-  },
-  {
-    "institution": "Roulathul Uloom Suffa Dars",
-    "place": "Punjavi"
-  },
-  {
-    "institution": "Al Darsul Ihsan",
-    "place": "pullur"
-  },
-  {
-    "institution": "Bayanul uloom dars",
-    "place": "Muttichira"
-  },
-  {
-    "institution": "Al ihsan suffa dars",
-    "place": "ഷാപ്പിൻ കുന്ന്, മഞ്ചേരി"
-  },
-  {
-    "institution": "EDAKKULAM DARAS",
-    "place": "EDAKKULAM"
-  },
-  {
-    "institution": "FATH'HUNNOOR SUFFA DARS",
-    "place": "IRUMBUZHI"
-  },
-  {
-    "institution": "SUBULUSSALAM DARS KOZHIPPURAM",
-    "place": "KOZHIPPURAM"
-  },
-  {
-    "institution": "Badriyya dars thuppanad",
-    "place": "Thuppanad"
-  },
-  {
-    "institution": "HIDAYATHU TWAHALABA DARS KANKOL",
-    "place": "Kankol"
-  },
-  {
-    "institution": "NOORUL HUDA DARS",
-    "place": "VADAKKEKAD - PARAYANGAD"
-  },
-  {
-    "institution": "Payanjeeri daras karakkad",
-    "place": "Karakkad"
-  },
-  {
-    "institution": "BADRIYYA DARS THUPPANAD",
-    "place": "THUPPANAD"
-  },
-  {
-    "institution": "MANBAUSSA'ADHA DARS MANIYAMBALATH, KUTTIKKATTOOR",
-    "place": "MANIYAMBALATH,KUTTIKKATTOOR"
-  },
-  {
-    "institution": "Jamaliyya dars vattapparambu",
-    "place": "Vattapparambu(karinkallathani)"
-  },
-  {
-    "institution": "Vandumthara daras",
-    "place": "Mulayankavu"
-  },
-  {
-    "institution": "NOORUL ISLAM DARS KIDANGAZHI",
-    "place": "Kidangazhi"
-  },
-  {
-    "institution": "Maslakul Anwar Dars Tuvvur",
-    "place": "Tuvvur"
-  },
-  {
-    "institution": "Rabbaniyya Dars",
-    "place": "Vallikkappatta"
-  },
-  {
-    "institution": "MANBA'UL HUDA DARS",
-    "place": "Perumukku"
-  },
-  {
-    "institution": "Al Himaya Dars",
-    "place": "PADANNA KALIKKADAV"
-  },
-  {
-    "institution": "ANSWARUL ISLAM DARS KOTTAKKAL",
-    "place": "KOTTAKKAL"
-  },
-  {
-    "institution": "Hidhayathu thwalaba dars kankol",
-    "place": "Kankol"
-  },
-  {
-    "institution": "Madinul Uloom Dars",
-    "place": "Puthuppally Chemravattom"
-  },
-  {
-    "institution": "Fahahha",
-    "place": "Kozhikode"
-  },
-  {
-    "institution": "BUSTHNUL ULOOM SUFFA DARS",
-    "place": "വാക്കേതൊടി- ചോലക്കൽ"
-  },
-  {
-    "institution": "Mamba ul hudha dars",
-    "place": "Poochakkad"
-  },
-  {
-    "institution": "Ansarul Islam Suffa Dars",
-    "place": "Palakkalvetta , Tuvvur"
-  },
-  {
-    "institution": "THARBEEYATHUL MUTHALLIMEEN",
-    "place": "THARAYITTAL"
-  },
-  {
-    "institution": "iqra dars padanna & udinur",
-    "place": "padanna&udinur"
-  },
-  {
-    "institution": "SHADULIYYA DA'WA DARS",
-    "place": "KAMBIL PANNIYANKANDI"
-  },
-  {
-    "institution": "MAMBA-UL-ULOOM DARS",
-    "place": "IRUMBALASSERY"
-  },
-  {
-    "institution": "DARAJATHUL ULOOM DARS",
-    "place": "KUNNUMPURAM, CHEPYALAM JM"
-  },
-  {
-    "institution": "Thamreenu Thulaba",
-    "place": "Karinkkallathani"
-  },
-  {
-    "institution": "Irshadu thwalaba suffa dars",
-    "place": "mullampara"
-  },
-  {
-    "institution": "MIA'RAJUL IRFAN DARS PARAPPALLY",
-    "place": "PARAPPALLY"
-  },
-  {
-    "institution": "Al EAQALU Dars Chiramangalam South",
-    "place": "Chiramangalam"
-  },
-  {
-    "institution": "AL EAQALU DARS",
-    "place": "CHEMBRA"
-  },
-  {
-    "institution": "Al hidaya dars",
-    "place": "Kundukad"
-  },
-  {
-    "institution": "MARKAZUL ULAMA DARS KONOMPARA",
-    "place": "Konompara"
-  },
-  {
-    "institution": "Markazul ulama dars",
-    "place": "Aanakkayam"
-  },
-  {
-    "institution": "DARUL HIDAYA",
-    "place": "THALAYAD"
-  },
-  {
-    "institution": "Darul uloom",
-    "place": "Valiya parappur"
-  },
-  {
-    "institution": "MISWBAHUL HUDA DARS MOLOOR",
-    "place": "MOLOOR"
-  },
-  {
-    "institution": "DA-IRATHUL IRFAN DARS",
-    "place": "Panoor"
-  },
-  {
-    "institution": "Mamba-ul hidaya dars",
-    "place": "Veliyambra"
-  },
-  {
-    "institution": "Swabiriyya dars vadanappally",
-    "place": "Vadanappally"
-  },
-  {
-    "institution": "BAYANUL ULOOM DARS",
-    "place": "MANGATTOOR"
-  },
-  {
-    "institution": "Kadooppuram Juma musjid Dars",
-    "place": "Koottilangadi"
-  },
-  {
-    "institution": "BAYANUL ULOOM SUFFA DARS",
-    "place": "Chemmankadav kongayam"
-  },
-  {
-    "institution": "Rabbaniya dars villur",
-    "place": "Kottakkal. Vast villur"
-  },
-  {
-    "institution": "MARKAZUL ULAMA DARS PANAMBRA",
-    "place": "PANAMBRA"
-  },
-  {
-    "institution": "Mankadavu juma masjid dars",
-    "place": "Mankadavu"
-  },
-  {
-    "institution": "MARKAZUL ULAMA DARS MUNDATH PALLI",
-    "place": "ALANALLUR"
-  },
-  {
-    "institution": "Ihyaahul ulloom dars",
-    "place": "Kavanur town"
-  },
-  {
-    "institution": "MAMBAULIHSANDARS",
-    "place": "Kondiparamb"
-  },
-  {
-    "institution": "IMDHADHUTHULABA",
-    "place": "TIRUR  KORANGATH"
-  },
-  {
-    "institution": "DA'WATHUL ISLAM RAHMANIYA DARS, IRIKKUR",
-    "place": "IRIKKUR"
-  },
-  {
-    "institution": "IRSHADHU THWULABA DARS",
-    "place": "POOKKOTTU CHOLA JUMA MASJID AREEKKODE"
-  },
-  {
-    "institution": "Mksa dars kallatt",
-    "place": "Puthiya kadappuram"
-  },
-  {
-    "institution": "MARKAZUL ULAMA DARS PULLAVOOR",
-    "place": "KATTANGAL, NIT PULLAVOOR"
-  },
-  {
-    "institution": "Badriyya dars",
-    "place": "Kallidumb"
-  },
-  {
-    "institution": "MAMBAUSSUADA DARS",
-    "place": "Pullural, Tirur"
-  },
-  {
-    "institution": "DARUTHANVEER DARS",
-    "place": "Vengadu"
-  },
-  {
-    "institution": "Manhalul Maharif Dars",
-    "place": "Kizhakkumpadam"
-  },
-  {
-    "institution": "ALIYYUL KOOFI DARS",
-    "place": "Peringhathur"
-  },
-  {
-    "institution": "DARUL ULOOM DARS KORAD",
-    "place": "Korad"
-  },
-  {
-    "institution": "Hidayathuthwalaba-Veshala dars",
-    "place": "Veshala"
-  },
-  {
-    "institution": "IRSHADU TWALABA DARS",
-    "place": "Thankayam , Trikaripur"
-  },
-  {
-    "institution": "AL QADIRIYYA DARS VAKA",
-    "place": "MATTAM, VAKHA"
-  },
-  {
-    "institution": "Sauthushareeha Dars",
-    "place": "Pallimukku, pookkottur"
-  },
-  {
-    "institution": "Shamsul ulama memorial education centre kuniya",
-    "place": "Kuniya"
-  },
-  {
-    "institution": "MAJMAUL FAYIZEEN DARS",
-    "place": "KUMBADAJE"
-  },
-  {
-    "institution": "Markazul ulama dars vazhakkad",
-    "place": "Vazhakkad"
-  },
-  {
-    "institution": "MANARUL HUDA DARS",
-    "place": "Vadakara Makkool Peedika"
-  },
-  {
-    "institution": "Thazkiyathul Muthallimeen Dars",
-    "place": "Thekkumala"
-  },
-  {
-    "institution": "Markasul ulama dars",
-    "place": "Anakayam manjeri"
-  },
-  {
-    "institution": "Imadudheeen dars pappipinisser west",
-    "place": "Pappipinisseri west"
-  },
-  {
-    "institution": "Jeelani Dars ambamkunn",
-    "place": "Ambamkunn"
-  },
-  {
-    "institution": "Mihrajul Irfan Dars Parappalli",
-    "place": "Parappalli"
-  },
-  {
-    "institution": "MAMBA’UL HIDAYA DARS",
-    "place": "PAIKA"
-  },
-  {
-    "institution": "Assasul Huda Dars",
-    "place": "53Th mile"
-  },
-  {
-    "institution": "Navaviyya dars",
-    "place": "Musliyarangadi"
-  },
-  {
-    "institution": "BAYANUL ULOOM SUFFA DARS MANKAVU",
-    "place": "Mankavu,Kozhikode"
-  },
-  {
-    "institution": "Al eeqadh alathiyur",
-    "place": "Alathiyur"
-  },
-  {
-    "institution": "Darul Anvar durs",
-    "place": "Nellaya"
-  },
-  {
-    "institution": "Rabbaniyya Dars Mannarapparamba",
-    "place": "Mannarapparamba"
-  },
-  {
-    "institution": "AL MAHLARATHUL JALALIYYA DARS",
-    "place": "CHERAPURAM"
-  },
-  {
-    "institution": "NAJMUL HUDHA DA'WA DARS",
-    "place": "MANALADI, MANNARKKAD"
-  },
-  {
-    "institution": "Al eeqad",
-    "place": "Alathiyoor"
-  },
-  {
-    "institution": "Madenathul ilm dars",
-    "place": "Nattyamangalam"
-  },
-  {
-    "institution": "Markazul ulama dars valanchery",
-    "place": "Valanchery"
-  },
-  {
-    "institution": "BAHJATHUL HUDA",
-    "place": "Kodangad"
-  },
-  {
-    "institution": "Darul Hidaya Dars",
-    "place": "Manikoth"
-  },
-  {
-    "institution": "darulhidaya daras",
-    "place": "pulamenthol up"
-  },
-  {
-    "institution": "Khidmathulmouladars",
-    "place": "Melattur kombamkallu"
-  },
-  {
-    "institution": "MIFTHAHUL ULOOM RABBANIYA DARS MANNAMKUZHI",
-    "place": "MANNAMKUZHI P/O UPPALA KASARAGOD"
-  },
-  {
-    "institution": "Badar masjid pathirikkadavu",
-    "place": "Edakkayioor nallamkallu"
-  },
-  {
-    "institution": "MARKAZUL ULAMA DARS CHERUMBA",
-    "place": "Cherumba, periyattadukkam"
-  },
-  {
-    "institution": "AL-AQSA DARS VALLUVAMBUZHA",
-    "place": "Palakkad"
-  },
-  {
-    "institution": "സബീലുൽ ഹുദാ ദർസ് എടയൂർ",
-    "place": "വളാഞ്ചേരി"
-  },
-  {
-    "institution": "MA'UDANUL UDABA DARS",
-    "place": "MUTHIRIPARAMBU"
-  },
-  {
-    "institution": "Jalaliyya darse",
-    "place": "Kunthippuza"
-  },
-  {
-    "institution": "غنيمة الصالحين",
-    "place": "വിളയൂർ ജുമാ മസ്ജിദ്"
-  },
-  {
-    "institution": "Vanimel dars",
-    "place": "Vanimel"
-  },
-  {
-    "institution": "AL AQSA DARS",
-    "place": "CHALIYAM"
-  },
-  {
-    "institution": "RIYALATHU TWALABA ELETTIL NEW MASJID",
-    "place": "ELETTIL VATTOLI"
-  },
-  {
-    "institution": "Riyalathu Twalaba Dars Elettil New masjid",
-    "place": "ELETTIL VATTOLI"
-  },
-  {
-    "institution": "Markazul Ulama Dhars manjer Melakkam",
-    "place": "Manjeri"
-  },
-  {
-    "institution": "Jalaliyya Dars",
-    "place": "തവരപറമ്പ്"
-  },
-  {
-    "institution": "Irshad ul Thwalaba",
-    "place": "Pannithadam"
-  },
-  {
-    "institution": "NOORU THULABA DARS",
-    "place": "WEST KAIPURAM"
-  },
-  {
-    "institution": "PACHEERI DARS",
-    "place": "PACHEERI, PERINTHALMANNA"
-  },
-  {
-    "institution": "IRSHADHU THWALABA DARS",
-    "place": "PALAKKODE"
-  },
-  {
-    "institution": "Hidayathu Thwalaba",
-    "place": "Nalankeri"
-  },
-  {
-    "institution": "Makhdoomiyya dars",
-    "place": "Vilathur"
-  },
-  {
-    "institution": "Madeenathunnoor dars",
-    "place": "Pallippoyil"
-  },
-  {
-    "institution": "Azeeziyya Suffa dars",
-    "place": "Kinasseri"
-  },
-  {
-    "institution": "Bayanululoomputhantheru",
-    "place": "PuthanTheru, Tanur"
-  },
-  {
-    "institution": "Noorul Huda dars karulai",
-    "place": "Karulai"
-  },
-  {
-    "institution": "Machakulam Dars",
-    "place": "Machakulam,pullalur"
-  },
-  {
-    "institution": "JAWHARATHUL ULOOM SUFFA DARS STUDENTS ASSOCIATION",
-    "place": "Valamagalam"
-  },
-  {
-    "institution": "DARUL HIDAYA DARS AVIYIL",
-    "place": "Kanhangad"
-  },
-  {
-    "institution": "Muhammadiya dars muttam",
-    "place": "Bandiyod"
-  },
-  {
-    "institution": "Nooru twalaba dars",
-    "place": "Veemboor"
-  },
-  {
-    "institution": "darul hidaya dars thaikadapuram",
-    "place": "Thaikadappuram"
-  },
-  {
-    "institution": "Sirajul ulama daras pookkolathur",
-    "place": "Manjeri-pookkolathur"
-  },
-  {
-    "institution": "SUBULU RASHAD DARS",
-    "place": "KOTTOPPADAM"
-  },
-  {
-    "institution": "Misbahul-hudha Kannath dhars",
-    "place": "Kannath"
-  },
-  {
-    "institution": "SHMASUL HUDHA DARS",
-    "place": "PULAYOOR"
-  },
-  {
-    "institution": "Tarbiyah Suffa Dars",
-    "place": "Cheruputhoor, Mongam"
-  },
-  {
-    "institution": "Darul Hidaya Dars poonath",
-    "place": "Poonath"
-  },
-  {
-    "institution": "Munawirul Islam Dars",
-    "place": "Malappuram,vallapuzha"
-  },
-  {
-    "institution": "MARKAZUL ULAMA DARS CHERUKULAMBA",
-    "place": "CHERUKULAMBA"
-  },
-  {
-    "institution": "Manhajul huda suffa dars",
-    "place": "Anamangad"
-  },
-  {
-    "institution": "ഇർഷാദു ത്വലബ ദർസ്",
-    "place": "ചെർപ്പുളശ്ശേരി"
-  },
-  {
-    "institution": "Shamsul Ulamaa Smaaraka Dars",
-    "place": "Cheruthuruthy"
-  },
-  {
-    "institution": "MALIK DEENAR MARKAZUL ULAMA DARS SREEKANDAPURAM, PAZHAYANGADI",
-    "place": "SREEKANDAPURAM, PAZHAYANGADI"
-  },
-  {
-    "institution": "MANARUL HUDHA DARS STUDENT ORGANIZATION",
-    "place": "Varam"
-  },
-  {
-    "institution": "Hidayathu Thwalaba Dars Malik Dinar Academy",
-    "place": "Pazhayangadi, Sreekandapuram"
-  },
-  {
-    "institution": "Nibrasu thwalaba sars",
-    "place": "Cherumoth"
-  },
-  {
-    "institution": "Najmul huda dars",
-    "place": "Koomanna chenakkal"
-  },
-  {
-    "institution": "Al marjan",
-    "place": "Puttanikad"
-  },
-  {
-    "institution": "Markazul Ulama Dars Kodinhi",
-    "place": "Kodinhi"
-  },
-  {
-    "institution": "Subulusslam Dars",
-    "place": "Kuruvattoor"
-  },
-  {
-    "institution": "Thamreenu Thwalaba Dars Kundukulam",
-    "place": "Kundukulam"
-  },
-  {
-    "institution": "..",
-    "place": "Makkarapparamba"
-  },
-  {
-    "institution": "Mambaul hidaya dars koyyod",
-    "place": "Koyyod"
-  },
-  {
-    "institution": "dharul hidhaya dars",
-    "place": "Vadakkangara"
-  },
-  {
-    "institution": "Ansarul uloom dars",
-    "place": "Irumpuzhi,vadakkummuri"
-  },
-  {
-    "institution": "Manbahul quthaba darass",
-    "place": "ARIMBRA KALARI"
-  },
-  {
-    "institution": "Murshidu thwalaba dars karaya juma masjid",
-    "place": "Pandikkad"
-  },
-  {
-    "institution": "Mahdinul faswaha",
-    "place": "Manathala"
-  },
-  {
-    "institution": "SWABIRIYYA AKALAD",
-    "place": "Akalad"
-  },
-  {
-    "institution": "MUNAVVIRUL ISLAM DARS",
-    "place": "KONDURKARA"
-  },
-  {
-    "institution": "ALATHURPADI DARS",
-    "place": "ALATHURPADI"
-  },
-  {
-    "institution": "Hidaythu thulaba",
-    "place": "തൃക്കലങ്ങോട്"
-  },
-  {
-    "institution": "RABBANIYA DARAS KUMARANALLUR",
-    "place": "KUMARANALLUR"
-  },
-  {
-    "institution": "Noorul islam dars",
-    "place": "Palackode"
-  },
-  {
-    "institution": "Markazul ulama dars amayoor",
-    "place": "Amayoor"
-  },
-  {
-    "institution": "MARKAZUL ULAMA DARS AMAYOOR",
-    "place": "Amayoor"
-  },
-  {
-    "institution": "MARKAZUL ULAMA DARS KAMBIL",
-    "place": "കമ്പിൽ"
-  },
-  {
-    "institution": "THAMREENU THWALABA DARS",
-    "place": "PULLANCHERI"
-  },
-  {
-    "institution": "Irsul Anbiya Dars",
-    "place": "Thannikkadav"
-  },
-  {
-    "institution": "Rahmaniyya dars panangangara",
-    "place": "Panangangara"
-  },
-  {
-    "institution": "AL JALALIYYA DARS",
-    "place": "VAKKALOOR"
-  },
-  {
-    "institution": "Sirajul  ulama dars karuvarakundu Tharish",
-    "place": "Karuvarakundu"
-  },
-  {
-    "institution": "Markazul Ulama Dars Vadippuram,Kavvayi",
-    "place": "Vadippuram,Kavvayi"
-  },
-  {
-    "institution": "SIRAJUL ULAMA DARS",
-    "place": "MAMPUZHA"
-  },
-  {
-    "institution": "Sabeelussalam suffa dars",
-    "place": "Ferook,Kodampuzha"
-  },
-  {
-    "institution": "HIDAYATHURAHMA DARS",
-    "place": "Chalavara"
-  },
-  {
-    "institution": "Thamreenu twalaba DARS KUNDUKULAM",
-    "place": "Malappuram"
-  },
-  {
-    "institution": "Mueenuthwaba darskacheripparambu",
-    "place": "Kacheripparambu"
-  },
-  {
-    "institution": "MADARUSSA'ADA DARS",
-    "place": "Cheekode"
-  },
-  {
-    "institution": "MARKAZUL ULAMA DARS PULIKKODE",
-    "place": "PULIKKODE, KOTTAKKAL"
-  },
-  {
-    "institution": "FIRDOUSUL ULOOM SUFFA DARS",
-    "place": "PARAPPUR, VADAKKUMURI"
-  },
-  {
-    "institution": "JAVAHIRUSSUNNAH DARS",
-    "place": "Kottakkunnu (Kalady)"
-  },
-  {
-    "institution": "Izzathul Islam Dars",
-    "place": "Puthiyangadi"
-  },
-  {
-    "institution": "AL MARJAN DARS KALLADIKKODE",
-    "place": "KALLADIKKODE"
-  },
-  {
-    "institution": "Thamreenuthullab derse",
-    "place": "Pavittapuram"
-  },
-  {
-    "institution": "MKSA DARS",
-    "place": "Olappedika"
-  },
-  {
-    "institution": "DARUL HIDAYA THEKKUMBAD",
-    "place": "Thekkumbad"
-  },
-  {
-    "institution": "Maqdhoomiya markasul ulama dars kunchippally",
-    "place": "Kunchippally"
-  },
-  {
-    "institution": "Markazul Ulama Dars",
-    "place": "Pothuvachery"
-  },
-  {
-    "institution": "Markazul ulama dars Iriveri",
-    "place": "Iriveri"
-  },
-  {
-    "institution": "Subulusalam",
-    "place": "Munderi"
-  },
-  {
-    "institution": "MISBAHUL HUDA DARS PEROOR",
-    "place": "Peroor"
-  },
-  {
-    "institution": "HIDAYATHU THWALABA DARS",
-    "place": "NOONHERI"
-  },
-  {
-    "institution": "Sus dars",
-    "place": "Kuttasseri"
-  },
-  {
-    "institution": "Qidmathu Twalaba Dars",
-    "place": "Kuttikkattoor"
-  },
-  {
-    "institution": "MANBAUL ULOOM DARS",
-    "place": "PADIKKAL"
-  },
-  {
-    "institution": "Irshaduthalibeen",
-    "place": "Achanambalam"
-  },
-  {
-    "institution": "Markazul ulama Dars.puzhakkara",
-    "place": "Puzhakkara"
-  },
-  {
-    "institution": "Darul Hidaya Dars Muthuvattupara",
-    "place": "Perumugham"
-  },
-  {
-    "institution": "TWALABATHU SUFFA DARS",
-    "place": "MANKADA PALLIPPURAM"
-  },
-  {
-    "institution": "Hidayathu thwalaba Dars",
-    "place": "Dalil"
-  },
-  {
-    "institution": "HIDAYATHU THWALABA dars",
-    "place": "Pullopi"
-  },
-  {
-    "institution": "Badriyya Dars Kappu",
-    "place": "Kappu"
-  },
-  {
-    "institution": "Rabbaniyya dars",
-    "place": "Puthanazhi"
-  },
-  {
-    "institution": "MANSHAHULULOOM DARS",
-    "place": "Melatur"
-  },
-  {
-    "institution": "Manshaul Uloom.dars.Kuzhichena",
-    "place": "Kuzhichena"
-  },
-  {
-    "institution": "abcd",
-    "place": "test"
-  },
-  {
-    "institution": "അൻസാർ ദർസ്",
-    "place": "Melmuri"
-  },
-  {
-    "institution": "Nusrathul Islam mkb",
-    "place": "Makkarapparamba"
-  },
-  {
-    "institution": "faizyismail245 gmail. Com",
-    "place": "Peringathoor"
-  },
-  {
-    "institution": "SABEELULHUDA SUFFA DARS",
-    "place": "ELAMKULAM"
-  },
-  {
-    "institution": "BUSTHANU THWALIBEEN SUFFA DARS",
-    "place": "Amminikkad"
-  },
-  {
-    "institution": "AHLU SUFFA DARS",
-    "place": "Manhapatta"
-  },
-  {
-    "institution": "murshidu thwalaba dars",
-    "place": "pandallur"
-  },
-  {
-    "institution": "Ma'dinul fusaha dars kidangayam",
-    "place": "Kidangayam, aamakkad"
-  },
-  {
-    "institution": "noorul thwalaba students association",
-    "place": "Mannarkkad Kumaramputhur"
-  },
-  {
-    "institution": "HIMAYATUL BAYAN DARS",
-    "place": "KARUVARAKUND ANGADI"
-  },
-  {
-    "institution": "RABBANIYYA DARS",
-    "place": "PATTAMBI"
-  },
-  {
-    "institution": "BUKHARIYA EDUCATION CENTRE",
-    "place": "Bovikkanam"
-  },
-  {
-    "institution": "Subulussalam dars Kalambrattil",
-    "place": "Pukayoor- kalambrattil cholakkal"
-  },
-  {
-    "institution": "MA'DINUL ULOOM DARS KULAPPARAMB",
-    "place": "KULAPPARAMB"
-  },
-  {
-    "institution": "Markazul ulama daras",
-    "place": "Chembilode"
-  },
-  {
-    "institution": "Ma'dinul uloom dars Kulapparamb",
-    "place": "Kulapparamb"
-  },
-  {
-    "institution": "Badarul huda dars",
-    "place": "Koomanna, cheppatta"
-  },
-  {
-    "institution": "RABBANIYYA DARAS",
-    "place": "Kaikottukadav"
-  },
-  {
-    "institution": "SAFA QURAN COLLEGE",
-    "place": "Kummayakkadavu"
-  },
-  {
-    "institution": "SAFA QURAN COLLEGE DARS",
-    "place": "KUMMAYAKKADAVU"
-  },
-  {
-    "institution": "Nibrasul Huda",
-    "place": "Udumbuthala"
-  },
-  {
-    "institution": "Joiharul uloom dars",
-    "place": "Vandunthara"
-  },
-  {
-    "institution": "DTSA  DARS",
-    "place": "Kachinikkad"
-  },
-  {
-    "institution": "KMIC DARS",
-    "place": "THEYYOTUCHIRA JUMA MASJID"
-  },
-  {
-    "institution": "NIBRASUL ISLAM DARS",
-    "place": "Puthanathani"
-  },
-  {
-    "institution": "Hidayathu Rahma Dars",
-    "place": "Vadakkumuri, Muthuthala"
-  },
-  {
-    "institution": "Palathara dars",
-    "place": "Kottakkal, Palathara"
-  },
-  {
-    "institution": "Bayanul uloom dhars",
-    "place": "Pullaaloor parappara juma masjid"
-  },
-  {
-    "institution": "MADEENATHUL ULOOM DARS",
-    "place": "MELMURI CHUNGAM"
-  },
-  {
-    "institution": "Shamsul ulama sharee-ath collage koodathai",
-    "place": "Koodathai"
-  },
-  {
-    "institution": "Subulul Hudha Dars Kuzhimanna Old juma masjid",
-    "place": "Kuzhimanna"
-  },
-  {
-    "institution": "Darul hidaya dars panagangara",
-    "place": "Panagangara"
-  },
-  {
-    "institution": "Mambaul uloom dars",
-    "place": "Beericheri"
-  },
-  {
-    "institution": "Test Academy",
-    "place": "Campus ground, DHIC Kannadiparamba"
-  },
-  {
-    "institution": "AL-ASHBAL DARS",
-    "place": "MARAYAMANGALAM"
-  },
-  {
-    "institution": "Fathul uloom dars padinhattumuri",
-    "place": "Padinjatumuri"
-  },
-  {
-    "institution": "RABBANIYYA DARAS ELIYA PARAMBU",
-    "place": "Eliyaparambu"
-  },
-  {
-    "institution": "ഹിദായതു ത്ത്വലബ ദർസ്",
-    "place": "മൂത്തേടം"
-  },
-  {
-    "institution": "Bambrana darul uloom dara",
-    "place": "Bambrana"
-  },
-  {
-    "institution": "SABEELURASHAD SUFFA DARS",
-    "place": "Pattishery, Nellaya"
-  },
-  {
-    "institution": "MA'ADANUL ULOOM",
-    "place": "Kolloorvila"
-  },
-  {
-    "institution": "KOZHIKKARA DARS",
-    "place": "Kozhikkara"
-  },
-  {
-    "institution": "Sabeelurashad Suffa Dars",
-    "place": "Vettupara"
-  },
-  {
-    "institution": "Quvvathul Islam dars muthuppara",
-    "place": "Muthuppara"
-  },
-  {
-    "institution": "SUBUSSALAM DARS VALAPATTANAM",
-    "place": "VALAPATTANAM"
-  },
-  {
-    "institution": "MANBAUL ULAMA DARAS",
-    "place": "Venniyur"
-  },
-  {
-    "institution": "മൻബഉൽ ഉലൂം ദർസ് കള്ളാടിപ്പറ്റ",
-    "place": "Kalladipatta"
-  },
-  {
-    "institution": "ജൗഹറുൽ ഉലൂം ദർസ് വെള്ളാഞ്ചേരി",
-    "place": "വെള്ളാഞ്ചേരി"
-  },
-  {
-    "institution": "Marazul ulama dars",
-    "place": "Puzhakkara"
-  }
-]
+    "MIA'RAJUL IRFAN DARS PARAPPALLY PARAPPALLY",
+    "Mihrajul Irfan Dars Parappalli Parappalli",
+    "Noorul islam dars Malappuram, kunnummal",
+    "MARKAZUL ULAMA DARS KADAPPADI",
+    "THARBEEYATHUL MUTHALLIMEEN THARAYITTAL",
+    "Joiharul uloom dars Vandunthara",
+    "NOORU THULABA DARS WEST KAIPURAM",
+    "Makhdoomiyya dars Vilathur",
+    "murshidu thwalaba dars pandallur",
+    "Madeenathunnoor dars Pallippoyil",
+    "Noorul Huda dars karulai Karulai",
+    "JAWHARATHUL ULOOM SUFFA DARS STUDENTS ASSOCIATION Valamagalam",
+    "SABEELULHUDA SUFFA DARS ELAMKULAM",
+    "NIBRASUL ISLAM DARS Puthanathani",
+    "Al ihsan suffa dars ഷാപ്പിൻ കുന്ന്, മഞ്ചേരി",
+    "SIRAJUL ULAMA DARS MAMPUZHA",
+    "darul hidaya dars thaikadapuram Thaikadappuram",
+    "Sirajul ulama daras pookkolathur Manjeri-pookkolathur",
+    "MARKAZUL ULAMA DARS CHERUKULAMBA CHERUKULAMBA",
+    "DTSA  DARS Kachinikkad",
+    "Hidayathu Rahma Dars Vadakkumuri, Muthuthala",
+    "NOORUL HUDA DARS VADAKKEKAD - PARAYANGAD",
+    "Rabbaniya dars villur Kottakkal. Vast villur",
+    "Jamaliyya dars vattapparambu Vattapparambu(karinkallathani)",
+    "Nusrathul Islam mkb Makkarapparamba",
+    "ALATHURPADI DARS ALATHURPADI",
+    "Manbahul quthaba darass ARIMBRA KALARI",
+    "Vandumthara daras Mulayankavu",
+    "Hidaythu thulaba തൃക്കലങ്ങോട്",
+    "NOORUL ISLAM DARS KIDANGAZHI Kidangazhi",
+    "Markazul ulama dars amayoor Amayoor",
+    "MARKAZUL ULAMA DARS AMAYOOR Amayoor",
+    "THAMREENU THWALABA DARS PULLANCHERI",
+    "DA'WATHUL ISLAM RAHMANIYA DARS, IRIKKUR IRIKKUR",
+    "MARKAZUL ULAMA DARS PULIKKODE PULIKKODE, KOTTAKKAL",
+    "Mueenuthwaba darskacheripparambu Kacheripparambu",
+    "DARAJATHUL ULOOM DARS KUNNUMPURAM, CHEPYALAM JM",
+    "DARUL HIDAYA DARS Kalaranthiri",
+    "Thamreenuthullab derse Pavittapuram",
+    "Mamba-ul hidaya dars Veliyambra",
+    "Thamreenu Thulaba Karinkkallathani",
+    "Palathara dars Kottakkal, Palathara",
+    "MANBAUL ULOOM DARS PADIKKAL",
+    "ANSWARUL ISLAM DARS KOTTAKKAL KOTTAKKAL",
+    "Imadudheeen dars pappipinisser west Pappipinisseri west",
+    "MISBAHUL HUDA DARS PEROOR Peroor",
+    "DARUL ULOOM DARS KORAD Korad",
+    "faizyismail245 gmail. Com Peringathoor",
+    "Irshaduthalibeen Achanambalam",
+    "Manshaul Uloom.dars.Kuzhichena Kuzhichena",
+    "Bayanul uloom dhars Pullaaloor parappara juma masjid",
+    "MARKAZUL ULAMA DARS PALATHINGAL",
+    "RABBANIYYA DARS PATTAMBI",
+    "DARUL HIDAYA THALAYAD",
+    "BUSTHANU THWALIBEEN SUFFA DARS Amminikkad",
+    "MADEENATHUL ULOOM DARS MELMURI CHUNGAM",
+    "MISWBAHUL HUDA DARS MOLOOR MOLOOR",
+    "DA-IRATHUL IRFAN DARS Panoor",
+    "Subulul Hudha Dars Kuzhimanna Old juma masjid Kuzhimanna",
+    "Ihyaahul ulloom dars Kavanur town",
+    "MAMBAULIHSANDARS Kondiparamb",
+    "Darul hidaya dars panagangara Panagangara",
+    "Markazul ulama daras Chembilode",
+    "Rabbaniyya dars Puthanazhi",
+    "Thazkiyathul Muthallimeen Dars Thekkumala",
+    "Madenathul ilm dars Nattyamangalam",
+    "darulhidaya daras pulamenthol up",
+    "AHLU SUFFA DARS Manhapatta",
+    "Munawirul Islam Dars Malappuram,vallapuzha",
+    "Nibrasu thwalaba sars Cherumoth",
+    "MARKAZUL ULAMA DARS PULLAVOOR KATTANGAL, NIT PULLAVOOR",
+    "AL QADIRIYYA DARS VAKA MATTAM, VAKHA",
+    "AL EAQALU DARS CHEMBRA",
+    "IRSHADHU THWULABA DARS POOKKOTTU CHOLA JUMA MASJID AREEKKODE",
+    "DARUTHANVEER DARS Vengadu",
+    "Shamsul ulama memorial education centre kuniya Kuniya",
+    "Markazul ulama dars chirappalam Chirappalam, kadungalloor",
+    "Mambaul uloom dars Beericheri",
+    "Bayanul uloom dars Muttichira",
+    "BAYANUL ULOOM DARS MANGATTOOR",
+    "Nooru twalaba dars Veemboor",
+    "Najmul huda dars Koomanna chenakkal",
+    "Test Academy Campus ground, DHIC Kannadiparamba",
+    "Madinul Uloom Dars Puthuppally Chemravattom",
+    "PACHEERI DARS PACHEERI, PERINTHALMANNA",
+    "Ma'dinul fusaha dars kidangayam Kidangayam, aamakkad",
+    "Jalaliyya Dars തവരപറമ്പ്",
+    "Al Darsul Ihsan pullur",
+    "Bayanululoomputhantheru PuthanTheru, Tanur",
+    "SUBULU RASHAD DARS KOTTOPPADAM",
+    "Markazul ulama dars vazhakkad Vazhakkad",
+    "SHADULIYYA DA'WA DARS KAMBIL PANNIYANKANDI",
+    "FATH'HUNNOOR SUFFA DARS IRUMBUZHI",
+    "dharul hidhaya dars Vadakkangara",
+    "IMDHADHUTHULABA TIRUR  KORANGATH",
+    "JAVAHIRUSSUNNAH DARS Kottakkunnu (Kalady)",
+    "Rabbaniyya Dars Vallikkappatta",
+    "Mankadavu juma masjid dars Mankadavu",
+    "HIDAYATHU THWALABA dars Pullopi",
+    "Badriyya Dars Kappu Kappu",
+    "AL-ASHBAL DARS MARAYAMANGALAM",
+    "ALIYYUL KOOFI DARS Peringhathur",
+    "HIMAYATUL BAYAN DARS KARUVARAKUND ANGADI",
+    "IRSHADU TWALABA DARS Thankayam , Trikaripur",
+    "Fathul uloom dars padinhattumuri Padinjatumuri",
+    "MAMBA_UL_IHSAN DARS MALLIYIL",
+    "Sabeelussalam suffa dars Ferook,Kodampuzha",
+    "AL-AQSA DARS VALLUVAMBUZHA Palakkad",
+    "Koukabu thwalaba daras vallapuza Pattambi, vallapuza",
+    "RABBANIYYA DARAS ELIYA PARAMBU Eliyaparambu",
+    "DARUL HIDAYA THEKKUMBAD Thekkumbad",
+    "BAYANUL ULOOM SUFFA DARS MANKAVU Mankavu,Kozhikode",
+    "Navaviyya dars Musliyarangadi",
+    "AL MAHLARATHUL JALALIYYA DARS CHERAPURAM",
+    "Darul Hidaya Dars Manikoth",
+    "BAHJATHUL HUDA Kodangad",
+    "KMIC DARS THEYYOTUCHIRA JUMA MASJID",
+    "ഹിദായതു ത്ത്വലബ ദർസ് മൂത്തേടം",
+    "AL AQSA DARS CHALIYAM",
+    "Markazul ulama dars valanchery Valanchery",
+    "Bambrana darul uloom dara Bambrana",
+    "EDAKKULAM DARAS EDAKKULAM",
+    "Markazul Ulama Dars Kodinhi Kodinhi",
+    "MARKAZUL ULAMA DARS PANAMBRA PANAMBRA",
+    "MA'DINUL ULOOM DARS KULAPPARAMB KULAPPARAMB",
+    "TWALABATHU SUFFA DARS MANKADA PALLIPPURAM",
+    "MADARUSSA'ADA DARS Cheekode",
+    "SABEELURASHAD SUFFA DARS Pattishery, Nellaya",
+    "Mksa dars kallatt Puthiya kadappuram",
+    "Markazul Ulama Dars Pothuvachery",
+    "Markazul ulama dars Iriveri Iriveri",
+    "Ma'dinul uloom dars Kulapparamb Kulapparamb",
+    "Sus dars Kuttasseri",
+    "Manhalul Maharif Dars Kizhakkumpadam",
+    "HIDAYATHU THWALABA DARS NOONHERI",
+    "BUSTHNUL ULOOM SUFFA DARS വാക്കേതൊടി- ചോലക്കൽ",
+    "Haneenul Huda Suffa Dars Pukayoor kunnath Vengara",
+    "MA'ADANUL ULOOM Kolloorvila",
+    "Sauthushareeha Dars Pallimukku, pookkottur",
+    "Jeelani Dars ambamkunn Ambamkunn",
+    "Al eeqadh alathiyur Alathiyur",
+    "Darul Anvar durs Nellaya",
+    "KOZHIKKARA DARS Kozhikkara",
+    "Assasul Huda Dars 53Th mile",
+    "NAJMUL HUDHA DA'WA DARS MANALADI, MANNARKKAD",
+    "RABBANIYYA DARAS Kaikottukadav",
+    "Al EAQALU Dars Chiramangalam South Chiramangalam",
+    "Markazul ulama dars Kacheriparamb",
+    "Khidmathulmouladars Melattur kombamkallu",
+    "BUKHARIYA EDUCATION CENTRE Bovikkanam",
+    "Mamba ul hudha dars Poochakkad",
+    "Badar masjid pathirikkadavu Edakkayioor nallamkallu",
+    "Al hidaya dars Kundukad",
+    "MARKAZUL ULAMA DARS KONOMPARA Konompara",
+    "abcd test",
+    "സബീലുൽ ഹുദാ ദർസ് എടയൂർ വളാഞ്ചേരി",
+    "MA'UDANUL UDABA DARS MUTHIRIPARAMBU",
+    "Jalaliyya darse Kunthippuza",
+    "അൻസാർ ദർസ് Melmuri",
+    "DARUL HIDAYA DARS Edavannappara",
+    "SUBULUSSALAM DARS KOZHIPPURAM KOZHIPPURAM",
+    "DARUL HIDAYA DARS VELLILA - PUTHANVEED",
+    "IRSHADHU THWALABA DARS PALAKKODE",
+    "Azeeziyya Suffa dars Kinasseri",
+    "Machakulam Dars Machakulam,pullalur",
+    "Swabiriyya dars vadanappally Vadanappally",
+    "Muhammadiya dars muttam Bandiyod",
+    "iqra dars padanna & udinur padanna&udinur",
+    "MAMBA-UL-ULOOM DARS IRUMBALASSERY",
+    "Badriyya dars thuppanad Thuppanad",
+    "Darul Hidaya Dars poonath Poonath",
+    "BAYANUL ULOOM SUFFA DARS Chemmankadav kongayam",
+    "Manhajul huda suffa dars Anamangad",
+    "Shamsul ulama sharee-ath collage koodathai Koodathai",
+    "ഇർഷാദു ത്വലബ ദർസ് ചെർപ്പുളശ്ശേരി",
+    "SAFA QURAN COLLEGE Kummayakkadavu",
+    "Sabeelurashad Suffa Dars Vettupara",
+    "Shamsul Ulamaa Smaaraka Dars Cheruthuruthy",
+    "noorul thwalaba students association Mannarkkad Kumaramputhur",
+    "DARUL HIDAYA DARS Koodathayi, purayil",
+    "Al marjan Puttanikad",
+    "Quvvathul Islam dars muthuppara Muthuppara",
+    "Subulussalam dars Kalambrattil Pukayoor- kalambrattil cholakkal",
+    "Al eeqad Alathiyoor",
+    "Thamreenu Thwalaba Dars Kundukulam Kundukulam",
+    "Subulusslam Dars Kuruvattoor",
+    "MANBAUSSA'ADHA DARS MANIYAMBALATH, KUTTIKKATTOOR MANIYAMBALATH,KUTTIKKATTOOR",
+    "BADRIYYA DARS THUPPANAD THUPPANAD",
+    "Mambaul hidaya dars koyyod Koyyod",
+    "Ansarul uloom dars Irumpuzhi,vadakkummuri",
+    "Mahdinul faswaha Manathala",
+    "SWABIRIYYA AKALAD Akalad",
+    "MUNAVVIRUL ISLAM DARS KONDURKARA",
+    "MARKAZUL ULAMA DARS MUNDATH PALLI ALANALLUR",
+    "Rahmaniyya dars panangangara Panangangara",
+    "Maslakul Anwar Dars Tuvvur Tuvvur",
+    "Sirajul  ulama dars karuvarakundu Tharish Karuvarakundu",
+    "Markazul Ulama Dars Vadippuram,Kavvayi Vadippuram,Kavvayi",
+    "SUBUSSALAM DARS VALAPATTANAM VALAPATTANAM",
+    "HIDAYATHURAHMA DARS Chalavara",
+    "Thamreenu twalaba DARS KUNDUKULAM Malappuram",
+    "FIRDOUSUL ULOOM SUFFA DARS PARAPPUR, VADAKKUMURI",
+    "Izzathul Islam Dars Puthiyangadi",
+    "Maqdhoomiya markasul ulama dars kunchippally Kunchippally",
+    "Subulusalam Munderi",
+    "MANARUL HUDHA DARS STUDENT ORGANIZATION Varam",
+    "Badriyya dars Kallidumb",
+    "MAMBAUSSUADA DARS Pullural, Tirur",
+    "SAFA QURAN COLLEGE DARS KUMMAYAKKADAVU",
+    "Sirajul Ulama dars kizhisheri",
+    "Irshadu thwalaba suffa dars mullampara",
+    "Nibrasul Huda Udumbuthala"
+  ]

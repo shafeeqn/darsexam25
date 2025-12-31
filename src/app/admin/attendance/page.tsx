@@ -7,7 +7,11 @@ type Institution = {
 };
 
 async function getInstitutions(): Promise<Institution[]> {
-  return institutionsData as Institution[];
+  const data = institutionsData as string[];
+  return data.map((item) => ({
+    institution: item,
+    place: '', // Place is included in the institution string for now
+  }));
 }
 
 export default async function AttendancePage() {
