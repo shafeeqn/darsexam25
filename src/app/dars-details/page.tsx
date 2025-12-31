@@ -8,7 +8,7 @@ import { useRouter } from "next/navigation";
 
 const page = () => {
   const [username, setUsername] = useState<string>("");
-  const [admin , setAdmin] = useState<string>("")
+  const [admin, setAdmin] = useState<string>("")
   const [isStudent, setIsStudent] = useState<boolean>(true);
   const [selectedSubject, setSelectedSubject] = useState<string>("");
   const [query, setQuery] = useState<string>("");
@@ -30,21 +30,51 @@ const page = () => {
   ];
 
   useEffect(() => {
-    setUsername(JSON.parse(localStorage.getItem("user") as string));
-    setAdmin(JSON.parse(localStorage.getItem("user") as string));
-
-    !localStorage.getItem("user") && router.push("/login");
+    // localStorage check
+    if (typeof window !== "undefined") {
+      const user = localStorage.getItem("user");
+      if (user) {
+        const parsedCtx = JSON.parse(user);
+        setUsername(parsedCtx);
+        setAdmin(parsedCtx);
+      } else {
+        router.push("/login");
+      }
+    }
   }, []);
 
-  const students = Students.filter((student) => student.DarsCode == username);
+  // Helper to normalize subject code (e.g. "I-07" -> "I7")
+  const normalizeSubjectCode = (code: string | undefined): string => {
+    if (!code) return "";
+    return code.replace("-0", "").replace("-", "");
+  };
+
+  const getCategory = (student: any) => {
+    const s1 = normalizeSubjectCode(student["Subject 1 Code"]);
+    if (s1) return s1.charAt(0);
+    return "";
+  }
+
+  // Find the dars object for the current username (DarsCode)
+  const currentDars = dars.find((d) => d.DarsCode === username);
+
+  // Filter students based on Institution matching the current Dars
+  // Note: Matching might be tricky if names differ. Using direct match for now as per admin page logic.
+  const students = (Students as any[]).filter((student) => {
+    if (!currentDars) return false;
+    return student.Institution === currentDars.Dars;
+  });
+
   // console.log(students);
-  const subjectId: any = [];
-  students.map((student) => {
-    if (!subjectId.includes(student.Subject1 as never)) {
-      subjectId.push(student.Subject1 as never);
+  const subjectId: string[] = [];
+  students.forEach((student) => {
+    const s1 = normalizeSubjectCode(student["Subject 1 Code"]);
+    const s2 = normalizeSubjectCode(student["Subject 2 Code"]);
+    if (s1 && !subjectId.includes(s1)) {
+      subjectId.push(s1);
     }
-    if (!subjectId.includes(student.Subject2 as never)) {
-      subjectId.push(student.Subject2 as never);
+    if (s2 && !subjectId.includes(s2)) {
+      subjectId.push(s2);
     }
   });
   console.log(subjectId);
@@ -69,36 +99,36 @@ const page = () => {
       </div>
       <div className="flex flex-col justify-center items-center border-2 border-dotted border-black p-1 rounded-lg mt-5">
         <p className="text-center text-3xl text-black font-semibold rounded-lg p-1">
-          {dars.find((drs) => drs.DarsCode === username)?.Dars}
+          {currentDars?.Dars}
         </p>
         {
-        admin === 'JMADMIN' && <select
-        id="my-select"
-        value={username}
-        onChange={
-          (e)=>{
-            setUsername(e.target.value)
-          }
-        }
-        style={{ marginLeft: "10px", padding: "5px" }}
-        className="
+          admin === 'JMADMIN' && <select
+            id="my-select"
+            value={username}
+            onChange={
+              (e) => {
+                setUsername(e.target.value)
+              }
+            }
+            style={{ marginLeft: "10px", padding: "5px" }}
+            className="
         "
-      >
-        <option value="" disabled>
-          Select an option
-        </option>
-        {dars?.map((option) => (
-          <option key={option.DarsCode} value={option.DarsCode}>
-            {option.DarsCode} {option.Dars}
-          </option>
-        ))}
-      </select>
+          >
+            <option value="" disabled>
+              Select an option
+            </option>
+            {dars?.map((option) => (
+              <option key={option.DarsCode} value={option.DarsCode}>
+                {option.DarsCode} {option.Dars}
+              </option>
+            ))}
+          </select>
         }
         <p className="text-center text-xl text-black font-semibold rounded-t-lg p-1 -mt-2">
-          {dars.find((drs) => drs.DarsCode === username)?.Place}
+          {currentDars?.Place}
         </p>
         <p className="text-center text-lg text-white bg-black font-semibold rounded-lg p-1 border-dotted border-2 border-white -mt-1">
-          {dars.find((drs) => drs.DarsCode === username)?.DarsCode}
+          {currentDars?.DarsCode}
         </p>
       </div>
       <div className="flex flex-col justify-center items-center mt-3 uppercase print:opacity-100 opacity-0">
@@ -125,6 +155,7 @@ const page = () => {
         </button>
         {categories.map((ctgry) => (
           <button
+            key={ctgry.shortName}
             onClick={() => setCategory(ctgry.shortName)}
             className={`uppercase border-black border-2 p-1 border-dotted rounded-md ${category === ctgry.shortName && `bg-black text-white`
               }`}
@@ -155,7 +186,7 @@ const page = () => {
       {students.filter(
         category === "all"
           ? (student) => student
-          : (student) => student.Category === category
+          : (student) => getCategory(student) === category
       ).length > 0 ? (
         <>
           <div className="flex w-full justify-center mt-3 h-6">
@@ -185,25 +216,25 @@ const page = () => {
             .filter(
               category === "all"
                 ? (student) => student
-                : (student) => student.Category === category
+                : (student) => getCategory(student) === category
             )
             .map((student, index) => (
               <div key={index} className="flex w-full justify-center h-6">
                 <p className="w-[70px] text-center line-clamp-1 font-semibold border-[1px] border-black text-sm">
-                  {student.StudentId}
+                  {student["Registration Number"]}
                 </p>
                 <p className="w-60 text-left line-clamp-1 font-semibold pl-1 border-[1px] border-black text-sm">
                   {student.Name}
                 </p>
                 <p className="w-10 text-center line-clamp-1 font-semibold border-[1px] border-black text-sm">
-                  {student.Category}
+                  {getCategory(student)}
                 </p>
                 <p
                   className="w-60 text-right line-clamp-1 font-semibold pr-1 border-[1px] border-black text-sm font-arabic"
                   dir="rtl"
                 >
                   {subjects.map((subject) => {
-                    if (subject.Id === student.Subject1) {
+                    if (subject.Id === normalizeSubjectCode(student["Subject 1 Code"])) {
                       return subject.Name;
                     }
                   })}{" "}
@@ -214,7 +245,7 @@ const page = () => {
                   dir="rtl"
                 >
                   {subjects.map((subject) => {
-                    if (subject.Id === student.Subject2) {
+                    if (subject.Id === normalizeSubjectCode(student["Subject 2 Code"])) {
                       return subject.Name;
                     }
                   })}{" "}

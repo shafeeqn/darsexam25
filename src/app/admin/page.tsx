@@ -1,9 +1,31 @@
 "use client";
 import React, { useEffect, useRef, useState } from "react";
 import { useReactToPrint } from "react-to-print";
-import students from "../../data/students.json";
+import studentsData from "../../data/students.json";
 import subjects from "../../data/subjects.json";
-import darscode from "../../data/dars.json";
+import darscodeData from "../../data/dars.json";
+
+// Define Types
+type Student = {
+  "Registration Number": string;
+  Name: string;
+  Section: string;
+  "Subject 1 Code": string;
+  "Subject 2 Code": string;
+  Institution: string;
+  "Institution Place": string;
+  "Mark 1"?: string | number;
+  "Mark 2"?: string | number;
+};
+
+type Dars = {
+  Dars: string;
+  Place: string;
+  DarsCode: string;
+};
+
+const students = studentsData as Student[];
+const darscode = darscodeData as Dars[];
 
 const page = () => {
   const [username, setUsername] = useState<string>("");
@@ -20,15 +42,21 @@ const page = () => {
     {
       shortName: "M",
       fullName: "Muthawassitwa",
+      startId: "M1",
     },
     {
       shortName: "A",
       fullName: "Aliya",
+      startId: "A1",
     },
   ];
 
   useEffect(() => {
-    setUsername(JSON.parse(localStorage.getItem("user") as string));
+    // localStorage might not be present on server
+    if (typeof window !== "undefined") {
+      const user = localStorage.getItem("user");
+      if (user) setUsername(JSON.parse(user));
+    }
   }, []);
 
   const componentPDF = useRef();
@@ -38,17 +66,33 @@ const page = () => {
     documentTitle: "PDF",
   });
 
+  // Helper to normalize subject code (e.g. "I-07" -> "I7", "I-11" -> "I11")
+  const normalizeSubjectCode = (code: string | undefined) => {
+    if (!code) return "";
+    return code.replace("-0", "").replace("-", "");
+  };
+
+  const getDarsCode = (institution: string, place: string) => {
+    // Try to find by direct match or partial match
+    const found = darscode.find(d =>
+      d.Dars === institution ||
+      d.Dars.toLowerCase() === institution.toLowerCase() ||
+      (d.Place && place && d.Place.toLowerCase() === place.toLowerCase())
+    );
+    return found ? found.DarsCode : "";
+  }
+
   function getDarsesToSubject() {
     students
       .filter(
         (student) =>
-          student.Subject1 === selectedSubject ||
-          student.Subject2 === selectedSubject
+          normalizeSubjectCode(student["Subject 1 Code"]) === selectedSubject ||
+          normalizeSubjectCode(student["Subject 2 Code"]) === selectedSubject
       )
       .map((student) =>
-        darsesToSubject.includes(student.Dars)
+        darsesToSubject.includes(student.Institution)
           ? null
-          : darsesToSubject.push(student.Dars)
+          : darsesToSubject.push(student.Institution)
       );
     return darsesToSubject;
   }
@@ -65,9 +109,10 @@ const page = () => {
         <select
           className="text-center text-2xl text-black font-semibold rounded-lg p-1 font-arabic remove-arrow"
           onChange={(e) => setSelectedSubject(e.target.value)}
+          value={selectedSubject}
         >
           {subjects
-            .filter((subject) => subject.Id[0] === category)
+            .filter((subject) => subject.Id.startsWith(category))
             .map((subject) => (
               <option key={subject.Id} value={subject.Id} dir="rtl">
                 {subject.Name}
@@ -77,13 +122,15 @@ const page = () => {
         <div className="flex w-full justify-center gap-2 text-xs font-semibold print:hidden mt-3">
           {categories.map((ctgry) => (
             <button
+              key={ctgry.shortName}
               onClick={() => {
                 setCategory(ctgry.shortName);
-                setSelectedSubject(ctgry.shortName + "1");
+                if (ctgry.shortName === "I") setSelectedSubject("I1");
+                else if (ctgry.shortName === "M") setSelectedSubject("M1");
+                else if (ctgry.shortName === "A") setSelectedSubject("A1");
               }}
-              className={`uppercase border-black border-2 p-1 border-dotted rounded-md ${
-                category === ctgry.shortName && `bg-black text-white`
-              }`}
+              className={`uppercase border-black border-2 p-1 border-dotted rounded-md ${category === ctgry.shortName && `bg-black text-white`
+                }`}
             >
               {ctgry.fullName}
             </button>
@@ -104,8 +151,8 @@ const page = () => {
             {
               students.filter(
                 (student) =>
-                  student.Subject1 === selectedSubject ||
-                  student.Subject2 === selectedSubject
+                  normalizeSubjectCode(student["Subject 1 Code"]) === selectedSubject ||
+                  normalizeSubjectCode(student["Subject 2 Code"]) === selectedSubject
               ).length
             }{" "}
           </p>
@@ -137,15 +184,15 @@ const page = () => {
         <p className="w-40 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
           DarsCode
         </p>
-      <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm"> 
+        <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
           Mark
         </p>
       </div>
       {students
         .filter(
           (student) =>
-            student.Subject1 === selectedSubject ||
-            student.Subject2 === selectedSubject
+            normalizeSubjectCode(student["Subject 1 Code"]) === selectedSubject ||
+            normalizeSubjectCode(student["Subject 2 Code"]) === selectedSubject
         )
         .map((student, index) => (
           <div key={index} className="flex w-full justify-center">
@@ -153,16 +200,16 @@ const page = () => {
               {index + 1}
             </p>
             <p className="w-32 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              {student.StudentId}
+              {student["Registration Number"]}
             </p>
             <p className="w-96 text-left line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               {student.Name}
             </p>
             <p className="w-40 text-left line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              {student.DarsCode}
+              {getDarsCode(student.Institution, student["Institution Place"])}
             </p>
             <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              {student.Subject1 === selectedSubject ? student["Mark 1"] : student["Mark 2"] }
+              {normalizeSubjectCode(student["Subject 1 Code"]) === selectedSubject ? student["Mark 1"] : student["Mark 2"]}
             </p>
           </div>
         ))}

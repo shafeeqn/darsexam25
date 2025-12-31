@@ -6,19 +6,57 @@ import dars from "../../data/dars.json";
 import { useEffect, useRef, useState } from "react";
 import { useReactToPrint } from "react-to-print";
 import { useRouter } from "next/navigation";
+
+type Student = {
+    "Registration Number": string;
+    Name: string;
+    "Subject 1 Code": string;
+    "Subject 2 Code": string;
+    Institution: string;
+    "Institution Place": string;
+    "Mark 1"?: string | number;
+    "Mark 2"?: string | number;
+};
+
+type DarsEntry = {
+    Dars: string;
+    Place: string;
+    DarsCode: string;
+};
+
 export default function page() {
     const [category, setCategory] = useState("I");
     const [username, setUsername] = useState<string>("");
-    const darsStudents = students.filter(
-        (student) => student.DarsCode === username
-    );
     const router = useRouter();
 
     useEffect(() => {
-        // router.push("/dars-details")
-        setUsername(JSON.parse(localStorage.getItem("user") as string));
-        !localStorage.getItem("user") && router.push("/login");
-    }, []);
+        if (typeof window !== "undefined") {
+            const user = localStorage.getItem("user");
+            if (user) {
+                setUsername(JSON.parse(user));
+            } else {
+                router.push("/login");
+            }
+        }
+    }, [router]);
+
+    // Helper to normalize subject code
+    const normalizeSubjectCode = (code: string | undefined): string => {
+        if (!code) return "";
+        return code.replace("-0", "").replace("-", "");
+    };
+
+    const getCategory = (student: Student) => {
+        const s1 = normalizeSubjectCode(student["Subject 1 Code"]);
+        if (s1) return s1.charAt(0);
+        return "";
+    }
+
+    const currentDarsObj = (dars as DarsEntry[]).find(d => d.DarsCode === username);
+
+    const darsStudents = (students as Student[]).filter(
+        (student) => currentDarsObj && student.Institution === currentDarsObj.Dars
+    );
 
     function calculateFinalGrade(mark1: number, mark2: number) {
         const calculateGrade = (mark: any) => {
@@ -50,7 +88,7 @@ export default function page() {
         }
     }
 
-    const componentPDF = useRef();
+    const componentPDF = useRef(null);
 
     const generatePDF = useReactToPrint({
         content: () => componentPDF?.current || null,
@@ -75,7 +113,7 @@ export default function page() {
     return (
         <div
             className="flex flex-col justify-center items-center my-5"
-            ref={componentPDF as any}
+            ref={componentPDF}
         >
             <div className="flex flex-col justify-center items-center  uppercase print:hidden">
                 <img src="/Logo.png" alt="" className="w-[30%]" />
@@ -83,13 +121,13 @@ export default function page() {
 
             <div className="flex flex-col justify-center items-center border-2 border-dotted border-black p-1 rounded-lg mt-5">
                 <p className="text-center text-lg text-black font-semibold rounded-lg p-1">
-                    {dars.find((drs) => drs.DarsCode === username)?.Dars}
+                    {currentDarsObj?.Dars}
                 </p>
                 <p className="text-center text-md text-black font-semibold rounded-t-lg p-1 -mt-2">
-                    {dars.find((drs) => drs.DarsCode === username)?.Place}
+                    {currentDarsObj?.Place}
                 </p>
                 <p className="text-center text-sm text-white bg-black font-semibold rounded-lg p-1 border-dotted border-2 border-white -mt-1">
-                    {dars.find((drs) => drs.DarsCode === username)?.DarsCode}
+                    {currentDarsObj?.DarsCode}
                 </p>
             </div>
             <div className="flex flex-col justify-center items-center  uppercase print:hidden">
@@ -106,6 +144,7 @@ export default function page() {
                 </button>
                 {categories.map((ctgry) => (
                     <button
+                        key={ctgry.shortName}
                         onClick={() => setCategory(ctgry.shortName)}
                         className={`uppercase border-black border-2 p-1 border-dotted rounded-md ${category === ctgry.shortName && `bg-black text-white`}`}
                     >
@@ -136,7 +175,7 @@ export default function page() {
                 .filter(
                     category === "all"
                         ? (student) => student
-                        : (student) => student.Category === category
+                        : (student) => getCategory(student) === category
                 ).length > 0 ? (
                 <>
                     <div className="flex w-full justify-center mt-3 h-6">
@@ -169,25 +208,25 @@ export default function page() {
                         .filter(
                             category === "all"
                                 ? (student) => student
-                                : (student) => student.Category === category
+                                : (student) => getCategory(student) === category
                         )
                         .map((student, index) => (
                             <div key={index} className="flex w-full justify-center h-6">
                                 <p className="w-[70px] text-center line-clamp-1 font-semibold border-[1px] border-black text-sm">
-                                    {student.StudentId}
+                                    {student["Registration Number"]}
                                 </p>
                                 <p className="w-60 text-left line-clamp-1 font-semibold pl-1 border-[1px] border-black text-sm">
                                     {student.Name}
                                 </p>
                                 <p className="w-10 text-center line-clamp-1 font-semibold border-[1px] border-black text-sm">
-                                    {student.Category}
+                                    {getCategory(student)}
                                 </p>
                                 <p
                                     className="w-60 text-right line-clamp-1 font-semibold pr-1 border-[1px] border-black text-sm font-arabic"
                                     dir="rtl"
                                 >
                                     {subjects.map((subject) => {
-                                        if (subject.Id === student.Subject1) {
+                                        if (subject.Id === normalizeSubjectCode(student["Subject 1 Code"])) {
                                             return subject.Name;
                                         }
                                     })}{" "}
@@ -198,7 +237,7 @@ export default function page() {
                                     dir="rtl"
                                 >
                                     {subjects.map((subject) => {
-                                        if (subject.Id === student.Subject2) {
+                                        if (subject.Id === normalizeSubjectCode(student["Subject 2 Code"])) {
                                             return subject.Name;
                                         }
                                     })}{" "}

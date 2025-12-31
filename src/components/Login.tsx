@@ -10,20 +10,31 @@ const Login = () => {
   const [error, setError] = React.useState<string>("");
   const Router = useRouter();
 
+  type Student = {
+    "Registration Number": string;
+    Name: string;
+    // Add other properties if needed
+  };
+
+  type DarsEntry = {
+    DarsCode: string;
+    Dars: string;
+  }
+
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
 
-    // check the username that matches from students data on studentId
+    // check the username that matches from students data on studentId (now Registration Number)
     // if matches then check the password is 786
 
-    const student = Students.find(
-      (student) => (student.StudentId as any) === parseInt(username)
+    const student = (Students as Student[]).find(
+      (student) => student["Registration Number"] == username
     );
-    const dars = Dars.find((dars) => dars.DarsCode === username);
+    const dars = (Dars as DarsEntry[]).find((dars) => dars.DarsCode === username);
     const admin = username === "JMADMIN" ? true : false;
     if (student) {
       password === "786"
-        ? (localStorage.setItem("user", JSON.stringify(student.StudentId)),
+        ? (localStorage.setItem("user", JSON.stringify(student["Registration Number"])),
           Router.push("/dashboard"))
         : (setError("Invalid Password"),
           setTimeout(() => {
@@ -77,38 +88,38 @@ const Login = () => {
     // </div>
 
     <div className="flex w-screen h-screen bg-smoke items-center justify-center bg">
-    <form onSubmit={handleSubmit} className="bg-white flex flex-col h-fit w-96 p-10 rounded-xl gap-3 items-center">
-      <div className='w-64'>
-        <img onClick={()=>{
-          Router.push('/')
-        }} className='object-contain cursor-pointer' src="/Logo.png" alt="Logo" />
-      </div>
-      <h1 className="text-center font-semibold text-xl">Login to <span className="font-extrabold text-primary">IMTHIHAN PORTAL</span></h1>
-      <p>
-        {error && <span className="text-red-500">{error}</span>}
-      </p>
-      <input
-        type="text"
-        placeholder="Username"
-        onChange={(e: any) => setUsername(e.target.value)}
-        className="px-3 py-2 rounded-lg border focus:border-primary"
-        required
-      />
-      <input
-        type="password"
-        placeholder="Password"
-        onChange={(e: any) => setPassword(e.target.value)}
-        className="px-3 py-2 rounded-lg border focus:border-primary"
-        required
-      />
-      <button type="submit" className="hover:bg-light border-primary border rounded-lg text-white px-3 py-1 bg-primary">
-        Login
-      </button>
-    </form>
+      <form onSubmit={handleSubmit} className="bg-white flex flex-col h-fit w-96 p-10 rounded-xl gap-3 items-center">
+        <div className='w-64'>
+          <img onClick={() => {
+            Router.push('/')
+          }} className='object-contain cursor-pointer' src="/Logo.png" alt="Logo" />
+        </div>
+        <h1 className="text-center font-semibold text-xl">Login to <span className="font-extrabold text-primary">IMTHIHAN PORTAL</span></h1>
+        <p>
+          {error && <span className="text-red-500">{error}</span>}
+        </p>
+        <input
+          type="text"
+          placeholder="Username"
+          onChange={(e: any) => setUsername(e.target.value)}
+          className="px-3 py-2 rounded-lg border focus:border-primary"
+          required
+        />
+        <input
+          type="password"
+          placeholder="Password"
+          onChange={(e: any) => setPassword(e.target.value)}
+          className="px-3 py-2 rounded-lg border focus:border-primary"
+          required
+        />
+        <button type="submit" className="hover:bg-light border-primary border rounded-lg text-white px-3 py-1 bg-primary">
+          Login
+        </button>
+      </form>
 
-    <div className="mt-4">
+      <div className="mt-4">
+      </div>
     </div>
-  </div>
   );
 };
 

@@ -4,6 +4,16 @@ import students from "../data/students.json";
 import subjects from "../data/subjects.json";
 import { useRouter } from "next/navigation";
 
+type Student = {
+  "Registration Number": string;
+  Name: string;
+  "Subject 1 Code": string;
+  "Subject 2 Code": string;
+  Institution: string;
+  "Institution Place": string;
+  // Add other properties if needed based on usage
+};
+
 export default function Dashboard() {
   const categories = [
     {
@@ -20,34 +30,50 @@ export default function Dashboard() {
     },
   ];
 
-  
+
   const router = useRouter();
-  const [student, setStudent] = useState<{
-    StudentId: number;
-    RegNo: string;
-    Name: string;
-    Dars: string;
-    Place: string;
-    DarsCode: string;
-    Category: string;
-    Subject1: string;
-    Subject2: string;
-  }>();
+  const [student, setStudent] = useState<Student | undefined>();
+
+  // Helper to normalize subject code
+  const normalizeSubjectCode = (code: string | undefined): string => {
+    if (!code) return "";
+    return code.replace("-0", "").replace("-", "");
+  };
+
+  const getCategory = (student: Student | undefined) => {
+    if (!student) return "";
+    const s1 = normalizeSubjectCode(student["Subject 1 Code"]);
+    if (s1) return s1.charAt(0);
+    return "";
+  }
 
   useEffect(() => {
-    const user = JSON.parse(localStorage.getItem("user") as string);
-    
-    if (!user || user === "") {
-      router.push("/login");
+    if (typeof window !== "undefined") {
+      const user = localStorage.getItem("user");
+
+      if (!user || user === "") {
+        router.push("/login");
+        return;
+      }
+
+      // Note: user from localStorage might be a plain string or JSON string. 
+      // Existing code used JSON.parse. If it's a number/string, JSON.parse works.
+      // Assuming user is Registration Number.
+      let registrationNumber: string | null = null;
+      try {
+        const parsed = JSON.parse(user);
+        registrationNumber = String(parsed);
+      } catch (e) {
+        registrationNumber = user;
+      }
+
+      if (registrationNumber) {
+        const found = (students as Student[]).find(
+          (s) => s["Registration Number"] == registrationNumber
+        );
+        setStudent(found);
+      }
     }
-    // console.log(
-    //   students.find((student) => student?.StudentId === parseInt(user as string))
-    // );
-    setStudent(
-      students.find(
-        (student) => (student.StudentId as any) === parseInt(user as string)
-      ) as any
-    );
   }, []);
 
   return (
@@ -101,7 +127,7 @@ export default function Dashboard() {
       <div className="mt-3 sm:mx-auto sm:w-full sm:max-w-sm">
         <div>
           <label
-            htmlFor="email"
+            htmlFor="regno"
             className="block text-sm font-medium leading-6 text-gray-900"
           >
             Exam Register Number{" "}
@@ -109,7 +135,7 @@ export default function Dashboard() {
           <div className="mt-0.5">
             <input
               type="text"
-              value={student?.RegNo}
+              value={student?.["Registration Number"] || ""}
               className="block w-full rounded-md border-0 py-1.5 px-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
               disabled
             />
@@ -117,23 +143,7 @@ export default function Dashboard() {
         </div>
         <div>
           <label
-            htmlFor="email"
-            className="block text-sm font-medium leading-6 text-gray-900"
-          >
-            Student Id{" "}
-          </label>
-          <div className="mt-0.5">
-            <input
-              type="text"
-              value={student?.StudentId}
-              className="block w-full rounded-md border-0 py-1.5 px-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
-              disabled
-            />
-          </div>
-        </div>
-        <div>
-          <label
-            htmlFor="email"
+            htmlFor="name"
             className="block text-sm font-medium leading-6 text-gray-900"
           >
             Name{" "}
@@ -141,7 +151,7 @@ export default function Dashboard() {
           <div className="mt-0.5">
             <input
               type="text"
-              value={student?.Name}
+              value={student?.Name || ""}
               className="block w-full rounded-md border-0 py-1.5 px-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
               disabled
             />
@@ -149,7 +159,7 @@ export default function Dashboard() {
         </div>
         <div>
           <label
-            htmlFor="email"
+            htmlFor="dars"
             className="block text-sm font-medium leading-6 text-gray-900"
           >
             Dars{" "}
@@ -157,7 +167,7 @@ export default function Dashboard() {
           <div className="mt-0.5">
             <input
               type="text"
-              value={student?.Dars}
+              value={student?.Institution || ""}
               className="block w-full rounded-md border-0 py-1.5 px-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
               disabled
             />
@@ -165,7 +175,7 @@ export default function Dashboard() {
         </div>
         <div>
           <label
-            htmlFor="email"
+            htmlFor="category"
             className="block text-sm font-medium leading-6 text-gray-900"
           >
             Category{" "}
@@ -175,8 +185,8 @@ export default function Dashboard() {
               type="text"
               value={
                 categories.find((category) => {
-                  return category.shortName === student?.Category;
-                })?.fullName as any
+                  return category.shortName === getCategory(student);
+                })?.fullName || ""
               }
               className=" uppercase block w-full rounded-md border-0 py-1.5 px-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
               disabled
@@ -185,7 +195,7 @@ export default function Dashboard() {
         </div>
         <div>
           <label
-            htmlFor="email"
+            htmlFor="subj1"
             className="block text-sm font-medium leading-6 text-gray-900"
           >
             Subject 1{" "}
@@ -195,8 +205,8 @@ export default function Dashboard() {
               type="text"
               value={
                 subjects.find((subject) => {
-                  return subject.Id === student?.Subject1;
-                })?.Name as any
+                  return subject.Id === normalizeSubjectCode(student?.["Subject 1 Code"]);
+                })?.Name || ""
               }
               className="block w-full rounded-md border-0 py-1.5 px-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
               disabled
@@ -206,7 +216,7 @@ export default function Dashboard() {
         </div>
         <div>
           <label
-            htmlFor="email"
+            htmlFor="subj2"
             className="block text-sm font-medium leading-6 text-gray-900"
           >
             Subject 2{" "}
@@ -216,8 +226,8 @@ export default function Dashboard() {
               type="text"
               value={
                 subjects.find((subject) => {
-                  return subject.Id === student?.Subject2;
-                })?.Name as any
+                  return subject.Id === normalizeSubjectCode(student?.["Subject 2 Code"]);
+                })?.Name || ""
               }
               className="block w-full rounded-md border-0 py-1.5 px-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
               disabled
