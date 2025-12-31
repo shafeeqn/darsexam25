@@ -289,7 +289,7 @@ export default function AttendanceRegister({ institutions }: AttendanceRegisterP
 
               <div className="text-center mb-8 pb-4 border-b-2 border-gray-900">
                 <div className="flex flex-col items-center">
-                    <img src="/logo.png" alt="Logo" className="h-20 w-auto mb-4 object-contain" />
+                    <img src="/Logo.png" alt="Logo" className="h-20 w-auto mb-4 object-contain" />
                     <h1 className="text-2xl font-bold text-gray-900 uppercase tracking-wide">
                     {selectedInstitution?.institution}
                     </h1>
