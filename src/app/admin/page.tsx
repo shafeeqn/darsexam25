@@ -1,7 +1,7 @@
 'use client'
 import React, { useEffect, useRef, useState } from "react";
 import { useReactToPrint } from "react-to-print";
-import studentsData from "../../data/students.json";
+import studentsData from "../../data/students_All Sections_2026-01-11.json";
 import subjects from "../../data/subjects.json";
 import institutionsData from "../../data/institutions.json";
 import darsAuthData from "../../data/dars.json";
@@ -107,7 +107,12 @@ const page = () => {
       institutionMatch = student.Institution === selectedDars;
     }
 
-    return sectionMatch && institutionMatch;
+    // 3. Filter by Subject
+    const subject1 = normalizeSubjectCode(student["Subject 1 Code"]);
+    const subject2 = normalizeSubjectCode(student["Subject 2 Code"]);
+    const subjectMatch = subject1 === selectedSubject || subject2 === selectedSubject;
+
+    return sectionMatch && institutionMatch && subjectMatch;
   });
 
   function getDarsesToSubject() {
@@ -217,7 +222,7 @@ const page = () => {
         <p className="w-96 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
           Name
         </p>
-     
+
         <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
           Mark
         </p>
