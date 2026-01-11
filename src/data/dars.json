@@ -1,1352 +1,1352 @@
 [
- {
-  "Dars": "MFSA MANATHALA",
-  "Place": "MANATHALA",
-  "DarsCode": "TSR01"
- },
- {
-  "Dars": "SWABIRIYYA DARS AKALAD",
-  "Place": "AKALAD",
-  "DarsCode": "TSR02"
- },
- {
-  "Dars": "SWABIRIYYA DARS VADANAPPALLY",
-  "Place": "VADANAPPALLY",
-  "DarsCode": "TSR03"
- },
- {
-  "Dars": "JOUHARUL ULOOM PALLIMEPPURAM",
-  "Place": "PALLIMEPPURAM",
-  "DarsCode": "TSR04"
- },
- {
-  "Dars": "IRSHADU TWALABA PANNITHADAM",
-  "Place": "PANNITHADAM",
-  "DarsCode": "TSR05"
- },
- {
-  "Dars": "MIC MFSA  PALLAM",
-  "Place": "PALLAM",
-  "DarsCode": "TSR06"
- },
- {
-  "Dars": "ISHA'ATHUSSUNNA MANNALAMKUNNU",
-  "Place": "MANNALAMKUNNU",
-  "DarsCode": "TSR07"
- },
- {
-  "Dars": "BAHJATHUTWALABA THALI",
-  "Place": "THALI",
-  "DarsCode": "TSR08"
- },
- {
-  "Dars": "MA'DINUL ULOOM ANDATHODE",
-  "Place": "ANDATHODE",
-  "DarsCode": "TSR09"
- },
- {
-  "Dars": "NOORUL HUDA PARAYANGAD",
-  "Place": "PARAYANGAD",
-  "DarsCode": "TSR10"
- },
- {
-  "Dars": "MARKAZUL ULAMA CHERUMBA",
-  "Place": "CHERUMBA",
-  "DarsCode": "KSD01"
- },
- {
-  "Dars": "SHAMSUL ULAMA KUNIYA",
-  "Place": "KUNIYA",
-  "DarsCode": "KSD02"
- },
- {
-  "Dars": "NIBRASU TWALABA ADHOOR",
-  "Place": "ADHOOR",
-  "DarsCode": "KSD03"
- },
- {
-  "Dars": "MI'RAJUL IRFAN PARAPPALLI",
-  "Place": "PARAPPALLI",
-  "DarsCode": "KSD04"
- },
- {
-  "Dars": "RAHMANIYYA PADANNA",
-  "Place": "PADANNA",
-  "DarsCode": "KSD05"
- },
- {
-  "Dars": "IRSHADU TWALABA THANKAYAM",
-  "Place": "THANKAYAM",
-  "DarsCode": "KSD06"
- },
- {
-  "Dars": "DARUL HIDAYA THAIKKADAPPURAM",
-  "Place": "THAIKKADAPPURAM",
-  "DarsCode": "KSD07"
- },
- {
-  "Dars": "QUWWATHUL ISLAM MUTHUPPARA",
-  "Place": "MUTHUPPARA",
-  "DarsCode": "KSD08"
- },
- {
-  "Dars": "DARUL HIDAYA MANIKOOTH",
-  "Place": "MANIKOOTH",
-  "DarsCode": "KSD09"
- },
- {
-  "Dars": "DARUL ULOOM BAMBRANA",
-  "Place": "BAMBRANA",
-  "DarsCode": "KSD10"
- },
- {
-  "Dars": "IQRA' DARS UDINOOR",
-  "Place": "UDINOOR",
-  "DarsCode": "KSD11"
- },
- {
-  "Dars": "NIBRASUL HUDA UDUMBUNTHALA",
-  "Place": "UDUMBUNTHALA",
-  "DarsCode": "KSD12"
- },
- {
-  "Dars": "SHAMSUL HUDA KUMBOL",
-  "Place": "KUMBOL",
-  "DarsCode": "KSD13"
- },
- {
-  "Dars": "DARUL HIDAYA KANHANGAD",
-  "Place": "KANHANGAD",
-  "DarsCode": "KSD14"
- },
- {
-  "Dars": "ANVARUL ISLAM ERIYAL",
-  "Place": "ERIYAL",
-  "DarsCode": "KSD15"
- },
- {
-  "Dars": "MAMBAUL ULOOM BEERICHERI",
-  "Place": "BEERICHERI",
-  "DarsCode": "KSD16"
- },
- {
-  "Dars": "MISBAHUL HUDA PEROOR",
-  "Place": "PEROOR",
-  "DarsCode": "KSD17"
- },
- {
-  "Dars": "MARKAZUL ULAMA POTHUVACHERI",
-  "Place": "POTHUVACHERI",
-  "DarsCode": "KNR01"
- },
- {
-  "Dars": "MARKAZUL ULAMA PUZHAKKARA",
-  "Place": "PUZHAKKARA",
-  "DarsCode": "KNR02"
- },
- {
-  "Dars": "RAHMANIYYA IRIKKUR",
-  "Place": "IRIKKUR",
-  "DarsCode": "KNR03"
- },
- {
-  "Dars": "SHADULIYYA PANNIYANKANDI",
-  "Place": "PANNIYANKANDI",
-  "DarsCode": "KNR04"
- },
- {
-  "Dars": "HIDAYATHU TWALABA NOONHERI",
-  "Place": "NOONHERI",
-  "DarsCode": "KNR05"
- },
- {
-  "Dars": "SUBULUSSALAM VALAPATTANAM",
-  "Place": "VALAPATTANAM",
-  "DarsCode": "KNR06"
- },
- {
-  "Dars": "MANARUL HUDA ELAYAVOOR",
-  "Place": "ELAYAVOOR",
-  "DarsCode": "KNR07"
- },
- {
-  "Dars": "MARKAZUL ULAMA PALLIPPARAMBA",
-  "Place": "PALLIPPARAMBA",
-  "DarsCode": "KNR08"
- },
- {
-  "Dars": "HIDAYATHU TWALABA DALIL",
-  "Place": "DALIL",
-  "DarsCode": "KNR09"
- },
- {
-  "Dars": "HIDAYATHU TWALABA PULLOOPPI",
-  "Place": "PULLOOPPI",
-  "DarsCode": "KNR10"
- },
- {
-  "Dars": "HIDAYATHU TWALABA KANKOL",
-  "Place": "KANKOL",
-  "DarsCode": "KNR11"
- },
- {
-  "Dars": "KULLIYATHUSSWAFA KUMMAYAKKADAVU",
-  "Place": "KUMMAYAKKADAVU",
-  "DarsCode": "KNR12"
- },
- {
-  "Dars": "MARKAZUL ULAMA PULINGOM",
-  "Place": "PULINGOM",
-  "DarsCode": "KNR13"
- },
- {
-  "Dars": "HIDAYATHU TWALABA SREEKANDAPURAM",
-  "Place": "SREEKANDAPURAM",
-  "DarsCode": "KNR14"
- },
- {
-  "Dars": "HIDAYATHU TWALABA VESALA",
-  "Place": "VESALA",
-  "DarsCode": "KNR15"
- },
- {
-  "Dars": "ALIYYUL KOOFI PERINGATHUR",
-  "Place": "PERINGATHUR",
-  "DarsCode": "KNR16"
- },
- {
-  "Dars": "MANKADAVU JUMA MASJID MANKADAVU",
-  "Place": "MANKADAVU",
-  "DarsCode": "KNR17"
- },
- {
-  "Dars": "MANBAUL HIDAYA PALOTTUPALLI",
-  "Place": "PALOTTUPALLI",
-  "DarsCode": "KNR18"
- },
- {
-  "Dars": "IZZATHUL ISLAM PUTHIYANGADI",
-  "Place": "PUTHIYANGADI",
-  "DarsCode": "KNR19"
- },
- {
-  "Dars": "NOORUL ISLAM PALAKKODE",
-  "Place": "PALAKKODE",
-  "DarsCode": "KNR20"
- },
- {
-  "Dars": "MANBAUL HIDAYA VELIYAMBRA",
-  "Place": "VELIYAMBRA",
-  "DarsCode": "KNR21"
- },
- {
-  "Dars": "MANBAUL HIDAYA KOYYOD",
-  "Place": "KOYYOD",
-  "DarsCode": "KNR22"
- },
- {
-  "Dars": "MARKAZUL ULAMA KANAYANNUR",
-  "Place": "KANAYANNUR",
-  "DarsCode": "KNR23"
- },
- {
-  "Dars": "MARKAZUL ULAMA ANJARAKKANDI",
-  "Place": "ANJARAKKANDI",
-  "DarsCode": "KNR24"
- },
- {
-  "Dars": "MARKAZUL ULAMA KAYYAMKODE",
-  "Place": "KAYYAMKODE",
-  "DarsCode": "KNR25"
- },
- {
-  "Dars": "DAIRATHUL IRFAN PAZHASSI",
-  "Place": "PAZHASSI",
-  "DarsCode": "KNR26"
- },
- {
-  "Dars": "SUBULUSSALAM MUNDERI",
-  "Place": "MUNDERI",
-  "DarsCode": "KNR27"
- },
- {
-  "Dars": "ROULATHUL ULOOM MADAKKARA",
-  "Place": "MADAKKARA",
-  "DarsCode": "KNR28"
- },
- {
-  "Dars": "MARKAZUL ULAMA IRIVETTI",
-  "Place": "IRIVETTI",
-  "DarsCode": "KNR29"
- },
- {
-  "Dars": "MARKAZUL ULAMA CHEMBILODE",
-  "Place": "CHEMBILODE",
-  "DarsCode": "KNR30"
- },
- {
-  "Dars": "IMADUDDEEN PAPPINISSERI W",
-  "Place": "PAPPINISSERI W",
-  "DarsCode": "KNR31"
- },
- {
-  "Dars": "DARUL HIDAYA THEKKUMBAD",
-  "Place": "THEKKUMBAD",
-  "DarsCode": "KNR32"
- },
- {
-  "Dars": "MADEENATHUNNUR PALLIPOYIL",
-  "Place": "PALLIPOYIL",
-  "DarsCode": "KNR33"
- },
- {
-  "Dars": "MARKAZUL ULAMA PAZHAYANGADI",
-  "Place": "PAZHAYANGADI",
-  "DarsCode": "KNR34"
- },
- {
-  "Dars": "MARKAZUL ULAMA KACHERIPPARAMBA",
-  "Place": "KACHERIPPARAMBA",
-  "DarsCode": "KNR35"
- },
- {
-  "Dars": "AL AQSA  CHALIYAM",
-  "Place": "CHALIYAM",
-  "DarsCode": "CLT01"
- },
- {
-  "Dars": "BUSTHANUL ULOOM ODUMBRA",
-  "Place": "ODUMBRA",
-  "DarsCode": "CLT02"
- },
- {
-  "Dars": "MARKAZUL ULAMA KUNHIPPALLI",
-  "Place": "KUNHIPPALLI",
-  "DarsCode": "CLT03"
- },
- {
-  "Dars": "VANIMAL DARS VANIMAL",
-  "Place": "VANIMAL",
-  "DarsCode": "CLT04"
- },
- {
-  "Dars": "MANARUL HUDA VADAKARA",
-  "Place": "VADAKARA",
-  "DarsCode": "CLT05"
- },
- {
-  "Dars": "JALALIYYA CHERAPURAM",
-  "Place": "CHERAPURAM",
-  "DarsCode": "CLT06"
- },
- {
-  "Dars": "ANSWARIYYA NEDUMBRAMANNA",
-  "Place": "NEDUMBRAMANNA",
-  "DarsCode": "CLT07"
- },
- {
-  "Dars": "MAHLARATHUL JALALIYYA PERICHILPALLI",
-  "Place": "PERICHILPALLI",
-  "DarsCode": "CLT08"
- },
- {
-  "Dars": "MANBAUSSA'ADA MANIYAMBALAM",
-  "Place": "MANIYAMBALAM",
-  "DarsCode": "CLT09"
- },
- {
-  "Dars": "DARUL HIDAYA ORKKATTERI",
-  "Place": "ORKKATTERI",
-  "DarsCode": "CLT10"
- },
- {
-  "Dars": "BAYANUL ULOOM  VALLIYAD",
-  "Place": "VALLIYAD",
-  "DarsCode": "CLT11"
- },
- {
-  "Dars": "MARKAZUL ULAMA PALLITHAZHAM",
-  "Place": "PALLITHAZHAM",
-  "DarsCode": "CLT12"
- },
- {
-  "Dars": "RIYALUSWALIHEEN KODUVALLY",
-  "Place": "KODUVALLY",
-  "DarsCode": "CLT13"
- },
- {
-  "Dars": "DARUL HIDAYA PURAYIL",
-  "Place": "PURAYIL",
-  "DarsCode": "CLT14"
- },
- {
-  "Dars": "MACHAKULAM DARS PULLALUR",
-  "Place": "PULLALUR",
-  "DarsCode": "CLT15"
- },
- {
-  "Dars": "DARUL HIDAYA THALAYAD",
-  "Place": "THALAYAD",
-  "DarsCode": "CLT16"
- },
- {
-  "Dars": "JAMALIYYA PUTHIYOTH",
-  "Place": "PUTHIYOTH",
-  "DarsCode": "CLT17"
- },
- {
-  "Dars": "BAYANUL ULOOM  PARAPPARA",
-  "Place": "PARAPPARA",
-  "DarsCode": "CLT18"
- },
- {
-  "Dars": "SHAMSUL ULAMA KOODATHAYI",
-  "Place": "KOODATHAYI",
-  "DarsCode": "CLT19"
- },
- {
-  "Dars": "DARUL HIDAYA KALARANTHIRI",
-  "Place": "KALARANTHIRI",
-  "DarsCode": "CLT20"
- },
- {
-  "Dars": "ALNOOR KATHARAMMAL",
-  "Place": "KATHARAMMAL",
-  "DarsCode": "CLT21"
- },
- {
-  "Dars": "SHAMSUL HUDA KAREETIPARAMBA",
-  "Place": "KAREETIPARAMBA",
-  "DarsCode": "CLT22"
- },
- {
-  "Dars": "HAYATHUL ISLAM OMASSERI",
-  "Place": "OMASSERI",
-  "DarsCode": "CLT23"
- },
- {
-  "Dars": "MANBAUL HUDA KINASSERI",
-  "Place": "KINASSERI",
-  "DarsCode": "CLT24"
- },
- {
-  "Dars": "BAYANUL ULOOM  MANKAVU",
-  "Place": "MANKAVU",
-  "DarsCode": "CLT25"
- },
- {
-  "Dars": "RIYALUL JINAN KEEZHPAYUR",
-  "Place": "KEEZHPAYUR",
-  "DarsCode": "CLT26"
- },
- {
-  "Dars": "PPIMMA PULLALOOR",
-  "Place": "PULLALOOR",
-  "DarsCode": "CLT27"
- },
- {
-  "Dars": "NOORUTWALABA ALANALLUR",
-  "Place": "ALANALLUR",
-  "DarsCode": "PKD01"
- },
- {
-  "Dars": "MUEENU TWALABA KUMARAMPUTHUR",
-  "Place": "KUMARAMPUTHUR",
-  "DarsCode": "PKD02"
- },
- {
-  "Dars": "JEELANI DARS AMBAMKUNNU",
-  "Place": "AMBAMKUNNU",
-  "DarsCode": "PKD03"
- },
- {
-  "Dars": "AL MARJAN KALLADIKKODE",
-  "Place": "KALLADIKKODE",
-  "DarsCode": "PKD04"
- },
- {
-  "Dars": "NOORUL HUDA  PUTTANIKKAD",
-  "Place": "PUTTANIKKAD",
-  "DarsCode": "PKD05"
- },
- {
-  "Dars": "NAJMUL HUDA MANALADI",
-  "Place": "MANALADI",
-  "DarsCode": "PKD06"
- },
- {
-  "Dars": "AL AQSA VALLUVAMPUZHA",
-  "Place": "VALLUVAMPUZHA",
-  "DarsCode": "PKD07"
- },
- {
-  "Dars": "JALALIYYA KUNTHIPPUZHA",
-  "Place": "KUNTHIPPUZHA",
-  "DarsCode": "PKD08"
- },
- {
-  "Dars": "KMIC THEYYOTTUCHIRA",
-  "Place": "THEYYOTTUCHIRA",
-  "DarsCode": "PKD09"
- },
- {
-  "Dars": "KHIDMATHUL MOULA PARAPURATH",
-  "Place": "PARAPURATH",
-  "DarsCode": "PKD10"
- },
- {
-  "Dars": "MANBAUL IHSAN CHANGALEERI",
-  "Place": "CHANGALEERI",
-  "DarsCode": "PKD11"
- },
- {
-  "Dars": "ASBABUL ISLAM PARAMMAL",
-  "Place": "PARAMMAL",
-  "DarsCode": "PKD12"
- },
- {
-  "Dars": "MA'DINUL ULOOM KULAPARAMBA",
-  "Place": "KULAPARAMBA",
-  "DarsCode": "PKD13"
- },
- {
-  "Dars": "JALALIYYA KACHERIPARAMBA",
-  "Place": "KACHERIPARAMBA",
-  "DarsCode": "PKD14"
- },
- {
-  "Dars": "MANBAUL KHUTHABA KOTTOPADAM",
-  "Place": "KOTTOPADAM",
-  "DarsCode": "PKD15"
- },
- {
-  "Dars": "ANSWAR DARS MELMURI",
-  "Place": "MELMURI",
-  "DarsCode": "PKD16"
- },
- {
-  "Dars": "ROULATHUL ULOOM NEDUNGOTTUR",
-  "Place": "NEDUNGOTTUR",
-  "DarsCode": "PKD17"
- },
- {
-  "Dars": "NOORU TWALABA KAIPURAM",
-  "Place": "KAIPURAM",
-  "DarsCode": "PKD18"
- },
- {
-  "Dars": "MAKHDOOMIYA VILATHUR",
-  "Place": "VILATHUR",
-  "DarsCode": "PKD19"
- },
- {
-  "Dars": "HIDAYATHU RAHMA PAZHANCHEERI",
-  "Place": "PAZHANCHEERI",
-  "DarsCode": "PKD20"
- },
- {
-  "Dars": "IRSHADU TWALABA PALAKKODE",
-  "Place": "PALAKKODE",
-  "DarsCode": "PKD21"
- },
- {
-  "Dars": "VANDUMTHARA DARS VANDUMTHARA",
-  "Place": "VANDUMTHARA",
-  "DarsCode": "PKD22"
- },
- {
-  "Dars": "RABBANI KOOTTANAD",
-  "Place": "KOOTTANAD",
-  "DarsCode": "PKD23"
- },
- {
-  "Dars": "HIDAYATHU RAHMA VADAKKUMURI",
-  "Place": "VADAKKUMURI",
-  "DarsCode": "PKD24"
- },
- {
-  "Dars": "MADEENATHUL ILM THEKKUMMALA",
-  "Place": "THEKKUMMALA",
-  "DarsCode": "PKD25"
- },
- {
-  "Dars": "RABBANIYYA PATTAMBI",
-  "Place": "PATTAMBI",
-  "DarsCode": "PKD26"
- },
- {
-  "Dars": "MARKAZUL ULAMA AMAYUR",
-  "Place": "AMAYUR",
-  "DarsCode": "PKD27"
- },
- {
-  "Dars": "KAUKABU TWALABA VALLAPPUZHA",
-  "Place": "VALLAPPUZHA",
-  "DarsCode": "PKD28"
- },
- {
-  "Dars": "SUBULUSSALAM KURUVATTUR",
-  "Place": "KURUVATTUR",
-  "DarsCode": "PKD29"
- },
- {
-  "Dars": "IRSHADU TWALABA CHERPULASSERI",
-  "Place": "CHERPULASSERI",
-  "DarsCode": "PKD30"
- },
- {
-  "Dars": "HIDAYATHU RAHMA IRUMBALASSERI",
-  "Place": "IRUMBALASSERI",
-  "DarsCode": "PKD31"
- },
- {
-  "Dars": "MUNAVVIRUL ISLAM CHALAVARA",
-  "Place": "CHALAVARA",
-  "DarsCode": "PKD32"
- },
- {
-  "Dars": "MISBAHUL HUDA MOLOOR",
-  "Place": "MOLOOR",
-  "DarsCode": "PKD33"
- },
- {
-  "Dars": "ALASHBAL MARAYAMANGALAM",
-  "Place": "MARAYAMANGALAM",
-  "DarsCode": "PKD34"
- },
- {
-  "Dars": "BADRIYYA MAJLIS NELLAYA",
-  "Place": "NELLAYA",
-  "DarsCode": "PKD35"
- },
- {
-  "Dars": "SABEELURASHAD PATTISSERI",
-  "Place": "PATTISSERI",
-  "DarsCode": "PKD36"
- },
- {
-  "Dars": "DARUL ANWAR  NELLAYA",
-  "Place": "NELLAYA",
-  "DarsCode": "PKD37"
- },
- {
-  "Dars": "THAMREENU TWALABA KARUKAPUTHUR",
-  "Place": "KARUKAPUTHUR",
-  "DarsCode": "PKD38"
- },
- {
-  "Dars": "MUNAVVIRUL ISLAM VALLAPPUZHA",
-  "Place": "VALLAPPUZHA",
-  "DarsCode": "PKD39"
- },
- {
-  "Dars": "DARUL HIDAYA THIRUVEGAPPURA",
-  "Place": "THIRUVEGAPPURA",
-  "DarsCode": "PKD40"
- },
- {
-  "Dars": "BAYANUL ULOOM MUTTICHIRA",
-  "Place": "MUTTICHIRA",
-  "DarsCode": "MLP01"
- },
- {
-  "Dars": "IRSHADU TWALABA MULLAMBARA",
-  "Place": "MULLAMBARA",
-  "DarsCode": "MLP02"
- },
- {
-  "Dars": "BAYANUL ULOOM PUTHENTHERU",
-  "Place": "PUTHENTHERU",
-  "DarsCode": "MLP03"
- },
- {
-  "Dars": "FIRDOUSUL ULOOM VADAKKUMURI",
-  "Place": "VADAKKUMURI",
-  "DarsCode": "MLP04"
- },
- {
-  "Dars": "JAMALIYYA DARS VATTAPPARAMBA",
-  "Place": "VATTAPPARAMBA",
-  "DarsCode": "MLP05"
- },
- {
-  "Dars": "MARKAZUL ULAMA MUTTIPPALAM",
-  "Place": "MUTTIPPALAM",
-  "DarsCode": "MLP06"
- },
- {
-  "Dars": "ANSWAWRUL ISLAM PALAPPURA",
-  "Place": "PALAPPURA",
-  "DarsCode": "MLP07"
- },
- {
-  "Dars": "ALATHURPADI DARS ALATHURPADI",
-  "Place": "ALATHURPADI",
-  "DarsCode": "MLP08"
- },
- {
-  "Dars": "MARKAZUL ULAMA VALANCHERI",
-  "Place": "VALANCHERI",
-  "DarsCode": "MLP09"
- },
- {
-  "Dars": "MARKAZUL ULAMA PANAMBRA",
-  "Place": "PANAMBRA",
-  "DarsCode": "MLP10"
- },
- {
-  "Dars": "MFSS KIDANGAYAM",
-  "Place": "KIDANGAYAM",
-  "DarsCode": "MLP11"
- },
- {
-  "Dars": "SIRAJUL ULAMA ODOMPATTA",
-  "Place": "ODOMPATTA",
-  "DarsCode": "MLP12"
- },
- {
-  "Dars": "MYLAPPURAM DARS MYLAPPURAM",
-  "Place": "MYLAPPURAM",
-  "DarsCode": "MLP13"
- },
- {
-  "Dars": "FATHHUNNUR IRUMBUZHI",
-  "Place": "IRUMBUZHI",
-  "DarsCode": "MLP14"
- },
- {
-  "Dars": "ZEENATHU TWALABA CHERIYAMUNDAM",
-  "Place": "CHERIYAMUNDAM",
-  "DarsCode": "MLP15"
- },
- {
-  "Dars": "SIRAJUL ULAMA CHENGUVETTY",
-  "Place": "CHENGUVETTY",
-  "DarsCode": "MLP16"
- },
- {
-  "Dars": "NOORUL ISLAM OTTATHARA",
-  "Place": "OTTATHARA",
-  "DarsCode": "MLP17"
- },
- {
-  "Dars": "NOORUL ISLAM KIDANGAZHI",
-  "Place": "KIDANGAZHI",
-  "DarsCode": "MLP18"
- },
- {
-  "Dars": "IHYAUL ULOOM KAVANUR",
-  "Place": "KAVANUR",
-  "DarsCode": "MLP19"
- },
- {
-  "Dars": "JALALI DARS THAVARAMPARAMBA",
-  "Place": "THAVARAMPARAMBA",
-  "DarsCode": "MLP20"
- },
- {
-  "Dars": "MANSHAUL ULOOM  PUTHUPARAMBA",
-  "Place": "PUTHUPARAMBA",
-  "DarsCode": "MLP21"
- },
- {
-  "Dars": "SABEELURASHAD VETTUPARA",
-  "Place": "VETTUPARA",
-  "DarsCode": "MLP22"
- },
- {
-  "Dars": "QADIRIYYA DARS  PALATHARA",
-  "Place": "PALATHARA",
-  "DarsCode": "MLP23"
- },
- {
-  "Dars": "MARKAZUL ULAMA PULIKKODE",
-  "Place": "PULIKKODE",
-  "DarsCode": "MLP24"
- },
- {
-  "Dars": "MADEENATHUL ULOOM CHUNGAM",
-  "Place": "CHUNGAM",
-  "DarsCode": "MLP25"
- },
- {
-  "Dars": "MA'DINUL ULOOM KIZHAKKUMPADAM",
-  "Place": "KIZHAKKUMPADAM",
-  "DarsCode": "MLP26"
- },
- {
-  "Dars": "DARUL HIDAYA PANANGANGARA",
-  "Place": "PANANGANGARA",
-  "DarsCode": "MLP27"
- },
- {
-  "Dars": "MADARUSSA'ADA PANDIKKAD",
-  "Place": "PANDIKKAD",
-  "DarsCode": "MLP28"
- },
- {
-  "Dars": "IRSHADU TWALIBEEN ACHANAMBALAM",
-  "Place": "ACHANAMBALAM",
-  "DarsCode": "MLP29"
- },
- {
-  "Dars": "AL JAVAHIR  CHEEKODE",
-  "Place": "CHEEKODE",
-  "DarsCode": "MLP30"
- },
- {
-  "Dars": "BUSTHAUL ULOOM KOTTAPPURAM",
-  "Place": "KOTTAPPURAM",
-  "DarsCode": "MLP31"
- },
- {
-  "Dars": "BAYANUL ULOOM ARIMBRA",
-  "Place": "ARIMBRA",
-  "DarsCode": "MLP32"
- },
- {
-  "Dars": "MARKAZUL ULAMA VAZHAKKAD",
-  "Place": "VAZHAKKAD",
-  "DarsCode": "MLP33"
- },
- {
-  "Dars": "MASLAKUL ANWAR CHERUSHOLA",
-  "Place": "CHERUSHOLA",
-  "DarsCode": "MLP34"
- },
- {
-  "Dars": "SOUTHUSHAREE'A EDAKKARA",
-  "Place": "EDAKKARA",
-  "DarsCode": "MLP35"
- },
- {
-  "Dars": "IRSUL AMBIYA THANNIKKADAVU",
-  "Place": "THANNIKKADAVU",
-  "DarsCode": "MLP36"
- },
- {
-  "Dars": "SOUTHUSHAREE'A EDAKKARA PALATHINGAL",
-  "Place": "EDAKKARA PALATHINGAL",
-  "DarsCode": "MLP37"
- },
- {
-  "Dars": "THAMREENU TWALABA POOKOTUMPADAM",
-  "Place": "POOKOTUMPADAM",
-  "DarsCode": "MLP38"
- },
- {
-  "Dars": "NOORUL HUDA KARULAI",
-  "Place": "KARULAI",
-  "DarsCode": "MLP39"
- },
- {
-  "Dars": "HIDAYATHU TWALABA MOOTHEDAM",
-  "Place": "MOOTHEDAM",
-  "DarsCode": "MLP40"
- },
- {
-  "Dars": "HIDAYATHU TWALABA THRIKKALANGODE",
-  "Place": "THRIKKALANGODE",
-  "DarsCode": "MLP41"
- },
- {
-  "Dars": "THAMREENU TWALABA PULLANCHERI",
-  "Place": "PULLANCHERI",
-  "DarsCode": "MLP42"
- },
- {
-  "Dars": "MANBAUL ULOOM VENNIYUR",
-  "Place": "VENNIYUR",
-  "DarsCode": "MLP43"
- },
- {
-  "Dars": "ISHA'ATHUSSUNNA PULLARA",
-  "Place": "PULLARA",
-  "DarsCode": "MLP44"
- },
- {
-  "Dars": "MARKAZUL ULAMA KODINHI",
-  "Place": "KODINHI",
-  "DarsCode": "MLP45"
- },
- {
-  "Dars": "NIBRASUL ISLAM ANANTHAVOOR",
-  "Place": "ANANTHAVOOR",
-  "DarsCode": "MLP46"
- },
- {
-  "Dars": "WIRASATHUL ULAMA VANIYANNUR",
-  "Place": "VANIYANNUR",
-  "DarsCode": "MLP47"
- },
- {
-  "Dars": "SABEELUL HUDA THODIKUTHIPARAMBA",
-  "Place": "THODIKUTHIPARAMBA",
-  "DarsCode": "MLP49"
- },
- {
-  "Dars": "RABBANIYYA WEST VILLUR",
-  "Place": "WEST VILLUR",
-  "DarsCode": "MLP50"
- },
- {
-  "Dars": "MARKAZUL ULAMA KONOMPARA",
-  "Place": "KONOMPARA",
-  "DarsCode": "MLP51"
- },
- {
-  "Dars": "MARKAZUL ULAMA MUTHIRIPARAMBA",
-  "Place": "MUTHIRIPARAMBA",
-  "DarsCode": "MLP52"
- },
- {
-  "Dars": "RAHMANIYA  PANANGANGARA",
-  "Place": "PANANGANGARA",
-  "DarsCode": "MLP53"
- },
- {
-  "Dars": "HIMAYATHUL BAYAN KARUVARAKUNDU",
-  "Place": "KARUVARAKUNDU",
-  "DarsCode": "MLP54"
- },
- {
-  "Dars": "ANSWARUL ULOOM PALAKKAL VETTA",
-  "Place": "PALAKKAL VETTA",
-  "DarsCode": "MLP55"
- },
- {
-  "Dars": "BAHJATHUL HUDA KODANGAD",
-  "Place": "KODANGAD",
-  "DarsCode": "MLP56"
- },
- {
-  "Dars": "SIRAJUL ULAMA  THARISH",
-  "Place": "THARISH",
-  "DarsCode": "MLP57"
- },
- {
-  "Dars": "SIRAJUL ULAMA  MAMPUZHA",
-  "Place": "MAMPUZHA",
-  "DarsCode": "MLP58"
- },
- {
-  "Dars": "MISBAHUL HUDA  KANNATH",
-  "Place": "KANNATH",
-  "DarsCode": "MLP59"
- },
- {
-  "Dars": "RABBANI VELOOR",
-  "Place": "VELOOR",
-  "DarsCode": "MLP61"
- },
- {
-  "Dars": "MANBAUL KHUTHABA CHERUPUTHUR",
-  "Place": "CHERUPUTHUR",
-  "DarsCode": "MLP62"
- },
- {
-  "Dars": "MANBAUL KHUTHABA ARIMBRA",
-  "Place": "ARIMBRA",
-  "DarsCode": "MLP63"
- },
- {
-  "Dars": "IRSHADU TWALABA MUSLIYARANGADI",
-  "Place": "MUSLIYARANGADI",
-  "DarsCode": "MLP64"
- },
- {
-  "Dars": "MANBAUL HUDA KOLATHUR",
-  "Place": "KOLATHUR",
-  "DarsCode": "MLP66"
- },
- {
-  "Dars": "HIDAYATHU TWALABA PULIYAKKODE",
-  "Place": "PULIYAKKODE",
-  "DarsCode": "MLP67"
- },
- {
-  "Dars": "MARKAZUL ULAMA KUZHIMANNA",
-  "Place": "KUZHIMANNA",
-  "DarsCode": "MLP68"
- },
- {
-  "Dars": "SIRAJUL ULAMA  KUTTASSERI",
-  "Place": "KUTTASSERI",
-  "DarsCode": "MLP71"
- },
- {
-  "Dars": "MQS PACHEERI",
-  "Place": "PACHEERI",
-  "DarsCode": "MLP72"
- },
- {
-  "Dars": "SIRAJUL ULAMA  POOKULATHUR",
-  "Place": "POOKULATHUR",
-  "DarsCode": "MLP73"
- },
- {
-  "Dars": "MA'DINUL ULOOM  KUMMINIPPARA",
-  "Place": "KUMMINIPPARA",
-  "DarsCode": "MLP74"
- },
- {
-  "Dars": "DA'WATHU TWALABA KACHINIKKAD",
-  "Place": "KACHINIKKAD",
-  "DarsCode": "MLP75"
- },
- {
-  "Dars": "ALEEQAL CHEMBRA",
-  "Place": "CHEMBRA",
-  "DarsCode": "MLP77"
- },
- {
-  "Dars": "ALEEQAL PURATHUR",
-  "Place": "PURATHUR",
-  "DarsCode": "MLP78"
- },
- {
-  "Dars": "NOORUTWALABA CHOLAKKAL",
-  "Place": "CHOLAKKAL",
-  "DarsCode": "MLP79"
- },
- {
-  "Dars": "MARKAZUL ULAMA KUNDAMKADAVU",
-  "Place": "KUNDAMKADAVU",
-  "DarsCode": "MLP80"
- },
- {
-  "Dars": "JOUHARUL ULOOM VELLANCHERI",
-  "Place": "VELLANCHERI",
-  "DarsCode": "MLP82"
- },
- {
-  "Dars": "MANBAUSSUADA' PULLURAL",
-  "Place": "PULLURAL",
-  "DarsCode": "MLP83"
- },
- {
-  "Dars": "MARKAZUL ULAMA INDIANOOR",
-  "Place": "INDIANOOR",
-  "DarsCode": "MLP84"
- },
- {
-  "Dars": "JAWAHIRUSSUNNA KOTTAKUNNU",
-  "Place": "KOTTAKUNNU",
-  "DarsCode": "MLP85"
- },
- {
-  "Dars": "BUSTHANU TWALIBEEN AMMINIKKAD",
-  "Place": "AMMINIKKAD",
-  "DarsCode": "MLP86"
- },
- {
-  "Dars": "SUBULUSSALAM KOZHIPPURAM",
-  "Place": "KOZHIPPURAM",
-  "DarsCode": "MLP87"
- },
- {
-  "Dars": "MARKAZUL ULAMA PARAPPANANGADI",
-  "Place": "PARAPPANANGADI",
-  "DarsCode": "MLP89"
- },
- {
-  "Dars": "ANSWARUL ISLAM VADAKKUMURI",
-  "Place": "VADAKKUMURI",
-  "DarsCode": "MLP93"
- },
- {
-  "Dars": "NOORUL HUDA UGRAPURAM",
-  "Place": "UGRAPURAM",
-  "DarsCode": "MLP94"
- },
- {
-  "Dars": "TWALABATHUSSUFFA MANKADA",
-  "Place": "MANKADA",
-  "DarsCode": "MLP95"
- },
- {
-  "Dars": "FATHHUL ULOOM PADINHATTUMURI",
-  "Place": "PADINHATTUMURI",
-  "DarsCode": "MLP96"
- },
- {
-  "Dars": "MARKAZUL ULAMA MORAYUR",
-  "Place": "MORAYUR",
-  "DarsCode": "MLP97"
- },
- {
-  "Dars": "MISBAHUTWALABA VELLERI",
-  "Place": "VELLERI",
-  "DarsCode": "MLP99"
- },
- {
-  "Dars": "BAYANUL ULOOM IRUMBUCHOLA",
-  "Place": "IRUMBUCHOLA",
-  "DarsCode": "MLP101"
- },
- {
-  "Dars": "MA'DINUL ULOOM  ATHANIPPADI",
-  "Place": "ATHANIPPADI",
-  "DarsCode": "MLP102"
- },
- {
-  "Dars": "THAMREENU TWALABA VEENALUKKAL",
-  "Place": "VEENALUKKAL",
-  "DarsCode": "MLP103"
- },
- {
-  "Dars": "AHLUSSUFFA CHOLAKKAL",
-  "Place": "CHOLAKKAL",
-  "DarsCode": "MLP104"
- },
- {
-  "Dars": "NUSRATHUL ISLAM MAKKARAPPARAMBA",
-  "Place": "MAKKARAPPARAMBA",
-  "DarsCode": "MLP105"
- },
- {
-  "Dars": "MARKAZUL ULAMA CHERUKULAMBA",
-  "Place": "CHERUKULAMBA",
-  "DarsCode": "MLP106"
- },
- {
-  "Dars": "DARU THANWEER KOOMANNA, CHENAKKAL",
-  "Place": "KOOMANNA, CHENAKKAL",
-  "DarsCode": "MLP108"
- },
- {
-  "Dars": "RABBANIYYA POOKKOTTUR",
-  "Place": "POOKKOTTUR",
-  "DarsCode": "MLP109"
- },
- {
-  "Dars": "MARKAZUL ULAMA PULIYATTUKULAM",
-  "Place": "PULIYATTUKULAM",
-  "DarsCode": "MLP110"
- },
- {
-  "Dars": "IMADAU TWALABA KORANGATH",
-  "Place": "KORANGATH",
-  "DarsCode": "MLP111"
- },
- {
-  "Dars": "NOORANIYA PAPPINIPPARA",
-  "Place": "PAPPINIPPARA",
-  "DarsCode": "MLP112"
- },
- {
-  "Dars": "DARUL HIDAYA  EDAVANNAPPARA",
-  "Place": "EDAVANNAPPARA",
-  "DarsCode": "MLP113"
- },
- {
-  "Dars": "KUZHICHENA JM KUZHICHENA",
-  "Place": "KUZHICHENA",
-  "DarsCode": "MLP114"
- },
- {
-  "Dars": "BAYANUL ULOOM MUTHUVALLUR",
-  "Place": "MUTHUVALLUR",
-  "DarsCode": "MLP115"
- },
- {
-  "Dars": "MKSA OLAPPEEDIKA",
-  "Place": "OLAPPEEDIKA",
-  "DarsCode": "MLP116"
- },
- {
-  "Dars": "MKSA PUTHIYAKADAPPURAM",
-  "Place": "PUTHIYAKADAPPURAM",
-  "DarsCode": "MLP117"
- },
- {
-  "Dars": "NOORANI  OMANUR PALLIPURAYA",
-  "Place": "OMANUR PALLIPURAYA",
-  "DarsCode": "MLP118"
- },
- {
-  "Dars": "DARUL ULOOM THINDALAM CK PARA",
-  "Place": "THINDALAM CK PARA",
-  "DarsCode": "MLP119"
- },
- {
-  "Dars": "TTS NELLIKKUNNU",
-  "Place": "NELLIKKUNNU",
-  "DarsCode": "MLP120"
- },
- {
-  "Dars": "SUBULUSSALAM KIZHISSERI",
-  "Place": "KIZHISSERI",
-  "DarsCode": "MLP121"
- },
- {
-  "Dars": "KODASSERI KARAYA",
-  "Place": "KARAYA",
-  "DarsCode": "MLP122"
- },
- {
-  "Dars": "BAYANUL ULOOM PADAPPARAMBA",
-  "Place": "PADAPPARAMBA",
-  "DarsCode": "MLP123"
- },
- {
-  "Dars": "JAMALULLAIL AYYAYA",
-  "Place": "AYYAYA",
-  "DarsCode": "MLP124"
- },
- {
-  "Dars": "MANBAUL IHSAN KONDIPARAMBA",
-  "Place": "KONDIPARAMBA",
-  "DarsCode": "MLP125"
- },
- {
-  "Dars": "MANBAUL ULOOM PADIKKAL",
-  "Place": "PADIKKAL",
-  "DarsCode": "MLP126"
- },
- {
-  "Dars": "IHSAN PULLUR",
-  "Place": "PULLUR",
-  "DarsCode": "MLP127"
- },
- {
-  "Dars": "SHAMSUL HUDA PUKAYUR",
-  "Place": "PUKAYUR",
-  "DarsCode": "MLP128"
- },
- {
-  "Dars": "THARBIYATHUL MUTHA'ALLIMEEN THARAYITTAL",
-  "Place": "THARAYITTAL",
-  "DarsCode": "MLP129"
- },
- {
-  "Dars": "JOUHARATHUL ULOOM VALAMANGALAM",
-  "Place": "VALAMANGALAM",
-  "DarsCode": "MLP130"
- },
- {
-  "Dars": "EDAKKULAM DARS EDAKKULAM",
-  "Place": "EDAKKULAM",
-  "DarsCode": "MLP131"
- },
- {
-  "Dars": "BADRUL HUDA KOOMANNA, CHENAKKAL",
-  "Place": "KOOMANNA, CHENAKKAL",
-  "DarsCode": "MLP132"
- },
- {
-  "Dars": "RABBANI VALLIKKAPATTA",
-  "Place": "VALLIKKAPATTA",
-  "DarsCode": "MLP133"
- },
- {
-  "Dars": "ANWARUL HUDA MEENARKUZHI",
-  "Place": "MEENARKUZHI",
-  "DarsCode": "MLP134"
- },
- {
-  "Dars": "NAJMUL HUDA VENGARA",
-  "Place": "VENGARA",
-  "DarsCode": "MLP135"
- },
- {
-  "Dars": "MARKAZUL ULAMA KADUNGALLUR",
-  "Place": "KADUNGALLUR",
-  "DarsCode": "MLP136"
- },
- {
-  "Dars": "KADOOPURAM DARS KOOTILANGADI",
-  "Place": "KOOTILANGADI",
-  "DarsCode": "MLP137"
- },
- {
-  "Dars": "MUNAVVIRUL ISLAM KALADI",
-  "Place": "KALADI",
-  "DarsCode": "MLP138"
- },
- {
-  "Dars": "MURSHIDUL ANAM MANUR",
-  "Place": "MANUR",
-  "DarsCode": "MLP139"
- },
- {
-  "Dars": "ALEEQAL ALATHIYUR",
-  "Place": "ALATHIYUR",
-  "DarsCode": "MLP140"
- },
- {
-  "Dars": "MA'DINUL ULOOM  PERASHANNUR",
-  "Place": "PERASHANNUR",
-  "DarsCode": "MLP141"
- },
- {
-  "Dars": "DARAJATHUL ULOOM CHEPYALAM",
-  "Place": "CHEPYALAM",
-  "DarsCode": "MLP142"
- },
- {
-  "Dars": "THAMREENU TWALABA RANGATTUR",
-  "Place": "RANGATTUR",
-  "DarsCode": "MLP143"
- },
- {
-  "Dars": "MARKAZUL ULAMA KAKKOVE",
-  "Place": "KAKKOVE",
-  "DarsCode": "MLP144"
- },
- {
-  "Dars": "BAYANUL ULOOM OMACHAPPUZHA",
-  "Place": "OMACHAPPUZHA",
-  "DarsCode": "MLP145"
- },
- {
-  "Dars": "SUBULUL HUDA KUZHIMANNA",
-  "Place": "KUZHIMANNA",
-  "DarsCode": "MLP146"
- },
- {
-  "Dars": "MANBAUL ULOOM ELAMKULAM",
-  "Place": "ELAMKULAM",
-  "DarsCode": "MLP147"
- },
- {
-  "Dars": "NOORUTWALABA VEEMBOOR",
-  "Place": "VEEMBOOR",
-  "DarsCode": "MLP149"
- },
- {
-  "Dars": "DARUL HIDAYA  VELLILA",
-  "Place": "VELLILA",
-  "DarsCode": "MLP150"
- },
- {
-  "Dars": "RABBANIYA PUTHANAZHI",
-  "Place": "PUTHANAZHI",
-  "DarsCode": "MLP151"
- },
- {
-  "Dars": "THAMREENU TWALABA PAVITTAPPURAM",
-  "Place": "PAVITTAPPURAM",
-  "DarsCode": "MLP152"
- },
- {
-  "Dars": "BADRIYYA KAPPU",
-  "Place": "KAPPU",
-  "DarsCode": "MLP153"
- },
- {
-  "Dars": "ZIYAUL ISLAM PANAYAPPURAM",
-  "Place": "PANAYAPPURAM",
-  "DarsCode": "MLP154"
- },
- {
-  "Dars": "DARSUL IHSAN SUFFA MUNDITHODIKA",
-  "Place": "MUNDITHODIKA",
-  "DarsCode": "MLP155"
- },
- {
-  "Dars": "DARUL ULOOM KORAD",
-  "Place": "KORAD",
-  "DarsCode": "MLP156"
- }
+    {
+        "Dars": "MFSA MANATHALA",
+        "Place": "MANATHALA",
+        "DarsCode": "TSR01"
+    },
+    {
+        "Dars": "SWABIRIYYA DARS AKALAD",
+        "Place": "AKALAD",
+        "DarsCode": "TSR02"
+    },
+    {
+        "Dars": "SWABIRIYYA DARS VADANAPPALLY",
+        "Place": "VADANAPPALLY",
+        "DarsCode": "TSR03"
+    },
+    {
+        "Dars": "JOUHARUL ULOOM PALLIMEPPURAM",
+        "Place": "PALLIMEPPURAM",
+        "DarsCode": "TSR04"
+    },
+    {
+        "Dars": "IRSHADU TWALABA PANNITHADAM",
+        "Place": "PANNITHADAM",
+        "DarsCode": "TSR05"
+    },
+    {
+        "Dars": "MIC MFSA  PALLAM",
+        "Place": "PALLAM",
+        "DarsCode": "TSR06"
+    },
+    {
+        "Dars": "ISHA'ATHUSSUNNA MANNALAMKUNNU",
+        "Place": "MANNALAMKUNNU",
+        "DarsCode": "TSR07"
+    },
+    {
+        "Dars": "BAHJATHUTWALABA THALI",
+        "Place": "THALI",
+        "DarsCode": "TSR08"
+    },
+    {
+        "Dars": "MA'DINUL ULOOM ANDATHODE",
+        "Place": "ANDATHODE",
+        "DarsCode": "TSR09"
+    },
+    {
+        "Dars": "NOORUL HUDA PARAYANGAD",
+        "Place": "PARAYANGAD",
+        "DarsCode": "TSR10"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA CHERUMBA",
+        "Place": "CHERUMBA",
+        "DarsCode": "KSD01"
+    },
+    {
+        "Dars": "SHAMSUL ULAMA KUNIYA",
+        "Place": "KUNIYA",
+        "DarsCode": "KSD02"
+    },
+    {
+        "Dars": "NIBRASU TWALABA ADHOOR",
+        "Place": "ADHOOR",
+        "DarsCode": "KSD03"
+    },
+    {
+        "Dars": "MI'RAJUL IRFAN PARAPPALLI",
+        "Place": "PARAPPALLI",
+        "DarsCode": "KSD04"
+    },
+    {
+        "Dars": "RAHMANIYYA PADANNA",
+        "Place": "PADANNA",
+        "DarsCode": "KSD05"
+    },
+    {
+        "Dars": "IRSHADU TWALABA THANKAYAM",
+        "Place": "THANKAYAM",
+        "DarsCode": "KSD06"
+    },
+    {
+        "Dars": "DARUL HIDAYA THAIKKADAPPURAM",
+        "Place": "THAIKKADAPPURAM",
+        "DarsCode": "KSD07"
+    },
+    {
+        "Dars": "QUWWATHUL ISLAM MUTHUPPARA",
+        "Place": "MUTHUPPARA",
+        "DarsCode": "KSD08"
+    },
+    {
+        "Dars": "DARUL HIDAYA MANIKOOTH",
+        "Place": "MANIKOOTH",
+        "DarsCode": "KSD09"
+    },
+    {
+        "Dars": "DARUL ULOOM BAMBRANA",
+        "Place": "BAMBRANA",
+        "DarsCode": "KSD10"
+    },
+    {
+        "Dars": "IQRA' DARS UDINOOR",
+        "Place": "UDINOOR",
+        "DarsCode": "KSD11"
+    },
+    {
+        "Dars": "NIBRASUL HUDA UDUMBUNTHALA",
+        "Place": "UDUMBUNTHALA",
+        "DarsCode": "KSD12"
+    },
+    {
+        "Dars": "SHAMSUL HUDA KUMBOL",
+        "Place": "KUMBOL",
+        "DarsCode": "KSD13"
+    },
+    {
+        "Dars": "DARUL HIDAYA KANHANGAD",
+        "Place": "KANHANGAD",
+        "DarsCode": "KSD14"
+    },
+    {
+        "Dars": "ANVARUL ISLAM ERIYAL",
+        "Place": "ERIYAL",
+        "DarsCode": "KSD15"
+    },
+    {
+        "Dars": "MAMBAUL ULOOM BEERICHERI",
+        "Place": "BEERICHERI",
+        "DarsCode": "KSD16"
+    },
+    {
+        "Dars": "MISBAHUL HUDA PEROOR",
+        "Place": "PEROOR",
+        "DarsCode": "KSD17"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA POTHUVACHERI",
+        "Place": "POTHUVACHERI",
+        "DarsCode": "KNR01"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA PUZHAKKARA",
+        "Place": "PUZHAKKARA",
+        "DarsCode": "KNR02"
+    },
+    {
+        "Dars": "RAHMANIYYA IRIKKUR",
+        "Place": "IRIKKUR",
+        "DarsCode": "KNR03"
+    },
+    {
+        "Dars": "SHADULIYYA PANNIYANKANDI",
+        "Place": "PANNIYANKANDI",
+        "DarsCode": "KNR04"
+    },
+    {
+        "Dars": "HIDAYATHU TWALABA NOONHERI",
+        "Place": "NOONHERI",
+        "DarsCode": "KNR05"
+    },
+    {
+        "Dars": "SUBULUSSALAM VALAPATTANAM",
+        "Place": "VALAPATTANAM",
+        "DarsCode": "KNR06"
+    },
+    {
+        "Dars": "MANARUL HUDA ELAYAVOOR",
+        "Place": "ELAYAVOOR",
+        "DarsCode": "KNR07"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA PALLIPPARAMBA",
+        "Place": "PALLIPPARAMBA",
+        "DarsCode": "KNR08"
+    },
+    {
+        "Dars": "HIDAYATHU TWALABA DALIL",
+        "Place": "DALIL",
+        "DarsCode": "KNR09"
+    },
+    {
+        "Dars": "HIDAYATHU TWALABA PULLOOPPI",
+        "Place": "PULLOOPPI",
+        "DarsCode": "KNR10"
+    },
+    {
+        "Dars": "HIDAYATHU TWALABA KANKOL",
+        "Place": "KANKOL",
+        "DarsCode": "KNR11"
+    },
+    {
+        "Dars": "KULLIYATHUSSWAFA KUMMAYAKKADAVU",
+        "Place": "KUMMAYAKKADAVU",
+        "DarsCode": "KNR12"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA PULINGOM",
+        "Place": "PULINGOM",
+        "DarsCode": "KNR13"
+    },
+    {
+        "Dars": "HIDAYATHU TWALABA SREEKANDAPURAM",
+        "Place": "SREEKANDAPURAM",
+        "DarsCode": "KNR14"
+    },
+    {
+        "Dars": "HIDAYATHU TWALABA VESALA",
+        "Place": "VESALA",
+        "DarsCode": "KNR15"
+    },
+    {
+        "Dars": "ALIYYUL KOOFI PERINGATHUR",
+        "Place": "PERINGATHUR",
+        "DarsCode": "KNR16"
+    },
+    {
+        "Dars": "MANKADAVU JUMA MASJID MANKADAVU",
+        "Place": "MANKADAVU",
+        "DarsCode": "KNR17"
+    },
+    {
+        "Dars": "MANBAUL HIDAYA PALOTTUPALLI",
+        "Place": "PALOTTUPALLI",
+        "DarsCode": "KNR18"
+    },
+    {
+        "Dars": "IZZATHUL ISLAM PUTHIYANGADI",
+        "Place": "PUTHIYANGADI",
+        "DarsCode": "KNR19"
+    },
+    {
+        "Dars": "NOORUL ISLAM PALAKKODE",
+        "Place": "PALAKKODE",
+        "DarsCode": "KNR20"
+    },
+    {
+        "Dars": "MANBAUL HIDAYA VELIYAMBRA",
+        "Place": "VELIYAMBRA",
+        "DarsCode": "KNR21"
+    },
+    {
+        "Dars": "MANBAUL HIDAYA KOYYOD",
+        "Place": "KOYYOD",
+        "DarsCode": "KNR22"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA KANAYANNUR",
+        "Place": "KANAYANNUR",
+        "DarsCode": "KNR23"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA ANJARAKKANDI",
+        "Place": "ANJARAKKANDI",
+        "DarsCode": "KNR24"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA KAYYAMKODE",
+        "Place": "KAYYAMKODE",
+        "DarsCode": "KNR25"
+    },
+    {
+        "Dars": "DAIRATHUL IRFAN PAZHASSI",
+        "Place": "PAZHASSI",
+        "DarsCode": "KNR26"
+    },
+    {
+        "Dars": "SUBULUSSALAM MUNDERI",
+        "Place": "MUNDERI",
+        "DarsCode": "KNR27"
+    },
+    {
+        "Dars": "ROULATHUL ULOOM MADAKKARA",
+        "Place": "MADAKKARA",
+        "DarsCode": "KNR28"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA IRIVETTI",
+        "Place": "IRIVETTI",
+        "DarsCode": "KNR29"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA CHEMBILODE",
+        "Place": "CHEMBILODE",
+        "DarsCode": "KNR30"
+    },
+    {
+        "Dars": "IMADUDDEEN PAPPINISSERI W",
+        "Place": "PAPPINISSERI W",
+        "DarsCode": "KNR31"
+    },
+    {
+        "Dars": "DARUL HIDAYA THEKKUMBAD",
+        "Place": "THEKKUMBAD",
+        "DarsCode": "KNR32"
+    },
+    {
+        "Dars": "MADEENATHUNNUR PALLIPOYIL",
+        "Place": "PALLIPOYIL",
+        "DarsCode": "KNR33"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA PAZHAYANGADI",
+        "Place": "PAZHAYANGADI",
+        "DarsCode": "KNR34"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA KACHERIPPARAMBA",
+        "Place": "KACHERIPPARAMBA",
+        "DarsCode": "KNR35"
+    },
+    {
+        "Dars": "AL AQSA  CHALIYAM",
+        "Place": "CHALIYAM",
+        "DarsCode": "CLT01"
+    },
+    {
+        "Dars": "BUSTHANUL ULOOM ODUMBRA",
+        "Place": "ODUMBRA",
+        "DarsCode": "CLT02"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA KUNHIPPALLI",
+        "Place": "KUNHIPPALLI",
+        "DarsCode": "CLT03"
+    },
+    {
+        "Dars": "VANIMAL DARS VANIMAL",
+        "Place": "VANIMAL",
+        "DarsCode": "CLT04"
+    },
+    {
+        "Dars": "MANARUL HUDA VADAKARA",
+        "Place": "VADAKARA",
+        "DarsCode": "CLT05"
+    },
+    {
+        "Dars": "JALALIYYA CHERAPURAM",
+        "Place": "CHERAPURAM",
+        "DarsCode": "CLT06"
+    },
+    {
+        "Dars": "ANSWARIYYA NEDUMBRAMANNA",
+        "Place": "NEDUMBRAMANNA",
+        "DarsCode": "CLT07"
+    },
+    {
+        "Dars": "MAHLARATHUL JALALIYYA PERICHILPALLI",
+        "Place": "PERICHILPALLI",
+        "DarsCode": "CLT08"
+    },
+    {
+        "Dars": "MANBAUSSA'ADA MANIYAMBALAM",
+        "Place": "MANIYAMBALAM",
+        "DarsCode": "CLT09"
+    },
+    {
+        "Dars": "DARUL HIDAYA ORKKATTERI",
+        "Place": "ORKKATTERI",
+        "DarsCode": "CLT10"
+    },
+    {
+        "Dars": "BAYANUL ULOOM  VALLIYAD",
+        "Place": "VALLIYAD",
+        "DarsCode": "CLT11"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA PALLITHAZHAM",
+        "Place": "PALLITHAZHAM",
+        "DarsCode": "CLT12"
+    },
+    {
+        "Dars": "RIYALUSWALIHEEN KODUVALLY",
+        "Place": "KODUVALLY",
+        "DarsCode": "CLT13"
+    },
+    {
+        "Dars": "DARUL HIDAYA PURAYIL",
+        "Place": "PURAYIL",
+        "DarsCode": "CLT14"
+    },
+    {
+        "Dars": "MACHAKULAM DARS PULLALUR",
+        "Place": "PULLALUR",
+        "DarsCode": "CLT15"
+    },
+    {
+        "Dars": "DARUL HIDAYA THALAYAD",
+        "Place": "THALAYAD",
+        "DarsCode": "CLT16"
+    },
+    {
+        "Dars": "JAMALIYYA PUTHIYOTH",
+        "Place": "PUTHIYOTH",
+        "DarsCode": "CLT17"
+    },
+    {
+        "Dars": "BAYANUL ULOOM  PARAPPARA",
+        "Place": "PARAPPARA",
+        "DarsCode": "CLT18"
+    },
+    {
+        "Dars": "SHAMSUL ULAMA KOODATHAYI",
+        "Place": "KOODATHAYI",
+        "DarsCode": "CLT19"
+    },
+    {
+        "Dars": "DARUL HIDAYA KALARANTHIRI",
+        "Place": "KALARANTHIRI",
+        "DarsCode": "CLT20"
+    },
+    {
+        "Dars": "ALNOOR KATHARAMMAL",
+        "Place": "KATHARAMMAL",
+        "DarsCode": "CLT21"
+    },
+    {
+        "Dars": "SHAMSUL HUDA KAREETIPARAMBA",
+        "Place": "KAREETIPARAMBA",
+        "DarsCode": "CLT22"
+    },
+    {
+        "Dars": "HAYATHUL ISLAM OMASSERI",
+        "Place": "OMASSERI",
+        "DarsCode": "CLT23"
+    },
+    {
+        "Dars": "MANBAUL HUDA KINASSERI",
+        "Place": "KINASSERI",
+        "DarsCode": "CLT24"
+    },
+    {
+        "Dars": "BAYANUL ULOOM  MANKAVU",
+        "Place": "MANKAVU",
+        "DarsCode": "CLT25"
+    },
+    {
+        "Dars": "RIYALUL JINAN KEEZHPAYUR",
+        "Place": "KEEZHPAYUR",
+        "DarsCode": "CLT26"
+    },
+    {
+        "Dars": "PPIMMA PULLALOOR",
+        "Place": "PULLALOOR",
+        "DarsCode": "CLT27"
+    },
+    {
+        "Dars": "NOORUTWALABA ALANALLUR",
+        "Place": "ALANALLUR",
+        "DarsCode": "PKD01"
+    },
+    {
+        "Dars": "MUEENU TWALABA KUMARAMPUTHUR",
+        "Place": "KUMARAMPUTHUR",
+        "DarsCode": "PKD02"
+    },
+    {
+        "Dars": "JEELANI DARS AMBAMKUNNU",
+        "Place": "AMBAMKUNNU",
+        "DarsCode": "PKD03"
+    },
+    {
+        "Dars": "AL MARJAN KALLADIKKODE",
+        "Place": "KALLADIKKODE",
+        "DarsCode": "PKD04"
+    },
+    {
+        "Dars": "NOORUL HUDA  PUTTANIKKAD",
+        "Place": "PUTTANIKKAD",
+        "DarsCode": "PKD05"
+    },
+    {
+        "Dars": "NAJMUL HUDA MANALADI",
+        "Place": "MANALADI",
+        "DarsCode": "PKD06"
+    },
+    {
+        "Dars": "AL AQSA VALLUVAMPUZHA",
+        "Place": "VALLUVAMPUZHA",
+        "DarsCode": "PKD07"
+    },
+    {
+        "Dars": "JALALIYYA KUNTHIPPUZHA",
+        "Place": "KUNTHIPPUZHA",
+        "DarsCode": "PKD08"
+    },
+    {
+        "Dars": "KMIC THEYYOTTUCHIRA",
+        "Place": "THEYYOTTUCHIRA",
+        "DarsCode": "PKD09"
+    },
+    {
+        "Dars": "KHIDMATHUL MOULA PARAPURATH",
+        "Place": "PARAPURATH",
+        "DarsCode": "PKD10"
+    },
+    {
+        "Dars": "MANBAUL IHSAN CHANGALEERI",
+        "Place": "CHANGALEERI",
+        "DarsCode": "PKD11"
+    },
+    {
+        "Dars": "ASBABUL ISLAM PARAMMAL",
+        "Place": "PARAMMAL",
+        "DarsCode": "PKD12"
+    },
+    {
+        "Dars": "MA'DINUL ULOOM KULAPARAMBA",
+        "Place": "KULAPARAMBA",
+        "DarsCode": "PKD13"
+    },
+    {
+        "Dars": "JALALIYYA KACHERIPARAMBA",
+        "Place": "KACHERIPARAMBA",
+        "DarsCode": "PKD14"
+    },
+    {
+        "Dars": "MANBAUL KHUTHABA KOTTOPADAM",
+        "Place": "KOTTOPADAM",
+        "DarsCode": "PKD15"
+    },
+    {
+        "Dars": "ANSWAR DARS MELMURI",
+        "Place": "MELMURI",
+        "DarsCode": "PKD16"
+    },
+    {
+        "Dars": "ROULATHUL ULOOM NEDUNGOTTUR",
+        "Place": "NEDUNGOTTUR",
+        "DarsCode": "PKD17"
+    },
+    {
+        "Dars": "NOORU TWALABA KAIPURAM",
+        "Place": "KAIPURAM",
+        "DarsCode": "PKD18"
+    },
+    {
+        "Dars": "MAKHDOOMIYA VILATHUR",
+        "Place": "VILATHUR",
+        "DarsCode": "PKD19"
+    },
+    {
+        "Dars": "HIDAYATHU RAHMA PAZHANCHEERI",
+        "Place": "PAZHANCHEERI",
+        "DarsCode": "PKD20"
+    },
+    {
+        "Dars": "IRSHADU TWALABA PALAKKODE",
+        "Place": "PALAKKODE",
+        "DarsCode": "PKD21"
+    },
+    {
+        "Dars": "VANDUMTHARA DARS VANDUMTHARA",
+        "Place": "VANDUMTHARA",
+        "DarsCode": "PKD22"
+    },
+    {
+        "Dars": "RABBANI KOOTTANAD",
+        "Place": "KOOTTANAD",
+        "DarsCode": "PKD23"
+    },
+    {
+        "Dars": "HIDAYATHU RAHMA VADAKKUMURI",
+        "Place": "VADAKKUMURI",
+        "DarsCode": "PKD24"
+    },
+    {
+        "Dars": "MADEENATHUL ILM THEKKUMMALA",
+        "Place": "THEKKUMMALA",
+        "DarsCode": "PKD25"
+    },
+    {
+        "Dars": "RABBANIYYA PATTAMBI",
+        "Place": "PATTAMBI",
+        "DarsCode": "PKD26"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA AMAYUR",
+        "Place": "AMAYUR",
+        "DarsCode": "PKD27"
+    },
+    {
+        "Dars": "KAUKABU TWALABA VALLAPPUZHA",
+        "Place": "VALLAPPUZHA",
+        "DarsCode": "PKD28"
+    },
+    {
+        "Dars": "SUBULUSSALAM KURUVATTUR",
+        "Place": "KURUVATTUR",
+        "DarsCode": "PKD29"
+    },
+    {
+        "Dars": "IRSHADU TWALABA CHERPULASSERI",
+        "Place": "CHERPULASSERI",
+        "DarsCode": "PKD30"
+    },
+    {
+        "Dars": "HIDAYATHU RAHMA IRUMBALASSERI",
+        "Place": "IRUMBALASSERI",
+        "DarsCode": "PKD31"
+    },
+    {
+        "Dars": "MUNAVVIRUL ISLAM CHALAVARA",
+        "Place": "CHALAVARA",
+        "DarsCode": "PKD32"
+    },
+    {
+        "Dars": "MISBAHUL HUDA MOLOOR",
+        "Place": "MOLOOR",
+        "DarsCode": "PKD33"
+    },
+    {
+        "Dars": "ALASHBAL MARAYAMANGALAM",
+        "Place": "MARAYAMANGALAM",
+        "DarsCode": "PKD34"
+    },
+    {
+        "Dars": "BADRIYYA MAJLIS NELLAYA",
+        "Place": "NELLAYA",
+        "DarsCode": "PKD35"
+    },
+    {
+        "Dars": "SABEELURASHAD PATTISSERI",
+        "Place": "PATTISSERI",
+        "DarsCode": "PKD36"
+    },
+    {
+        "Dars": "DARUL ANWAR  NELLAYA",
+        "Place": "NELLAYA",
+        "DarsCode": "PKD37"
+    },
+    {
+        "Dars": "THAMREENU TWALABA KARUKAPUTHUR",
+        "Place": "KARUKAPUTHUR",
+        "DarsCode": "PKD38"
+    },
+    {
+        "Dars": "MUNAVVIRUL ISLAM VALLAPPUZHA",
+        "Place": "VALLAPPUZHA",
+        "DarsCode": "PKD39"
+    },
+    {
+        "Dars": "DARUL HIDAYA THIRUVEGAPPURA",
+        "Place": "THIRUVEGAPPURA",
+        "DarsCode": "PKD40"
+    },
+    {
+        "Dars": "BAYANUL ULOOM MUTTICHIRA",
+        "Place": "MUTTICHIRA",
+        "DarsCode": "MLP01"
+    },
+    {
+        "Dars": "IRSHADU TWALABA MULLAMBARA",
+        "Place": "MULLAMBARA",
+        "DarsCode": "MLP02"
+    },
+    {
+        "Dars": "BAYANUL ULOOM PUTHENTHERU",
+        "Place": "PUTHENTHERU",
+        "DarsCode": "MLP03"
+    },
+    {
+        "Dars": "FIRDOUSUL ULOOM VADAKKUMURI",
+        "Place": "VADAKKUMURI",
+        "DarsCode": "MLP04"
+    },
+    {
+        "Dars": "JAMALIYYA DARS VATTAPPARAMBA",
+        "Place": "VATTAPPARAMBA",
+        "DarsCode": "MLP05"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA MUTTIPPALAM",
+        "Place": "MUTTIPPALAM",
+        "DarsCode": "MLP06"
+    },
+    {
+        "Dars": "ANSWAWRUL ISLAM PALAPPURA",
+        "Place": "PALAPPURA",
+        "DarsCode": "MLP07"
+    },
+    {
+        "Dars": "ALATHURPADI DARS ALATHURPADI",
+        "Place": "ALATHURPADI",
+        "DarsCode": "MLP08"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA VALANCHERI",
+        "Place": "VALANCHERI",
+        "DarsCode": "MLP09"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA PANAMBRA",
+        "Place": "PANAMBRA",
+        "DarsCode": "MLP10"
+    },
+    {
+        "Dars": "MFSS KIDANGAYAM",
+        "Place": "KIDANGAYAM",
+        "DarsCode": "MLP11"
+    },
+    {
+        "Dars": "SIRAJUL ULAMA ODOMPATTA",
+        "Place": "ODOMPATTA",
+        "DarsCode": "MLP12"
+    },
+    {
+        "Dars": "MYLAPPURAM DARS MYLAPPURAM",
+        "Place": "MYLAPPURAM",
+        "DarsCode": "MLP13"
+    },
+    {
+        "Dars": "FATHHUNNUR IRUMBUZHI",
+        "Place": "IRUMBUZHI",
+        "DarsCode": "MLP14"
+    },
+    {
+        "Dars": "ZEENATHU TWALABA CHERIYAMUNDAM",
+        "Place": "CHERIYAMUNDAM",
+        "DarsCode": "MLP15"
+    },
+    {
+        "Dars": "SIRAJUL ULAMA CHENGUVETTY",
+        "Place": "CHENGUVETTY",
+        "DarsCode": "MLP16"
+    },
+    {
+        "Dars": "NOORUL ISLAM OTTATHARA",
+        "Place": "OTTATHARA",
+        "DarsCode": "MLP17"
+    },
+    {
+        "Dars": "NOORUL ISLAM KIDANGAZHI",
+        "Place": "KIDANGAZHI",
+        "DarsCode": "MLP18"
+    },
+    {
+        "Dars": "IHYAUL ULOOM KAVANUR",
+        "Place": "KAVANUR",
+        "DarsCode": "MLP19"
+    },
+    {
+        "Dars": "JALALI DARS THAVARAMPARAMBA",
+        "Place": "THAVARAMPARAMBA",
+        "DarsCode": "MLP20"
+    },
+    {
+        "Dars": "MANSHAUL ULOOM  PUTHUPARAMBA",
+        "Place": "PUTHUPARAMBA",
+        "DarsCode": "MLP21"
+    },
+    {
+        "Dars": "SABEELURASHAD VETTUPARA",
+        "Place": "VETTUPARA",
+        "DarsCode": "MLP22"
+    },
+    {
+        "Dars": "QADIRIYYA DARS  PALATHARA",
+        "Place": "PALATHARA",
+        "DarsCode": "MLP23"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA PULIKKODE",
+        "Place": "PULIKKODE",
+        "DarsCode": "MLP24"
+    },
+    {
+        "Dars": "MADEENATHUL ULOOM CHUNGAM",
+        "Place": "CHUNGAM",
+        "DarsCode": "MLP25"
+    },
+    {
+        "Dars": "MA'DINUL ULOOM KIZHAKKUMPADAM",
+        "Place": "KIZHAKKUMPADAM",
+        "DarsCode": "MLP26"
+    },
+    {
+        "Dars": "DARUL HIDAYA PANANGANGARA",
+        "Place": "PANANGANGARA",
+        "DarsCode": "MLP27"
+    },
+    {
+        "Dars": "MADARUSSA'ADA PANDIKKAD",
+        "Place": "PANDIKKAD",
+        "DarsCode": "MLP28"
+    },
+    {
+        "Dars": "IRSHADU TWALIBEEN ACHANAMBALAM",
+        "Place": "ACHANAMBALAM",
+        "DarsCode": "MLP29"
+    },
+    {
+        "Dars": "AL JAVAHIR  CHEEKODE",
+        "Place": "CHEEKODE",
+        "DarsCode": "MLP30"
+    },
+    {
+        "Dars": "BUSTHAUL ULOOM KOTTAPPURAM",
+        "Place": "KOTTAPPURAM",
+        "DarsCode": "MLP31"
+    },
+    {
+        "Dars": "BAYANUL ULOOM ARIMBRA",
+        "Place": "ARIMBRA",
+        "DarsCode": "MLP32"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA VAZHAKKAD",
+        "Place": "VAZHAKKAD",
+        "DarsCode": "MLP33"
+    },
+    {
+        "Dars": "MASLAKUL ANWAR CHERUSHOLA",
+        "Place": "CHERUSHOLA",
+        "DarsCode": "MLP34"
+    },
+    {
+        "Dars": "SOUTHUSHAREE'A EDAKKARA",
+        "Place": "EDAKKARA",
+        "DarsCode": "MLP35"
+    },
+    {
+        "Dars": "IRSUL AMBIYA THANNIKKADAVU",
+        "Place": "THANNIKKADAVU",
+        "DarsCode": "MLP36"
+    },
+    {
+        "Dars": "SOUTHUSHAREE'A EDAKKARA PALATHINGAL",
+        "Place": "EDAKKARA PALATHINGAL",
+        "DarsCode": "MLP37"
+    },
+    {
+        "Dars": "THAMREENU TWALABA POOKOTUMPADAM",
+        "Place": "POOKOTUMPADAM",
+        "DarsCode": "MLP38"
+    },
+    {
+        "Dars": "NOORUL HUDA KARULAI",
+        "Place": "KARULAI",
+        "DarsCode": "MLP39"
+    },
+    {
+        "Dars": "HIDAYATHU TWALABA MOOTHEDAM",
+        "Place": "MOOTHEDAM",
+        "DarsCode": "MLP40"
+    },
+    {
+        "Dars": "HIDAYATHU TWALABA THRIKKALANGODE",
+        "Place": "THRIKKALANGODE",
+        "DarsCode": "MLP41"
+    },
+    {
+        "Dars": "THAMREENU TWALABA PULLANCHERI",
+        "Place": "PULLANCHERI",
+        "DarsCode": "MLP42"
+    },
+    {
+        "Dars": "MANBAUL ULOOM VENNIYUR",
+        "Place": "VENNIYUR",
+        "DarsCode": "MLP43"
+    },
+    {
+        "Dars": "ISHA'ATHUSSUNNA PULLARA",
+        "Place": "PULLARA",
+        "DarsCode": "MLP44"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA KODINHI",
+        "Place": "KODINHI",
+        "DarsCode": "MLP45"
+    },
+    {
+        "Dars": "NIBRASUL ISLAM ANANTHAVOOR",
+        "Place": "ANANTHAVOOR",
+        "DarsCode": "MLP46"
+    },
+    {
+        "Dars": "WIRASATHUL ULAMA VANIYANNUR",
+        "Place": "VANIYANNUR",
+        "DarsCode": "MLP47"
+    },
+    {
+        "Dars": "SABEELUL HUDA THODIKUTHIPARAMBA",
+        "Place": "THODIKUTHIPARAMBA",
+        "DarsCode": "MLP49"
+    },
+    {
+        "Dars": "RABBANIYYA WEST VILLUR",
+        "Place": "WEST VILLUR",
+        "DarsCode": "MLP50"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA KONOMPARA",
+        "Place": "KONOMPARA",
+        "DarsCode": "MLP51"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA MUTHIRIPARAMBA",
+        "Place": "MUTHIRIPARAMBA",
+        "DarsCode": "MLP52"
+    },
+    {
+        "Dars": "RAHMANIYA  PANANGANGARA",
+        "Place": "PANANGANGARA",
+        "DarsCode": "MLP53"
+    },
+    {
+        "Dars": "HIMAYATHUL BAYAN KARUVARAKUNDU",
+        "Place": "KARUVARAKUNDU",
+        "DarsCode": "MLP54"
+    },
+    {
+        "Dars": "ANSWARUL ULOOM PALAKKAL VETTA",
+        "Place": "PALAKKAL VETTA",
+        "DarsCode": "MLP55"
+    },
+    {
+        "Dars": "BAHJATHUL HUDA KODANGAD",
+        "Place": "KODANGAD",
+        "DarsCode": "MLP56"
+    },
+    {
+        "Dars": "SIRAJUL ULAMA  THARISH",
+        "Place": "THARISH",
+        "DarsCode": "MLP57"
+    },
+    {
+        "Dars": "SIRAJUL ULAMA  MAMPUZHA",
+        "Place": "MAMPUZHA",
+        "DarsCode": "MLP58"
+    },
+    {
+        "Dars": "MISBAHUL HUDA  KANNATH",
+        "Place": "KANNATH",
+        "DarsCode": "MLP59"
+    },
+    {
+        "Dars": "RABBANI VELOOR",
+        "Place": "VELOOR",
+        "DarsCode": "MLP61"
+    },
+    {
+        "Dars": "MANBAUL KHUTHABA CHERUPUTHUR",
+        "Place": "CHERUPUTHUR",
+        "DarsCode": "MLP62"
+    },
+    {
+        "Dars": "MANBAUL KHUTHABA ARIMBRA",
+        "Place": "ARIMBRA",
+        "DarsCode": "MLP63"
+    },
+    {
+        "Dars": "IRSHADU TWALABA MUSLIYARANGADI",
+        "Place": "MUSLIYARANGADI",
+        "DarsCode": "MLP64"
+    },
+    {
+        "Dars": "MANBAUL HUDA KOLATHUR",
+        "Place": "KOLATHUR",
+        "DarsCode": "MLP66"
+    },
+    {
+        "Dars": "HIDAYATHU TWALABA PULIYAKKODE",
+        "Place": "PULIYAKKODE",
+        "DarsCode": "MLP67"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA KUZHIMANNA",
+        "Place": "KUZHIMANNA",
+        "DarsCode": "MLP68"
+    },
+    {
+        "Dars": "SIRAJUL ULAMA  KUTTASSERI",
+        "Place": "KUTTASSERI",
+        "DarsCode": "MLP71"
+    },
+    {
+        "Dars": "MQS PACHEERI",
+        "Place": "PACHEERI",
+        "DarsCode": "MLP72"
+    },
+    {
+        "Dars": "SIRAJUL ULAMA  POOKULATHUR",
+        "Place": "POOKULATHUR",
+        "DarsCode": "MLP73"
+    },
+    {
+        "Dars": "MA'DINUL ULOOM  KUMMINIPPARA",
+        "Place": "KUMMINIPPARA",
+        "DarsCode": "MLP74"
+    },
+    {
+        "Dars": "DA'WATHU TWALABA KACHINIKKAD",
+        "Place": "KACHINIKKAD",
+        "DarsCode": "MLP75"
+    },
+    {
+        "Dars": "ALEEQAL CHEMBRA",
+        "Place": "CHEMBRA",
+        "DarsCode": "MLP77"
+    },
+    {
+        "Dars": "ALEEQAL PURATHUR",
+        "Place": "PURATHUR",
+        "DarsCode": "MLP78"
+    },
+    {
+        "Dars": "NOORUTWALABA CHOLAKKAL",
+        "Place": "CHOLAKKAL",
+        "DarsCode": "MLP79"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA KUNDAMKADAVU",
+        "Place": "KUNDAMKADAVU",
+        "DarsCode": "MLP80"
+    },
+    {
+        "Dars": "JOUHARUL ULOOM VELLANCHERI",
+        "Place": "VELLANCHERI",
+        "DarsCode": "MLP82"
+    },
+    {
+        "Dars": "MANBAUSSUADA' PULLURAL",
+        "Place": "PULLURAL",
+        "DarsCode": "MLP83"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA INDIANOOR",
+        "Place": "INDIANOOR",
+        "DarsCode": "MLP84"
+    },
+    {
+        "Dars": "JAWAHIRUSSUNNA KOTTAKUNNU",
+        "Place": "KOTTAKUNNU",
+        "DarsCode": "MLP85"
+    },
+    {
+        "Dars": "BUSTHANU TWALIBEEN AMMINIKKAD",
+        "Place": "AMMINIKKAD",
+        "DarsCode": "MLP86"
+    },
+    {
+        "Dars": "SUBULUSSALAM KOZHIPPURAM",
+        "Place": "KOZHIPPURAM",
+        "DarsCode": "MLP87"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA PARAPPANANGADI",
+        "Place": "PARAPPANANGADI",
+        "DarsCode": "MLP89"
+    },
+    {
+        "Dars": "ANSWARUL ISLAM VADAKKUMURI",
+        "Place": "VADAKKUMURI",
+        "DarsCode": "MLP93"
+    },
+    {
+        "Dars": "NOORUL HUDA UGRAPURAM",
+        "Place": "UGRAPURAM",
+        "DarsCode": "MLP94"
+    },
+    {
+        "Dars": "TWALABATHUSSUFFA MANKADA",
+        "Place": "MANKADA",
+        "DarsCode": "MLP95"
+    },
+    {
+        "Dars": "FATHHUL ULOOM PADINHATTUMURI",
+        "Place": "PADINHATTUMURI",
+        "DarsCode": "MLP96"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA MORAYUR",
+        "Place": "MORAYUR",
+        "DarsCode": "MLP97"
+    },
+    {
+        "Dars": "MISBAHUTWALABA VELLERI",
+        "Place": "VELLERI",
+        "DarsCode": "MLP99"
+    },
+    {
+        "Dars": "BAYANUL ULOOM IRUMBUCHOLA",
+        "Place": "IRUMBUCHOLA",
+        "DarsCode": "MLP101"
+    },
+    {
+        "Dars": "MA'DINUL ULOOM  ATHANIPPADI",
+        "Place": "ATHANIPPADI",
+        "DarsCode": "MLP102"
+    },
+    {
+        "Dars": "THAMREENU TWALABA VEENALUKKAL",
+        "Place": "VEENALUKKAL",
+        "DarsCode": "MLP103"
+    },
+    {
+        "Dars": "AHLUSSUFFA CHOLAKKAL",
+        "Place": "CHOLAKKAL",
+        "DarsCode": "MLP104"
+    },
+    {
+        "Dars": "NUSRATHUL ISLAM MAKKARAPPARAMBA",
+        "Place": "MAKKARAPPARAMBA",
+        "DarsCode": "MLP105"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA CHERUKULAMBA",
+        "Place": "CHERUKULAMBA",
+        "DarsCode": "MLP106"
+    },
+    {
+        "Dars": "DARU THANWEER KOOMANNA, CHENAKKAL",
+        "Place": "KOOMANNA, CHENAKKAL",
+        "DarsCode": "MLP108"
+    },
+    {
+        "Dars": "RABBANIYYA POOKKOTTUR",
+        "Place": "POOKKOTTUR",
+        "DarsCode": "MLP109"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA PULIYATTUKULAM",
+        "Place": "PULIYATTUKULAM",
+        "DarsCode": "MLP110"
+    },
+    {
+        "Dars": "IMADAU TWALABA KORANGATH",
+        "Place": "KORANGATH",
+        "DarsCode": "MLP111"
+    },
+    {
+        "Dars": "NOORANIYA PAPPINIPPARA",
+        "Place": "PAPPINIPPARA",
+        "DarsCode": "MLP112"
+    },
+    {
+        "Dars": "DARUL HIDAYA  EDAVANNAPPARA",
+        "Place": "EDAVANNAPPARA",
+        "DarsCode": "MLP113"
+    },
+    {
+        "Dars": "KUZHICHENA JM KUZHICHENA",
+        "Place": "KUZHICHENA",
+        "DarsCode": "MLP114"
+    },
+    {
+        "Dars": "BAYANUL ULOOM MUTHUVALLUR",
+        "Place": "MUTHUVALLUR",
+        "DarsCode": "MLP115"
+    },
+    {
+        "Dars": "MKSA OLAPPEEDIKA",
+        "Place": "OLAPPEEDIKA",
+        "DarsCode": "MLP116"
+    },
+    {
+        "Dars": "MKSA PUTHIYAKADAPPURAM",
+        "Place": "PUTHIYAKADAPPURAM",
+        "DarsCode": "MLP117"
+    },
+    {
+        "Dars": "NOORANI  OMANUR PALLIPURAYA",
+        "Place": "OMANUR PALLIPURAYA",
+        "DarsCode": "MLP118"
+    },
+    {
+        "Dars": "DARUL ULOOM THINDALAM CK PARA",
+        "Place": "THINDALAM CK PARA",
+        "DarsCode": "MLP119"
+    },
+    {
+        "Dars": "TTS NELLIKKUNNU",
+        "Place": "NELLIKKUNNU",
+        "DarsCode": "MLP120"
+    },
+    {
+        "Dars": "SUBULUSSALAM KIZHISSERI",
+        "Place": "KIZHISSERI",
+        "DarsCode": "MLP121"
+    },
+    {
+        "Dars": "KODASSERI KARAYA",
+        "Place": "KARAYA",
+        "DarsCode": "MLP122"
+    },
+    {
+        "Dars": "BAYANUL ULOOM PADAPPARAMBA",
+        "Place": "PADAPPARAMBA",
+        "DarsCode": "MLP123"
+    },
+    {
+        "Dars": "JAMALULLAIL AYYAYA",
+        "Place": "AYYAYA",
+        "DarsCode": "MLP124"
+    },
+    {
+        "Dars": "MANBAUL IHSAN KONDIPARAMBA",
+        "Place": "KONDIPARAMBA",
+        "DarsCode": "MLP125"
+    },
+    {
+        "Dars": "MANBAUL ULOOM PADIKKAL",
+        "Place": "PADIKKAL",
+        "DarsCode": "MLP126"
+    },
+    {
+        "Dars": "IHSAN PULLUR",
+        "Place": "PULLUR",
+        "DarsCode": "MLP127"
+    },
+    {
+        "Dars": "SHAMSUL HUDA PUKAYUR",
+        "Place": "PUKAYUR",
+        "DarsCode": "MLP128"
+    },
+    {
+        "Dars": "THARBIYATHUL MUTHA'ALLIMEEN THARAYITTAL",
+        "Place": "THARAYITTAL",
+        "DarsCode": "MLP129"
+    },
+    {
+        "Dars": "JOUHARATHUL ULOOM VALAMANGALAM",
+        "Place": "VALAMANGALAM",
+        "DarsCode": "MLP130"
+    },
+    {
+        "Dars": "EDAKKULAM DARS EDAKKULAM",
+        "Place": "EDAKKULAM",
+        "DarsCode": "MLP131"
+    },
+    {
+        "Dars": "BADRUL HUDA KOOMANNA, CHENAKKAL",
+        "Place": "KOOMANNA, CHENAKKAL",
+        "DarsCode": "MLP132"
+    },
+    {
+        "Dars": "RABBANI VALLIKKAPATTA",
+        "Place": "VALLIKKAPATTA",
+        "DarsCode": "MLP133"
+    },
+    {
+        "Dars": "ANWARUL HUDA MEENARKUZHI",
+        "Place": "MEENARKUZHI",
+        "DarsCode": "MLP134"
+    },
+    {
+        "Dars": "NAJMUL HUDA VENGARA",
+        "Place": "VENGARA",
+        "DarsCode": "MLP135"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA KADUNGALLUR",
+        "Place": "KADUNGALLUR",
+        "DarsCode": "MLP136"
+    },
+    {
+        "Dars": "KADOOPURAM DARS KOOTILANGADI",
+        "Place": "KOOTILANGADI",
+        "DarsCode": "MLP137"
+    },
+    {
+        "Dars": "MUNAVVIRUL ISLAM KALADI",
+        "Place": "KALADI",
+        "DarsCode": "MLP138"
+    },
+    {
+        "Dars": "MURSHIDUL ANAM MANUR",
+        "Place": "MANUR",
+        "DarsCode": "MLP139"
+    },
+    {
+        "Dars": "ALEEQAL ALATHIYUR",
+        "Place": "ALATHIYUR",
+        "DarsCode": "MLP140"
+    },
+    {
+        "Dars": "MA'DINUL ULOOM  PERASHANNUR",
+        "Place": "PERASHANNUR",
+        "DarsCode": "MLP141"
+    },
+    {
+        "Dars": "DARAJATHUL ULOOM CHEPYALAM",
+        "Place": "CHEPYALAM",
+        "DarsCode": "MLP142"
+    },
+    {
+        "Dars": "THAMREENU TWALABA RANGATTUR",
+        "Place": "RANGATTUR",
+        "DarsCode": "MLP143"
+    },
+    {
+        "Dars": "MARKAZUL ULAMA KAKKOVE",
+        "Place": "KAKKOVE",
+        "DarsCode": "MLP144"
+    },
+    {
+        "Dars": "BAYANUL ULOOM OMACHAPPUZHA",
+        "Place": "OMACHAPPUZHA",
+        "DarsCode": "MLP145"
+    },
+    {
+        "Dars": "SUBULUL HUDA KUZHIMANNA",
+        "Place": "KUZHIMANNA",
+        "DarsCode": "MLP146"
+    },
+    {
+        "Dars": "MANBAUL ULOOM ELAMKULAM",
+        "Place": "ELAMKULAM",
+        "DarsCode": "MLP147"
+    },
+    {
+        "Dars": "NOORUTWALABA VEEMBOOR",
+        "Place": "VEEMBOOR",
+        "DarsCode": "MLP149"
+    },
+    {
+        "Dars": "DARUL HIDAYA  VELLILA",
+        "Place": "VELLILA",
+        "DarsCode": "MLP150"
+    },
+    {
+        "Dars": "RABBANIYA PUTHANAZHI",
+        "Place": "PUTHANAZHI",
+        "DarsCode": "MLP151"
+    },
+    {
+        "Dars": "THAMREENU TWALABA PAVITTAPPURAM",
+        "Place": "PAVITTAPPURAM",
+        "DarsCode": "MLP152"
+    },
+    {
+        "Dars": "BADRIYYA KAPPU",
+        "Place": "KAPPU",
+        "DarsCode": "MLP153"
+    },
+    {
+        "Dars": "ZIYAUL ISLAM PANAYAPPURAM",
+        "Place": "PANAYAPPURAM",
+        "DarsCode": "MLP154"
+    },
+    {
+        "Dars": "DARSUL IHSAN SUFFA MUNDITHODIKA",
+        "Place": "MUNDITHODIKA",
+        "DarsCode": "MLP155"
+    },
+    {
+        "Dars": "DARUL ULOOM KORAD",
+        "Place": "KORAD",
+        "DarsCode": "MLP156"
+    }
 ]

@@ -1,9 +1,10 @@
-"use client";
+'use client'
 import React, { useEffect, useRef, useState } from "react";
 import { useReactToPrint } from "react-to-print";
 import studentsData from "../../data/students.json";
 import subjects from "../../data/subjects.json";
-import darscodeData from "../../data/dars.json";
+import institutionsData from "../../data/institutions.json";
+import darsAuthData from "../../data/dars.json";
 
 // Define Types
 type Student = {
@@ -18,14 +19,15 @@ type Student = {
   "Mark 2"?: string | number;
 };
 
-type Dars = {
+type DarsAuth = {
   Dars: string;
   Place: string;
   DarsCode: string;
 };
 
 const students = studentsData as unknown as Student[];
-const darscode = darscodeData as unknown as Dars[];
+const institutions = institutionsData as unknown as string[];
+const darsAuth = darsAuthData as unknown as DarsAuth[];
 
 const page = () => {
   const [username, setUsername] = useState<string>("");
@@ -33,6 +35,7 @@ const page = () => {
   const [selectedSubject, setSelectedSubject] = useState<string>("I1");
   const [query, setQuery] = useState<string>("");
   const [category, setCategory] = useState<string>("I");
+  const [selectedDars, setSelectedDars] = useState<string>("");
   const darsesToSubject: any = [];
   const categories = [
     {
@@ -50,6 +53,12 @@ const page = () => {
       startId: "A1",
     },
   ];
+
+  const sectionMap: { [key: string]: string } = {
+    I: "المرحلة الإبتدائية",
+    M: "المرحلة المتوسطة",
+    A: "المرحلة العالية",
+  };
 
   useEffect(() => {
     // localStorage might not be present on server
@@ -73,8 +82,8 @@ const page = () => {
   };
 
   const getDarsCode = (institution: string, place: string) => {
-    // Try to find by direct match or partial match
-    const found = darscode.find(d =>
+    // Try to find by direct match or partial match in darsAuth (for codes)
+    const found = darsAuth.find(d =>
       d.Dars === institution ||
       d.Dars.toLowerCase() === institution.toLowerCase() ||
       (d.Place && place && d.Place.toLowerCase() === place.toLowerCase())
@@ -82,13 +91,28 @@ const page = () => {
     return found ? found.DarsCode : "";
   }
 
+  const currentDars = darsAuth.find(d => d.DarsCode === username);
+
+  const filteredStudents = students.filter(student => {
+    // 1. Filter by Section
+    const sectionMatch = student.Section === sectionMap[category];
+
+    // 2. Filter by Institution
+    // If logged in as Dars, strictly filter by that Dars.
+    // Otherwise, check if a Dars is selected in the dropdown.
+    let institutionMatch = true;
+    if (currentDars) {
+      institutionMatch = student.Institution === currentDars.Dars;
+    } else if (selectedDars) {
+      institutionMatch = student.Institution === selectedDars;
+    }
+
+    return sectionMatch && institutionMatch;
+  });
+
   function getDarsesToSubject() {
-    students
-      .filter(
-        (student) =>
-          normalizeSubjectCode(student["Subject 1 Code"]) === selectedSubject ||
-          normalizeSubjectCode(student["Subject 2 Code"]) === selectedSubject
-      )
+    darsesToSubject.length = 0;
+    filteredStudents
       .map((student) =>
         darsesToSubject.includes(student.Institution)
           ? null
@@ -106,6 +130,22 @@ const page = () => {
         <img src="/Logo.png" alt="" className="w-[30%]" />
       </div>
       <div className="flex flex-col justify-center items-center border-2 border-dotted border-black p-1 rounded-lg mt-5">
+
+        {!currentDars && (
+          <select
+            className="text-center text-md text-black font-semibold rounded-lg p-1 font-arabic border-b-2 border-dotted border-black mb-2 remove-arrow w-full"
+            onChange={(e) => setSelectedDars(e.target.value)}
+            value={selectedDars}
+          >
+            <option value="">All Dars</option>
+            {institutions.map((dars, index) => (
+              <option key={index} value={dars}>
+                {dars}
+              </option>
+            ))}
+          </select>
+        )}
+
         <select
           className="text-center text-2xl text-black font-semibold rounded-lg p-1 font-arabic remove-arrow"
           onChange={(e) => setSelectedSubject(e.target.value)}
@@ -149,11 +189,7 @@ const page = () => {
           <p className="flex justify-center items-center text-base font-semibold  uppercase border-black bg-white text-black border-2 px-1 py-0.5 border-dotted rounded-md gap-1">
             students:
             {
-              students.filter(
-                (student) =>
-                  normalizeSubjectCode(student["Subject 1 Code"]) === selectedSubject ||
-                  normalizeSubjectCode(student["Subject 2 Code"]) === selectedSubject
-              ).length
+              filteredStudents.length
             }{" "}
           </p>
         </div>
@@ -181,19 +217,12 @@ const page = () => {
         <p className="w-96 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
           Name
         </p>
-        <p className="w-40 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-          DarsCode
-        </p>
+     
         <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
           Mark
         </p>
       </div>
-      {students
-        .filter(
-          (student) =>
-            normalizeSubjectCode(student["Subject 1 Code"]) === selectedSubject ||
-            normalizeSubjectCode(student["Subject 2 Code"]) === selectedSubject
-        )
+      {filteredStudents
         .map((student, index) => (
           <div key={index} className="flex w-full justify-center">
             <p className="w-20 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
@@ -204,9 +233,6 @@ const page = () => {
             </p>
             <p className="w-96 text-left line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               {student.Name}
-            </p>
-            <p className="w-40 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
-              {getDarsCode(student.Institution, student.Place)}
             </p>
             <p className="w-28 text-center line-clamp-1 font-semibold pl-2 border-[1px] border-black text-sm">
               {normalizeSubjectCode(student["Subject 1 Code"]) === selectedSubject ? student["Mark 1"] : student["Mark 2"]}
