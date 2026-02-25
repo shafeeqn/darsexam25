@@ -333,7 +333,7 @@ export default function ResultsRegister({ institutions }: ResultsRegisterProps) 
                                             <td className="border border-gray-900 p-1 text-right font-arabic" dir="rtl">{r['Subject 1']}</td>
                                             <td className="border border-gray-900 p-1 text-center font-medium">{r['Mark 1'] ?? '-'}</td>
                                             <td className="border border-gray-900 p-1 text-center font-mono">{r['Subject 2 Code']}</td>
-                                            <td className="border border-gray-900 p-1 text-right font-arabic" dir="rtl">{(r as any)['Subject 2 '] || (r as any)['Subject 2'] || '-'}</td>
+                                            <td className="border border-gray-900 p-1 text-right font-arabic" dir="rtl">{(r as Record<string, any>)['Subject 2 '] || (r as Record<string, any>)['Subject 2'] || '-'}</td>
                                             <td className="border border-gray-900 p-1 text-center font-medium">{r['Mark 2'] ?? '-'}</td>
                                             <td className="border border-gray-900 p-1 text-center font-bold bg-gray-50 print:bg-gray-50">{r['Total'] ?? '-'}</td>
                                             <td className="border border-gray-900 p-1 text-center font-bold">{r['Status']}</td>
